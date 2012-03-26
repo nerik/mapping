@@ -34,7 +34,7 @@ Mbera area    |
 [Ouagadougou](http://smit1678.github.com/compare-map/#12.373706441977669,-1.5432357788085938,12) | Yes |
 
 **Top places in Niger**    
-**Name** | **Traceable from imagery?** | **Lat Long** |
+**Name** | **Traceable from imagery?** | **Lat Long** 
 --- | --- | --- 
 [Zinder](http://smit1678.github.com/compare-map/#13.792905546782213,8.945960998535156,12)  | |
 [Diffa](http://smit1678.github.com/compare-map/#13.334588374829778,12.612133026123047,13)  | |
