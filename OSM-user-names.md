@@ -1,0 +1,8 @@
+- [tmcw](http://www.openstreetmap.org/user/tmcw)
+- [ian29](http://www.openstreetmap.org/user/ian29)
+- [Dan Wood](http://www.openstreetmap.org/user/Dan%20Wood)
+- [lxbarth](http://www.openstreetmap.org/user/lxbarth)
+- [juey](http://www.openstreetmap.org/user/juey)
+- [Rub21](http://www.openstreetmap.org/user/Rub21)
+- [Chad Lawlis](http://www.openstreetmap.org/user/Chad%20Lawlis)
+- [mayar](http://www.openstreetmap.org/user/mayar)
