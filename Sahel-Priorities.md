@@ -8,8 +8,8 @@
 --- | --- | ---
 Mbera area    |
 [Nema](http://smit1678.github.com/compare-map/#16.634218156697948,-7.2894287109375,10)           | No | 
-[Kiffa](http://smit1678.github.com/compare-map/#16.5684158228002,-11.3323974609375,10)           | | 
-[Tidjikdja](http://smit1678.github.com/compare-map/#18.458116799979834,-11.479339599609375,10)   | |
+[Kiffa](http://smit1678.github.com/compare-map/#16.5684158228002,-11.3323974609375,10)           | No| 
+[Tidjikdja](http://smit1678.github.com/compare-map/#18.458116799979834,-11.479339599609375,10)   | No|
 [Selibaby](http://smit1678.github.com/compare-map/#15.177849598960828,-12.231903076171875,11)    | |
 
 **Top places in Mali**  
