@@ -33,10 +33,12 @@ Mbera area    |
 [Ouahigouya](http://smit1678.github.com/compare-map/#12.373706441977669,-1.5432357788085938,12)  |
 [Ouagadougou](http://smit1678.github.com/compare-map/#13.56765386529802,-2.4145889282226562,13)  | 
 
-**Top places in Niger**     
-1. [Zinder](http://smit1678.github.com/compare-map/#13.792905546782213,8.945960998535156,12)  
-2. [Diffa](http://smit1678.github.com/compare-map/#13.334588374829778,12.612133026123047,13)  
-3. [Maradi](http://smit1678.github.com/compare-map/#13.53886688689105,7.1006011962890625,11)  
-4. [Tahoua](http://smit1678.github.com/compare-map/#14.875944073464613,5.273094177246094,12)  
-5. [Niamey](http://smit1678.github.com/compare-map/#13.521676479105523,2.110748291015625,12)  
-6. [Agadez](http://smit1678.github.com/compare-map/#16.94302128350981,7.936592102050781,12)  
+**Top places in Niger**    
+**Name** | **Traceable from imagery?** | **Lat Long** |
+--- | --- | --- 
+1. [Zinder](http://smit1678.github.com/compare-map/#13.792905546782213,8.945960998535156,12)  | |
+2. [Diffa](http://smit1678.github.com/compare-map/#13.334588374829778,12.612133026123047,13)  | |
+3. [Maradi](http://smit1678.github.com/compare-map/#13.53886688689105,7.1006011962890625,11)  | |
+4. [Tahoua](http://smit1678.github.com/compare-map/#14.875944073464613,5.273094177246094,12)  | |
+5. [Niamey](http://smit1678.github.com/compare-map/#13.521676479105523,2.110748291015625,12)  | |
+6. [Agadez](http://smit1678.github.com/compare-map/#16.94302128350981,7.936592102050781,12)   | |
