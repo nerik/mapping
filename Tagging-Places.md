@@ -1,4 +1,4 @@
-Here is what you need to know about tagging places, condensed from various pages on the OSM wiki and postings to the mailing list.
+Here is a quick-intro to what you need to know about tagging places, condensed from various pages on the OSM wiki and postings to the mailing list. For further information consult [taginfo](http://taginfo.openstreetmap.org/).
 
 Top-level places:
 
