@@ -37,7 +37,7 @@ Mbera area    |
    
 **Name** | **Traceable from imagery?** | **Lat Long** 
 --- | --- | --- 
-[Zinder](http://smit1678.github.com/compare-map/#13.792905546782213,8.945960998535156,12)  | |
+[Zinder](http://smit1678.github.com/compare-map/#13.792905546782213,8.945960998535156,12)  | | 13.792905546782213,8.945960998535156,12
 [Diffa](http://smit1678.github.com/compare-map/#13.334588374829778,12.612133026123047,13)  | |
 [Maradi](http://smit1678.github.com/compare-map/#13.53886688689105,7.1006011962890625,11)  | |
 [Tahoua](http://smit1678.github.com/compare-map/#14.875944073464613,5.273094177246094,12)  | |
