@@ -1,4 +1,3 @@
-
 **Regional priorities**  
 1. Roads  
 2. Towns  
@@ -14,6 +13,7 @@ Mbera area    |
 [Selibaby](http://smit1678.github.com/compare-map/#15.177849598960828,-12.231903076171875,11)    | 
 
 **Top places in Mali**  
+
 **Name** | **Traceable from imagery?** |
 --- | ---
 [Bamko](http://smit1678.github.com/compare-map/#12.619902391202384,-7.998046875,11)             |
@@ -24,6 +24,7 @@ Mbera area    |
 [Nara](http://smit1678.github.com/compare-map/#15.204190033570118,-7.2784423828125,12)          |
 
 **Top places in Burkina Faso**  
+
 **Name** | **Traceable from imagery?** |
 --- | ---
 [Djibo](http://smit1678.github.com/compare-map/#14.050165065351221,-0.061798095703125,12)        |
