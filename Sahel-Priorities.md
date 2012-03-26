@@ -30,8 +30,8 @@ Mbera area    |
 [Djibo](http://smit1678.github.com/compare-map/#14.050165065351221,-0.061798095703125,12)        |
 [Gorom-Gorom](http://smit1678.github.com/compare-map/#14.429526639732291,-0.245819091796875,12)  |  
 [Dori](http://smit1678.github.com/compare-map/#14.085882077197535,-1.63421630859375,13)          |
-[Ouahigouya](http://smit1678.github.com/compare-map/#13.56765386529802,-2.4145889282226562,13)   |
-[Ouagadougou](http://smit1678.github.com/compare-map/#12.373706441977669,-1.5432357788085938,12) | 
+[Ouahigouya](http://smit1678.github.com/compare-map/#12.373706441977669,-1.5432357788085938,12)  |
+[Ouagadougou](http://smit1678.github.com/compare-map/#13.56765386529802,-2.4145889282226562,13)  | 
 
 **Top places in Niger**     
 1. [Zinder](http://smit1678.github.com/compare-map/#13.792905546782213,8.945960998535156,12)  
