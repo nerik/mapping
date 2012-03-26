@@ -4,8 +4,8 @@
 
 **Top places in Mauritania**  
 
-**Name** | **Traceable from imagery?** |
---- | ---
+**Name** | **Traceable from imagery?** | **Lat Long** 
+--- | --- | ---
 Mbera area    |
 [Nema](http://smit1678.github.com/compare-map/#16.634218156697948,-7.2894287109375,10)           | No
 [Kiffa](http://smit1678.github.com/compare-map/#16.5684158228002,-11.3323974609375,10)           |
@@ -14,8 +14,8 @@ Mbera area    |
 
 **Top places in Mali**  
 
-**Name** | **Traceable from imagery?** |
---- | ---
+**Name** | **Traceable from imagery?** | **Lat Long** 
+--- | --- | ---
 [Bamako](http://smit1678.github.com/compare-map/#12.619902391202384,-7.998046875,11)             |Yes
 [Gao](http://smit1678.github.com/compare-map/#16.26296475168935,-0.05218505859375,12)           |No
 [Mopti](http://smit1678.github.com/compare-map/#14.499256024226487,-4.219951629638672,13)       |No
@@ -25,8 +25,8 @@ Mbera area    |
 
 **Top places in Burkina Faso**  
 
-**Name** | **Traceable from imagery?** |
---- | ---
+**Name** | **Traceable from imagery?** | **Lat Long** 
+--- | --- | ---
 [Djibo](http://smit1678.github.com/compare-map/#14.050165065351221,-0.061798095703125,12)        |
 [Gorom-Gorom](http://smit1678.github.com/compare-map/#14.429526639732291,-0.245819091796875,12)  |  
 [Dori](http://smit1678.github.com/compare-map/#14.085882077197535,-1.63421630859375,13)          |
