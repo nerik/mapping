@@ -22,9 +22,9 @@ We will focus on high impact places where either major trade happens, humanitari
 6. [Nara](http://smit1678.github.com/compare-map/#15.204190033570118,-7.2784423828125,12)    
 
 **Top places in Burkina Faso**  
-1. [Djibo](http://smit1678.github.com/compare-map/#14.050165065351221,-0.061798095703125,12)  
+1. [Djibo](http://smit1678.github.com/compare-map/#14.085882077197535,-1.63421630859375,13)  
 2. [Gorom-Gorom](http://smit1678.github.com/compare-map/#14.429526639732291,-0.245819091796875,12)    
-3. [Dori](http://smit1678.github.com/compare-map/#14.085882077197535,-1.63421630859375,13)   
+3. [Dori](http://smit1678.github.com/compare-map/#14.050165065351221,-0.061798095703125,12)   
 4. [Ouahigouya](http://smit1678.github.com/compare-map/#13.56765386529802,-2.4145889282226562,13)  
 5. [Ouagadougou](http://smit1678.github.com/compare-map/#12.373706441977669,-1.5432357788085938,12)  
 
