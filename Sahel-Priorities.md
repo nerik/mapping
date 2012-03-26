@@ -1,32 +1,36 @@
-OSM data in the Sahel varies widely across the region. Some areas have better coverage than Google, while others do not. In general, OSM is lacking significantly on roads and town locations. The main countries we are focusing on in the region will be: Mauritania, Mali, Burkina Faso, Niger, and Chad.  
-
-We will focus on high impact places where either major trade happens, humanitarian operations are centralized, or are major towns.  
 
 **Regional priorities**  
 1. Roads  
 2. Towns  
 
 **Top places in Mauritania**  
-1. Mbera area    
-2. [Nema](http://smit1678.github.com/compare-map/#16.634218156697948,-7.2894287109375,10)    
-3. [Kiffa](http://smit1678.github.com/compare-map/#16.5684158228002,-11.3323974609375,10)    
-4. [Tidjikdja](http://smit1678.github.com/compare-map/#18.458116799979834,-11.479339599609375,10)    
-5. [Selibaby](http://smit1678.github.com/compare-map/#15.177849598960828,-12.231903076171875,11)     
+
+**Name** | **Traceable from imagery?** |
+--- | ---
+Mbera area    |
+[Nema](http://smit1678.github.com/compare-map/#16.634218156697948,-7.2894287109375,10)           |
+[Kiffa](http://smit1678.github.com/compare-map/#16.5684158228002,-11.3323974609375,10)           |
+[Tidjikdja](http://smit1678.github.com/compare-map/#18.458116799979834,-11.479339599609375,10)   | 
+[Selibaby](http://smit1678.github.com/compare-map/#15.177849598960828,-12.231903076171875,11)    | 
 
 **Top places in Mali**  
-1. [Bamko](http://smit1678.github.com/compare-map/#12.619902391202384,-7.998046875,11)   
-2. [Gao](http://smit1678.github.com/compare-map/#16.26296475168935,-0.05218505859375,12)  
-3. [Mopti](http://smit1678.github.com/compare-map/#14.499256024226487,-4.219951629638672,13)  
-4. [Kidal](http://smit1678.github.com/compare-map/#18.43450478075634,1.410369873046875,12)  
-5. [Timbuktu](http://smit1678.github.com/compare-map/#16.71282233768074,-3.01025390625,11)  
-6. [Nara](http://smit1678.github.com/compare-map/#15.204190033570118,-7.2784423828125,12)    
+**Name** | **Traceable from imagery?** |
+--- | ---
+[Bamko](http://smit1678.github.com/compare-map/#12.619902391202384,-7.998046875,11)             |
+[Gao](http://smit1678.github.com/compare-map/#16.26296475168935,-0.05218505859375,12)           |
+[Mopti](http://smit1678.github.com/compare-map/#14.499256024226487,-4.219951629638672,13)       |
+[Kidal](http://smit1678.github.com/compare-map/#18.43450478075634,1.410369873046875,12)         |
+[Timbuktu](http://smit1678.github.com/compare-map/#16.71282233768074,-3.01025390625,11)         |
+[Nara](http://smit1678.github.com/compare-map/#15.204190033570118,-7.2784423828125,12)          |
 
 **Top places in Burkina Faso**  
-1. [Djibo](http://smit1678.github.com/compare-map/#14.085882077197535,-1.63421630859375,13)  
-2. [Gorom-Gorom](http://smit1678.github.com/compare-map/#14.429526639732291,-0.245819091796875,12)    
-3. [Dori](http://smit1678.github.com/compare-map/#14.050165065351221,-0.061798095703125,12)   
-4. [Ouahigouya](http://smit1678.github.com/compare-map/#13.56765386529802,-2.4145889282226562,13)  
-5. [Ouagadougou](http://smit1678.github.com/compare-map/#12.373706441977669,-1.5432357788085938,12)  
+**Name** | **Traceable from imagery?** |
+--- | ---
+[Djibo](http://smit1678.github.com/compare-map/#14.050165065351221,-0.061798095703125,12)        |
+[Gorom-Gorom](http://smit1678.github.com/compare-map/#14.429526639732291,-0.245819091796875,12)  |  
+[Dori](http://smit1678.github.com/compare-map/#14.085882077197535,-1.63421630859375,13)          |
+[Ouahigouya](http://smit1678.github.com/compare-map/#13.56765386529802,-2.4145889282226562,13)   |
+[Ouagadougou](http://smit1678.github.com/compare-map/#12.373706441977669,-1.5432357788085938,12) | 
 
 **Top places in Niger**     
 1. [Zinder](http://smit1678.github.com/compare-map/#13.792905546782213,8.945960998535156,12)  
