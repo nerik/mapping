@@ -16,7 +16,7 @@ Mbera area    |
 
 **Name** | **Traceable from imagery?** | **Lat Long** 
 --- | --- | ---
-[Bamako](http://smit1678.github.com/compare-map/#12.619902391202384,-7.998046875,11)             |Yes |
+[Bamako](http://smit1678.github.com/compare-map/#12.619902391202384,-7.998046875,11)             |Yes |12.619902391202384,-7.998046875
 [Gao](http://smit1678.github.com/compare-map/#16.26296475168935,-0.05218505859375,12)           |No |
 [Mopti](http://smit1678.github.com/compare-map/#14.499256024226487,-4.219951629638672,13)       |No | 
 [Kidal](http://smit1678.github.com/compare-map/#18.43450478075634,1.410369873046875,12)         |No |
