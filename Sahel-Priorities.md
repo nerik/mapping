@@ -20,8 +20,8 @@ Mbera area    |
 [Gao](http://smit1678.github.com/compare-map/#16.26296475168935,-0.05218505859375,12)           |No |
 [Mopti](http://smit1678.github.com/compare-map/#14.499256024226487,-4.219951629638672,13)       |No | 
 [Kidal](http://smit1678.github.com/compare-map/#18.43450478075634,1.410369873046875,12)         |No |
-[Timbuktu](http://smit1678.github.com/compare-map/#16.71282233768074,-3.01025390625,11)         | |
-[Nara](http://smit1678.github.com/compare-map/#15.204190033570118,-7.2784423828125,12)          | |
+[Timbuktu](http://smit1678.github.com/compare-map/#16.71282233768074,-3.01025390625,11)         |No |
+[Nara](http://smit1678.github.com/compare-map/#15.204190033570118,-7.2784423828125,12)          |No |
 
 **Top places in Burkina Faso**  
 
