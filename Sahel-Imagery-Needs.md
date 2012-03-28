@@ -1,4 +1,8 @@
-Images for all of these cities do not exist at high enough resolution to trace from Bing imagery. The highest resolution Bing imagery for the Sahel region of Afria was taken March 1, 2001. These are images obtained from the [Geoeye Geofuse imagery catalog](http://geofuse.geoeye.com/maps/Map.aspx).  
+There is a need to obtain satellite imagery for the Sahel region. Images for all of these cities do not exist at high enough resolution to trace from Bing imagery. The highest resolution Bing imagery for the Sahel region of Afria was taken March 1, 2001.  
+
+The locations below mark priority areas for current activities being implemented in the region. These include: humanitarian aid entry/exit points, trade corridors, known refugee or IDP locations, or major cities. 
+
+Image identifiers obtained from the [Geoeye Geofuse imagery catalog](http://geofuse.geoeye.com/maps/Map.aspx).  
 
 **Name** | **Collection Date** | **Cloud Cover** | **Ground Sample Distance** | **Ordering identifier** |
 --- | --- | --- | --- | --- |
