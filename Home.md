@@ -2,5 +2,6 @@ Welcome to the mapping wiki!
 
 ## Resources
 - [Sahel Priorities](https://github.com/mapbox/mapping/wiki/Sahel-Priorities)
+- [Sahel Imagery Needs](https://github.com/mapbox/mapping/wiki/Sahel-Imagery-Needs)
 - [OSM User Names](https://github.com/mapbox/mapping/wiki/OSM-user-names)
 - [Tagging Places](https://github.com/mapbox/mapping/wiki/Tagging-Places)
