@@ -30,7 +30,7 @@ List of all Sahel cities, with lat long, and before and after shots. If there is
 ### Cities without imagery
 **Name** | **Traceable from Bing?** | **Before** | **After** | **Ticket** 
 --- | --- | --- | --- | ---
-Mbera area, Mauritania*| No | |
+[Mbera area, Mauritania]*| No | |
 [Nema, Mauritania]|No|
 [Kiffa, Mauritania] |No|
 [Tidjikdja, Mauritania] |No|
@@ -59,6 +59,7 @@ Mbera area, Mauritania*| No | |
 [3]:https://github.com/mapbox/mapping/issues/3
 [4]:https://github.com/mapbox/mapping/issues/4
 [5]:https://github.com/mapbox/mapping/issues/5
+[Mbera, Mauritania]:http://www.openstreetmap.org/?lat=15.6306&lon=-5.6554&zoom=12&layers=M
 [Nema, Mauritania]:http://www.openstreetmap.org/?lat=16.6162&lon=-7.2535&zoom=12&layers=M        
 [Kiffa, Mauritania]:http://www.openstreetmap.org/?lat=16.62104&lon=-11.39983&zoom=15&layers=M        
 [Tidjikdja, Mauritania]:http://www.openstreetmap.org/?lat=18.5564&lon=-11.4271&zoom=12&layers=M
