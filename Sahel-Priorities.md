@@ -67,7 +67,7 @@ List of all Sahel cities, with lat long, and before and after shots. If there is
 [Bamako, Mali]:http://www.openstreetmap.org/?lat=12.65093&lon=-7.99983&zoom=15&layers=M       
 [Gao, Mali]:http://www.openstreetmap.org/?lat=16.2717&lon=-0.0447&zoom=12&layers=M     
 [Mopti, Mali]:http://www.openstreetmap.org/?lat=14.493&lon=-4.1942&zoom=12&layers=M  
-[Kidal, Mali]:http://smit1678.github.com/compare-map/#18.43450478075634,1.410369873046875,12    
+[Kidal, Mali]:http://www.openstreetmap.org/?lat=15.6306&lon=-5.6554&zoom=12&layers=M    
 [Timbuktu, Mali]: http://www.openstreetmap.org/?lat=16.7735&lon=-3.0074&zoom=12&layers=M   
 [Nara, Mali]:http://www.openstreetmap.org/?lat=15.1688&lon=-7.2847&zoom=12&layers=M     
 [Djibo, Burkina Faso]:http://www.openstreetmap.org/?lat=14.1022&lon=-1.6306&zoom=12&layers=M        
