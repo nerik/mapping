@@ -30,29 +30,3 @@ Kidal, Mali | 18-FEB-2012 | Sunny (0%) | 0.5 | 2012021810380761603031601225 (113
 Nara, Mali | 5-FEB-2011 | Sunny (0%) | 0.43 | 2011020511064381603031609475 (1022877) |
 
 *Contains entire city, whereas other is higher resolution but only part of city.
-
-Nema, Mauritania
-Kiffa, Mauritania
-Tidjikdja, Mauritania
-Selibaby, Mauritania
-Bamako, Mali
-Gao, Mali
-Mopti, Mali
-Kidal, Mali
-Timbuktu, Mali
-Nara, Mali
-Djibo, Burkina Faso
-Gorom-Gorom, Burkina Faso
-Dori, Burkina Faso
-Ouahigouya, Burkina Faso
-Ouagadougou, Burkina Faso
-Zinder, Niger
-Diffa, Niger
-Maradi, Niger
-Tahoua, Niger
-Niamey, Niger
-Agadez, Niger
-N'Djemena, Chad
-Abeche, Chad
-Mongo, Chad
-Ati, Chad
