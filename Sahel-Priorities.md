@@ -8,7 +8,7 @@ List of all Sahel cities, with lat long, and before and after shots. If there is
  - Before and After images should be with [mapshot](http://mapbox.com/mapshot/#13/12.0854/375.0366)
  - After Close ups should be with mapshot and highlighted in inkscape. 
 
-## Cities with imagery
+### Cities with imagery
 **Name** | **Traceable from Bing?** | **Before** | **After** | **Ticket** | **Before Close Up** | **After Close Up** |
 --- | --- | --- | --- | --- | --- | --- |
 [Bamako, Mali] |Yes|[Bamako Before](http://dl.dropbox.com/u/24683141/Bamako%20Zoom%20Out%20Before.png) |[Bamako After](http://dl.dropbox.com/u/24683141/Bamako%20After.png)| [1] | [Bamako Before][BamakoCloseUpBefore] | [Bamako After][BamakoCloseUpAfter]
@@ -27,7 +27,7 @@ List of all Sahel cities, with lat long, and before and after shots. If there is
 [NiameyAfter1]: http://dl.dropbox.com/u/26623888/niameycloseafter.png
 [After-1]:http://dl.dropbox.com/u/26623888/OuaAfterSmallSouth.png
 
-## Cities without imagery
+### Cities without imagery
 **Name** | **Traceable from Bing?** | **Before** | **After** | **Ticket** 
 --- | --- | --- | --- | ---
 Mbera area, Mauritania*| No | |
