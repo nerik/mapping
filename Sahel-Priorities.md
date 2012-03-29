@@ -1,54 +1,86 @@
-**Regional priorities**  
+## Regional priorities  
 1. Roads  
 2. Towns  
 
-**Top places in Mauritania**  
+## Priority Cities  
+List of all Sahel cities, with lat long, and before and after shots. If there is no traceable imagery in JOSM, add the city to [this wiki](https://github.com/mapbox/mapping/wiki/Sahel-Imagery-Needs) and use [GeoEye's map catalog](http://geofuse.geoeye.com/maps/Map.aspx#) to enter information about potential imagery we can access. 
 
-**Name** | **Traceable from imagery?** | **Lat Long** |
---- | --- | ---
-Mbera area    | No | Somewhere in SE corner of country. From [this map](http://tiles.mapbox.com/unhcr/map/malibase)
-Nema          |No|16.634218156697948, -7.2894287109375 
-Kiffa] |No|16.5684158228002, -11.332397460937 
-Tidjikdja |No|18.458116799979834, -11.479339599609375
-Selibaby   |No |15.177849598960828, -12.231903076171875
+ - Before and After images should be with [mapshot](http://mapbox.com/mapshot/#13/12.0854/375.0366)
+ - After Close ups should be with mapshot and highlighted in inkscape. 
 
-**Top places in Mali**  
+## Cities with imagery
+**Name** | **Traceable from Bing?** | **Before** | **After** | **Ticket** | **Before Close Up** | **After Close Up** |
+--- | --- | --- | --- | --- | --- | --- |
+[Bamako, Mali] |Yes|[Bamako Before](http://dl.dropbox.com/u/24683141/Bamako%20Zoom%20Out%20Before.png) |[Bamako After](http://dl.dropbox.com/u/24683141/Bamako%20After.png)| [1] | [Bamako Before][BamakoCloseUpBefore] | [Bamako After][BamakoCloseUpAfter]
+[N'Djamena, Chad] | Yes | [N'Djamena](http://dl.dropbox.com/u/26623888/n%27damenaBefore.png) | [N'Djamena](http://dl.dropbox.com/u/26623888/N%27dAfter.png) | [5] |[Kousseri Before] |  [Kousseri After] |
+[Ouagadougou, Burkina Faso] | Yes | [Ouagadougou](http://dl.dropbox.com/u/56438767/sahel-sprint/Ouagadougou-osm-before-2.png) | [Ouagadougou](http://dl.dropbox.com/u/26623888/ougaAfterLarge.png) | [2] | [Before-1][BurkCloseBeforeOne], [Before-2](https://img.skitch.com/20120329-xgnrqp94n8j7uux1kdh3kf6ryb.jpg) | [After-1], [After-2](http://dl.dropbox.com/u/56438767/sahel-sprint/chad-ouga-osm-specific-after.png)
+[Niamey, Niger] |Yes | [Niamey](http://dl.dropbox.com/u/26623888/Niameybefore.png) | [Niamey](http://dl.dropbox.com/u/26623888/NiameyAfter.png) | [4] | [Before][NiameyBefore1]  | [After][NiameyAfter1]
+[Timbuktu, Mali] | Yes |[Timbuktu](http://dl.dropbox.com/u/24683141/TImbuktu.png)|[Timbuktu](http://dl.dropbox.com/u/26623888/timbuktuAftr.png) | [3]
 
-**Name** | **Traceable from imagery?** | **Lat Long** 
---- | --- | ---
-Bamako         |Yes |12.619902391202384, -7.998046875
-Gao        |No |16.26296475168935, -0.05218505859375
-Mopti       |No|14.499256024226487, -4.219951629638672 
-Kidal        | No |18.43450478075634, 1.410369873046875
-Timbuktu | Yes |16.71282233768074, -3.01025390625
-Nara        |No|15.204190033570118, -7.2784423828125
+[Kousseri Before]:https://img.skitch.com/20120328-dq5ddkappe5tufjjb3gae5t45t.jpg
+[Kousseri After]:http://dl.dropbox.com/u/26623888/KousseriAfter.png
+[BurkCloseBeforeOne]:https://img.skitch.com/20120328-fymc98f14xkf8bccrjbwncxe8e.jpg
+[BurkCloseBeforeTwo]:https://img.skitch.com/20120328-b3har5r2wrig2x26uqb454y8hy.jpg
+[BamakoCloseUpBefore]:http://dl.dropbox.com/u/24683141/near%20airport%20before.png
+[BamakoCloseUpAfter]:http://dl.dropbox.com/u/24683141/near%20airport%20after.pdf
+[NiameyBefore1]:http://img.skitch.com/20120328-91997weycacfr2g5fs47cdn5u.jpg
+[NiameyAfter1]: http://dl.dropbox.com/u/26623888/niameycloseafter.png
+[After-1]:http://dl.dropbox.com/u/26623888/OuaAfterSmallSouth.png
 
-**Top places in Burkina Faso**  
+## Cities without imagery
+**Name** | **Traceable from Bing?** | **Before** | **After** | **Ticket** 
+--- | --- | --- | --- | ---
+Mbera area, Mauritania*| No | |
+[Nema, Mauritania]|No|
+[Kiffa, Mauritania] |No|
+[Tidjikdja, Mauritania] |No|
+[Selibaby, Mauritania] |No |
+[Gao, Mali] |No |
+[Mopti, Mali]  |No|
+[Kidal, Mali] | No |
+[Nara, Mali] |No|
+[Djibo, Burkina Faso] | No |
+[Gorom-Gorom, Burkina Faso] | No |
+[Dori, Burkina Faso] | No |
+[Ouahigouya, Burkina Faso] | No |
+[Zinder, Niger] | No |
+[Diffa, Niger]  |No |
+[Maradi, Niger] |No |
+[Tahoua, Niger] |No |
+[Agadez, Niger] |No |
+[Abeche, Chad] | No | | 
+[Mongo, Chad] | No | | 
+[Ati, Chad] | No | | | 
 
-**Name** | **Traceable from imagery?** | **Lat Long** 
---- | --- | --- 
-Djibo         | No |14.085882077197535, -1.63421630859375
-Gorom-Gorom  | No |14.429526639732291, -0.245819091796875
-Dori         | No |14.050165065351221, -0.061798095703125
-Ouahigouya   | No |13.56765386529802, -2.4145889282226562
-Ouagadougou | Yes |  12.373706441977669, -1.5432357788085938
+*Somewhere in SE corner of country. From [this map](http://tiles.mapbox.com/unhcr/map/malibase) 
 
-**Top places in Niger** 
-   
-**Name** | **Traceable from imagery?** | **Lat Long** 
---- | --- | --- 
-Zinder  | No |13.792905546782213, 8.945960998535156 
-Diffa  |No |13.334588374829778, 12.612133026123047 
-Maradi  |No |13.53886688689105, 7.1006011962890625
-Tahoua  |No |14.875944073464613, 5.273094177246094
-Niamey  |Yes |13.521676479105523, 2.110748291015625
-Agadez   |No |16.94302128350981, 7.936592102050781
-
-**Top places in Chad**
-
-**Name** | **Traceable from imagery** 
---- | --- 
-N'Djemena | Yes |
-Abeche | No |
-Mongo | No |
-Ati | No |
+[1]:https://github.com/mapbox/mapping/issues/1
+[2]:https://github.com/mapbox/mapping/issues/2
+[3]:https://github.com/mapbox/mapping/issues/3
+[4]:https://github.com/mapbox/mapping/issues/4
+[5]:https://github.com/mapbox/mapping/issues/5
+[Nema, Mauritania]:http://www.openstreetmap.org/?lat=16.6162&lon=-7.2535&zoom=12&layers=M        
+[Kiffa, Mauritania]:http://www.openstreetmap.org/?lat=16.62104&lon=-11.39983&zoom=15&layers=M        
+[Tidjikdja, Mauritania]:http://www.openstreetmap.org/?lat=18.5564&lon=-11.4271&zoom=12&layers=M
+[Selibaby, Mauritania]:http://www.openstreetmap.org/?lat=15.159&lon=-12.1829&zoom=12&layers=M 
+[Bamako, Mali]:http://www.openstreetmap.org/?lat=12.65093&lon=-7.99983&zoom=15&layers=M       
+[Gao, Mali]:http://www.openstreetmap.org/?lat=16.2717&lon=-0.0447&zoom=12&layers=M     
+[Mopti, Mali]:http://www.openstreetmap.org/?lat=14.493&lon=-4.1942&zoom=12&layers=M  
+[Kidal, Mali]:http://smit1678.github.com/compare-map/#18.43450478075634,1.410369873046875,12    
+[Timbuktu, Mali]: http://www.openstreetmap.org/?lat=16.7735&lon=-3.0074&zoom=12&layers=M   
+[Nara, Mali]:http://www.openstreetmap.org/?lat=15.1688&lon=-7.2847&zoom=12&layers=M     
+[Djibo, Burkina Faso]:http://www.openstreetmap.org/?lat=14.1022&lon=-1.6306&zoom=12&layers=M        
+[Gorom-Gorom, Burkina Faso]:http://www.openstreetmap.org/?lat=14.4439&lon=-0.2361&zoom=12&layers=M 
+[Dori, Burkina Faso]:http://www.openstreetmap.org/?lat=14.0354&lon=-0.0345&zoom=12&layers=M        
+[Ouahigouya, Burkina Faso]:http://www.openstreetmap.org/?lat=13.5828&lon=-2.4216&zoom=12&layers=M 
+[Ouagadougou, Burkina Faso]:http://www.openstreetmap.org/?lat=12.3642&lon=-1.5383&zoom=12&layers=M
+[Zinder, Niger]:http://www.openstreetmap.org/?lat=13.807&lon=8.988&zoom=12&layers=M 
+[Diffa, Niger]: http://www.openstreetmap.org/?lat=13.3154&lon=12.6113&zoom=12&layers=M
+[Maradi, Niger]:http://www.openstreetmap.org/?lat=13.5&lon=7.1017&zoom=12&layers=M
+[Tahoua, Niger]:http://www.openstreetmap.org/?lat=14.8888&lon=5.2692&zoom=12&layers=M
+[Niamey, Niger]:http://www.openstreetmap.org/?lat=13.5137&lon=2.1098&zoom=12&layers=M
+[Agadez, Niger]:http://www.openstreetmap.org/?lat=13.215&lon=18.335&zoom=12&layers=M
+[N'Djamena, Chad]:http://www.openstreetmap.org/?lat=12.1067&lon=15.0444&zoom=12&layers=M
+[Abeche, Chad]:http://www.openstreetmap.org/?lat=13.8292&lon=20.8324&zoom=12&layers=M
+[Mongo, Chad]:http://www.openstreetmap.org/?lat=12.1844&lon=18.693&zoom=12&layers=M
+[Ati, Chad]:http://www.openstreetmap.org/?lat=13.215&lon=18.335&zoom=12&layers=M
