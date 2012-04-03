@@ -88,7 +88,7 @@ List of all Sahel cities, with lat long, and before and after shots. If there is
 
 ## Feedback
 
-Hey. I've started to map Ouagadougou in fall 2008 and have mapped most of the central parts of the city. Mainly from aerial photos, partly sur place. Together with friends we finance health-related projects in rural Burkina, so I know the city well. As soon as I find the time we will render the city in 300dpi, produce a print map in an appropriate style and give the PDF for free to local copyshops. There's no uptodate and affordable city map. 
+Hey. I've [started to map](http://www.helge.at/2008/10/der-erste-sein-der-eine-millionenstadt-kartografiert/) Ouagadougou in fall 2008 and have since mapped most of the central parts of the city. Mainly from aerial photos, partly sur place. Together with friends we finance health-related projects in rural Burkina, so I know the city well. As soon as I find the time we will render the city in 300dpi, produce a print map in an appropriate style and give the PDF for free to local copyshops. There's no uptodate and affordable city map. 
 
 But that's a different story. What I wanted to comment on is two things:
 
@@ -97,3 +97,5 @@ But that's a different story. What I wanted to comment on is two things:
  - Nevertheless the mapping you did is of great value. The quarters you mapped are mostly unofficial, illegal suburbs, where people flocking to the city have built adobe huts on land with unclear property situation. As the city grows at a tremendous speed, the authorities often caterpillar such quarters to create new, chessboard-shaped quarters with parcels to sell. Families inhabiting these quarters before - the West would call them "slums" but I don't think that does them justice - are simply chased away. Mapping these quarters gives them visibility. People might start to ask: where is that quarter gone? Especially the donors who paid for the caterpillars.. At least one can only hope that.
 
 So far, my 2 cents. I thought you might find the feedback useful. Great project!
+
+Helge, from [Toursprung.com](http://www.toursprung.com/)
