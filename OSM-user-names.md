@@ -6,3 +6,4 @@
 - [Rub21](http://www.openstreetmap.org/user/Rub21)
 - [Chad Lawlis](http://www.openstreetmap.org/user/Chad%20Lawlis)
 - [mayar](http://www.openstreetmap.org/user/mayar)
+- [j03lar50n](http://www.openstreetmap.org/user/j03lar50n)
