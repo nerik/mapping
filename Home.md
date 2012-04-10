@@ -5,3 +5,4 @@ This is the wiki page of the OpenStreetMap contribution work by MapBox. You are 
 - [Sahel Imagery Needs](https://github.com/mapbox/mapping/wiki/Sahel-Imagery-Needs)
 - [OSM User Names](https://github.com/mapbox/mapping/wiki/OSM-user-names)
 - [Tagging Places](https://github.com/mapbox/mapping/wiki/Tagging-Places)
+- [Tagging Road Surfaces](http://wiki.openstreetmap.org/wiki/Key:surface)
