@@ -14,6 +14,7 @@ Itaguai, Brazil | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-tra
 Istanbul, Turkey | Needs 1-2 hours more | | [
 Izmir, Turkey | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/izmir-final.png) | [16]
 Kuwait City, Kuwait | | | [53]
+Medan, Indonesia | Complete | | [] | Streets traced
 Monterrey, Mexico | Complete | [Needs updating](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/monterrey.png) | [63]
 Taquara, Brazil | | | [36]
 Sao Paulo - Rua Altinopolis, Brazil | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/sao-paulo-final.png) | [20]
