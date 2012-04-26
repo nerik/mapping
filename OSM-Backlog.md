@@ -7,8 +7,8 @@ See also the [Sahel Capital Cities](https://github.com/mapbox/mapping/wiki/Sahel
 Araraquara, Brazil | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/araraquara-final.png) | | Streets, Forests, parks traced; street names added |
 Bandung, Indonesia | | | [31] | Streets, Forests, parks traced
 Bangkok, Thailand | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/bangkok-2-final.png) | [25] | Streets, Forests, parks traced
-Brasilia, Brazil | Complete | | [11] [23] | Streets, buildings, forests traced. Still figuring out [walking paper data] | 
-Butterworth and George Town, Indonesia | Complete | Don't Create | [18] | Streets, parks, and forests traced
+Brasilia, Brazil | Complete | [Complete](http://i.imgur.com/xylfR.png) | [11] [23] | Streets, buildings, forests traced. Still figuring out [walking paper data] | 
+Butterworth and George Town, Indonesia | Complete | [Complete](http://i.imgur.com/cvzbF.png) | [18] | Streets, parks, and forests traced
 Campo Grande, Brazil | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/campo-grande-final.png) | | Entire city traced, streets, forests and parks.
 Caracas, Venezuela | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/caracas-final.png) | | streets, forests, and major buildings added
 Chennai, India | | | [10] |
@@ -20,7 +20,7 @@ Itaguai, Brazil | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-tra
 Istanbul, Turkey | Needs 1-2 hours more | Don't Create | [39]
 Izmir, Turkey | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/izmir-final.png) | [16]
 Kuwait City, Kuwait | | | [26]
-Medan, Indonesia | Complete | [Complete](https://a248.e.akamai.net/camo.github.com/53bcd2eebc58a873b18fd3216e69bceb50a677b6/687474703a2f2f692e696d6775722e636f6d2f6d517745512e706e67) | [32] | Streets traced
+Medan, Indonesia | Complete | [Complete](http://i.imgur.com/mQwEQ.png) | [32] | Streets traced
 Monterrey, Mexico | In Progress | [Needs updating](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/monterrey.png) | [35]
 Taquara, Brazil | Complete | Don't Create | | Too small for a node visualization 
 Sao Paulo - Rua Altinopolis, Brazil | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/sao-paulo-final.png) |
