@@ -1,4 +1,4 @@
-Here is a list of College campuses that we added building footprints to.
+Here is a list of College campuses with new building footprints. Also included are sources, and a list of major college campuses that have already been added onto OSM by others. 
 
 Sources:
 
