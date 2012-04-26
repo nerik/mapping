@@ -1,10 +1,10 @@
 
-
 **Cities** | **Status** | **Node Viz** | **Ticket** | **Actions Taken**
 --- | --- | --- | --- | --- 
 Araraquara, Brazil | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/araraquara-final.png) | | Streets, Forests, parks traced; street names added |
 Bandung, Indonesia | Complete | | [31] | Streets, Forests, parks traced
 Bangkok, Thailand | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/bangkok-2-final.png) | [25] | Streets, Forests, parks traced
+Brasilia, Brazil | Complete | | [11] [23] | Streets, buildings, forests traced. Still figuring out naming tags | 
 Campo Grande, Brazil | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/campo-grande-final.png) | | Entire city traced, streets, forests and parks.
 Caracas, Venezuela | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/caracas-final.png) | | streets, forests, and major buildings added
 Chennai, India | | | [10] |
@@ -21,6 +21,8 @@ Sao Paulo - Rua Altinopolis, Brazil | Complete | [Complete](http://dl.dropbox.co
 Ulaanbaatar, Mongolia | | | [35]
 
 [10]:https://github.com/mapbox/mapping/issues/10
+[11]:https://github.com/mapbox/mapping/issues/11
+[23]:https://github.com/mapbox/mapping/issues/23
 [25]:https://github.com/mapbox/mapping/issues/25
 [27]:https://github.com/mapbox/mapping/issues/27
 [31]:https://github.com/mapbox/mapping/issues/31
