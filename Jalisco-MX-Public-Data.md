@@ -1,4 +1,4 @@
-# Jalisco, MX Public Data
+# Jalisco MX Public Data
 
 All public data is listed below, including road data ````.osm```` files and their respective ````.py```` translation scripts for tagging in OSM.
 
