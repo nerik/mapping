@@ -7,7 +7,8 @@ Brasilia, Brazil | Complete | | [11] [23] | Streets, buildings, forests traced. 
 Campo Grande, Brazil | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/campo-grande-final.png) | | Entire city traced, streets, forests and parks.
 Caracas, Venezuela | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/caracas-final.png) | | streets, forests, and major buildings added
 Chennai, India | | | [10] |
-Ecatepec de Morelos, Mexico | In Progress | | [27]
+Ecatepec de Morelos, Mexico | In Progress | | [27] |
+Fortaleza, Brazil | Complete | | [12] | Streets, Forests, parks traced
 Fukui, Japan | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/fukui.png) | | Streets, parks, and POIs imported by user outside of Mapbox
 Guadlajara, Mexico | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/guad-final.png) | | Streets, Forests, parks traced. Jalisco Data import? 
 Itaguai, Brazil | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/itaguai-final.png) | | Streets, Forests, parks traced
@@ -22,6 +23,7 @@ Ulaanbaatar, Mongolia | | | [35]
 
 [10]:https://github.com/mapbox/mapping/issues/10
 [11]:https://github.com/mapbox/mapping/issues/11
+[12]:https://github.com/mapbox/mapping/issues/12
 [23]:https://github.com/mapbox/mapping/issues/23
 [25]:https://github.com/mapbox/mapping/issues/25
 [27]:https://github.com/mapbox/mapping/issues/27
