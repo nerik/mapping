@@ -19,11 +19,13 @@ Medan, Indonesia | Complete | | [] | Streets traced
 Monterrey, Mexico | Complete | [Needs updating](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/monterrey.png) | [63]
 Taquara, Brazil | | | [36]
 Sao Paulo - Rua Altinopolis, Brazil | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/sao-paulo-final.png) | [20]
+Surabaya, Indonesia | Complete | | [19] | Streets traced
 Ulaanbaatar, Mongolia | | | [35]
 
 [10]:https://github.com/mapbox/mapping/issues/10
 [11]:https://github.com/mapbox/mapping/issues/11
 [12]:https://github.com/mapbox/mapping/issues/12
+[19]:https://github.com/mapbox/mapping/issues/19
 [23]:https://github.com/mapbox/mapping/issues/23
 [25]:https://github.com/mapbox/mapping/issues/25
 [27]:https://github.com/mapbox/mapping/issues/27
