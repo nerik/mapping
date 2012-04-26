@@ -11,7 +11,7 @@ Ecatepec de Morelos, Mexico | In Progress | | [27]
 Fukui, Japan | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/fukui.png) | | Streets, parks, and POIs imported by user outside of Mapbox
 Guadlajara, Mexico | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/guad-final.png) | | Streets, Forests, parks traced. Jalisco Data import? 
 Itaguai, Brazil | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/itaguai-final.png) | | Streets, Forests, parks traced
-Istanbul, Turkey | Needs 1-2 hours more | | [
+Istanbul, Turkey | Needs 1-2 hours more | | [39]
 Izmir, Turkey | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/izmir-final.png) | [16]
 Kuwait City, Kuwait | | | [53]
 Medan, Indonesia | Complete | | [] | Streets traced
@@ -26,4 +26,6 @@ Ulaanbaatar, Mongolia | | | [35]
 [25]:https://github.com/mapbox/mapping/issues/25
 [27]:https://github.com/mapbox/mapping/issues/27
 [31]:https://github.com/mapbox/mapping/issues/31
+[39]:https://github.com/mapbox/mapping/issues/39
+
 [walking paper data]:https://github.com/mapbox/mapping/issues/38
