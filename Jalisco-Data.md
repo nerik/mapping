@@ -1,5 +1,7 @@
 # Jalisco Data
 
+All public data is listed below, including road data ````.osm```` files and their respective ````.py```` translation scripts for tagging in OSM.
+
 ## OSM Files
 
 - [````carretaras-2011.osm````](http://dl.dropbox.com/u/56438767/jalisco/carretara-2011.osm)
