@@ -15,9 +15,9 @@ Guadlajara, Mexico | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-
 Itaguai, Brazil | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/itaguai-final.png) | | Streets, Forests, parks traced
 Istanbul, Turkey | Needs 1-2 hours more | | [39]
 Izmir, Turkey | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/izmir-final.png) | [16]
-Kuwait City, Kuwait | | | [53]
+Kuwait City, Kuwait | | | [26]
 Medan, Indonesia | Complete | | [] | Streets traced
-Monterrey, Mexico | Complete | [Needs updating](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/monterrey.png) | [63]
+Monterrey, Mexico | In Progress | [Needs updating](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/monterrey.png) | [63]
 Taquara, Brazil | | | [36]
 Sao Paulo - Rua Altinopolis, Brazil | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/sao-paulo-final.png) | [20]
 Surabaya, Indonesia | Complete | | [19] | Streets traced
@@ -30,6 +30,7 @@ Ulaanbaatar, Mongolia | | | [35]
 [19]:https://github.com/mapbox/mapping/issues/19
 [23]:https://github.com/mapbox/mapping/issues/23
 [25]:https://github.com/mapbox/mapping/issues/25
+[26]:https://github.com/mapbox/mapping/issues/26
 [27]:https://github.com/mapbox/mapping/issues/27
 [31]:https://github.com/mapbox/mapping/issues/31
 [39]:https://github.com/mapbox/mapping/issues/39
