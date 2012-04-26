@@ -9,9 +9,9 @@ Caracas, Venezuela | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-
 Chennai, India | | | [10] |
 Ecatepec de Morelos, Mexico | In Progress | | [27]
 Fukui, Japan | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/fukui.png) | | Streets, parks, and POIs imported by user outside of Mapbox
-Guadlajara, Mexico | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/guad-final.png) | [23]
-Itaguai, Brazil | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/itaguai-final.png) | [13]
-Istanbul, Turkey | Needs 1-2 hours more | | [17]
+Guadlajara, Mexico | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/guad-final.png) | | Streets, Forests, parks traced. Jalisco Data import? 
+Itaguai, Brazil | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/itaguai-final.png) | | Streets, Forests, parks traced
+Istanbul, Turkey | Needs 1-2 hours more | | [
 Izmir, Turkey | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/izmir-final.png) | [16]
 Kuwait City, Kuwait | | | [53]
 Monterrey, Mexico | Complete | [Needs updating](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/monterrey.png) | [63]
