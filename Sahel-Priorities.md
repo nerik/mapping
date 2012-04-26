@@ -15,7 +15,7 @@ List of all Sahel cities, with lat long, and before and after shots. If there is
 [N'Djamena, Chad] | Yes | [N'Djamena](http://dl.dropbox.com/u/26623888/n%27damenaBefore.png) | [N'Djamena](http://dl.dropbox.com/u/26623888/N%27dAfter.png) | [5] |[Kousseri Before] |  [Kousseri After] |
 [Ouagadougou, Burkina Faso] | Yes | [Ouagadougou](http://dl.dropbox.com/u/56438767/sahel-sprint/Ouagadougou-osm-before-2.png) | [Ouagadougou](http://dl.dropbox.com/u/26623888/ougaAfterLarge.png) | [2] | [Before-1][BurkCloseBeforeOne], [Before-2](https://img.skitch.com/20120329-xgnrqp94n8j7uux1kdh3kf6ryb.jpg) | [After-1], [After-2](http://dl.dropbox.com/u/56438767/sahel-sprint/chad-ouga-osm-specific-after.png)
 [Niamey, Niger] |Yes | [Niamey](http://dl.dropbox.com/u/26623888/Niameybefore.png) | [Niamey](http://dl.dropbox.com/u/26623888/NiameyAfter.png) | [4] | [Before][NiameyBefore1]  | [After][NiameyAfter1]
-[Timbuktu, Mali] | Yes |[Timbuktu](http://dl.dropbox.com/u/24683141/TImbuktu.png)|[Timbuktu](http://dl.dropbox.com/u/26623888/timbuktuAftr.png) | [3]
+[Timbuktu, Mali] | Yes |[Timbuktu](http://dl.dropbox.com/u/24683141/TImbuktu.png)|[Timbuktu](https://a248.e.akamai.net/camo.github.com/5d4d5b0aa75e1de91b8199f1221ca55ec1f4f0a7/687474703a2f2f646c2e64726f70626f782e636f6d2f752f32363632333838382f74696d62756b4e6f6465736572742e706e67) | [3]
 
 [Kousseri Before]:https://img.skitch.com/20120328-dq5ddkappe5tufjjb3gae5t45t.jpg
 [Kousseri After]:http://dl.dropbox.com/u/26623888/KousseriAfter.png
