@@ -21,7 +21,7 @@ Monterrey, Mexico | In Progress | [Needs updating](http://dl.dropbox.com/u/56438
 Taquara, Brazil | Complete | | | Too small for a node visualization 
 Sao Paulo - Rua Altinopolis, Brazil | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/sao-paulo-final.png) |
 Surabaya, Indonesia | Complete | | [19] | Streets traced
-Ulaanbaatar, Mongolia | | | Small City, many buildings traced.
+Ulaanbaatar, Mongolia | | | | Small City, many buildings traced.
 
 [10]:https://github.com/mapbox/mapping/issues/10
 [11]:https://github.com/mapbox/mapping/issues/11
