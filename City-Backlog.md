@@ -4,6 +4,7 @@ Araraquara, Brazil | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-
 Bandung, Indonesia | Complete | | [31] | Streets, Forests, parks traced
 Bangkok, Thailand | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/bangkok-2-final.png) | [25] | Streets, Forests, parks traced
 Brasilia, Brazil | Complete | | [11] [23] | Streets, buildings, forests traced. Still figuring out [walking paper data] | 
+Butterworth and George Town, Indonesia | Complete | | [18] | Streets, parks, and forests traced
 Campo Grande, Brazil | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/campo-grande-final.png) | | Entire city traced, streets, forests and parks.
 Caracas, Venezuela | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/caracas-final.png) | | streets, forests, and major buildings added
 Chennai, India | | | [10] |
@@ -25,6 +26,7 @@ Ulaanbaatar, Mongolia | | | [35]
 [10]:https://github.com/mapbox/mapping/issues/10
 [11]:https://github.com/mapbox/mapping/issues/11
 [12]:https://github.com/mapbox/mapping/issues/12
+[18]:https://github.com/mapbox/mapping/issues/18
 [19]:https://github.com/mapbox/mapping/issues/19
 [23]:https://github.com/mapbox/mapping/issues/23
 [25]:https://github.com/mapbox/mapping/issues/25
