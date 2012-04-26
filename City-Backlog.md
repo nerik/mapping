@@ -1,3 +1,5 @@
+See also the [Sahel Capital Cities](https://github.com/mapbox/mapping/wiki/Sahel-Priorities) in this wiki.
+
 **Cities** | **Status** | **Node Viz** | **Ticket** | **Actions Taken**
 --- | --- | --- | --- | --- 
 Araraquara, Brazil | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/araraquara-final.png) | | Streets, Forests, parks traced; street names added |
