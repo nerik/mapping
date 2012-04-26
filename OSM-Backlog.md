@@ -1,4 +1,6 @@
-See also the [Sahel Capital Cities](https://github.com/mapbox/mapping/wiki/Sahel-Priorities) in this wiki.
+See also the [Sahel Capital Cities](https://github.com/mapbox/mapping/wiki/Sahel-Priorities) and [College Campuses](https://github.com/mapbox/mapping/wiki/College-Campuses) in this wiki. We've blogged about them too, check it out.
+ - [Sahel Blog Post](https://github.com/mapbox/mapping/wiki/Sahel-Priorities)
+ - [College Blog Post](http://mapbox.com/blog/open-mapping-college-campuses/)
 
 **Cities** | **Status** | **Node Viz** | **Ticket** | **Actions Taken**
 --- | --- | --- | --- | --- 
