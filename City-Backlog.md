@@ -18,7 +18,7 @@ Izmir, Turkey | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-traci
 Kuwait City, Kuwait | | | [26]
 Medan, Indonesia | Complete | [Complete](https://a248.e.akamai.net/camo.github.com/53bcd2eebc58a873b18fd3216e69bceb50a677b6/687474703a2f2f692e696d6775722e636f6d2f6d517745512e706e67) | [32] | Streets traced
 Monterrey, Mexico | In Progress | [Needs updating](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/monterrey.png) | [35]
-Taquara, Brazil | | | 
+Taquara, Brazil | Complete | | | Too small for a node visualization 
 Sao Paulo - Rua Altinopolis, Brazil | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/sao-paulo-final.png) |
 Surabaya, Indonesia | Complete | | [19] | Streets traced
 Ulaanbaatar, Mongolia | | | 
