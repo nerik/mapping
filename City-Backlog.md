@@ -3,7 +3,7 @@ See also the [Sahel Capital Cities](https://github.com/mapbox/mapping/wiki/Sahel
 **Cities** | **Status** | **Node Viz** | **Ticket** | **Actions Taken**
 --- | --- | --- | --- | --- 
 Araraquara, Brazil | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/araraquara-final.png) | | Streets, Forests, parks traced; street names added |
-Bandung, Indonesia | Complete | | [31] | Streets, Forests, parks traced
+Bandung, Indonesia | | | [31] | Streets, Forests, parks traced
 Bangkok, Thailand | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/bangkok-2-final.png) | [25] | Streets, Forests, parks traced
 Brasilia, Brazil | Complete | | [11] [23] | Streets, buildings, forests traced. Still figuring out [walking paper data] | 
 Butterworth and George Town, Indonesia | Complete | | [18] | Streets, parks, and forests traced
