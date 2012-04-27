@@ -24,7 +24,7 @@ Medan, Indonesia | Complete | [Complete](http://i.imgur.com/mQwEQ.png) | [32] | 
 Monterrey, Mexico | In Progress | [Needs updating](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/monterrey.png) | [35]
 Taquara, Brazil | Complete | Don't Create | | Too small for a node visualization 
 Sao Paulo - Rua Altinopolis, Brazil | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/sao-paulo-final.png) |
-Surabaya, Indonesia | Complete | | [19] | Streets traced
+Surabaya, Indonesia | Complete | [Complete](http://i.imgur.com/6sxqa.png) | [19] | Streets traced
 Ulaanbaatar, Mongolia | Complete | Don't Create |  | Small City, many buildings traced.
 
 [10]:https://github.com/mapbox/mapping/issues/10
