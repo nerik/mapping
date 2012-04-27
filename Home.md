@@ -1,6 +1,7 @@
 This is the wiki page of the OpenStreetMap contribution work by MapBox. You are invited to join us. We're documenting our work in these pages. You'll find priorities here, tools, docs, and other resources for our work.  
 
 ## Resources
+- [College Campuses](https://github.com/mapbox/mapping/wiki/College-Campuses)
 - [OSM Backlog](https://github.com/mapbox/mapping/wiki/OSM-Backlog)
 - [Sahel Priorities](https://github.com/mapbox/mapping/wiki/Sahel-Priorities)
 - [Sahel Imagery Needs](https://github.com/mapbox/mapping/wiki/Sahel-Imagery-Needs)
