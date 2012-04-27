@@ -13,7 +13,7 @@ Campo Grande, Brazil | Complete | [Complete](http://dl.dropbox.com/u/56438767/os
 Caracas, Venezuela | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/caracas-final.png) | | streets, forests, and major buildings added
 Chennai, India | | | [10] |
 Ecatepec de Morelos, Mexico | In Progress | | [27] |
-Fortaleza, Brazil | Complete | | [12] | Streets, Forests, parks traced
+Fortaleza, Brazil | Complete | [Complete](http://i.imgur.com/TZXTD.png) | [12] | Streets, Forests, parks traced
 Fukui, Japan | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/fukui.png) | | Streets, parks, and POIs imported by user outside of Mapbox
 Guadlajara, Mexico | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/guad-final.png) | | Streets, Forests, parks traced. Jalisco Data import? 
 Itaguai, Brazil | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/itaguai-final.png) | | Streets, Forests, parks traced
