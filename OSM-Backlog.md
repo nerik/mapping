@@ -2,7 +2,7 @@ See also the [Sahel Capital Cities](https://github.com/mapbox/mapping/wiki/Sahel
  - [Sahel Blog Post](https://github.com/mapbox/mapping/wiki/Sahel-Priorities)
  - [College Blog Post](http://mapbox.com/blog/open-mapping-college-campuses/)
 
-**Cities** | **Status** | **Node Viz** | **Ticket** | **Actions Taken**
+**Cities** | **Tracing status** | **Node Viz** | **Ticket** | **Actions Taken**
 --- | --- | --- | --- | --- 
 Araraquara, Brazil | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/araraquara-final.png) | | Streets, Forests, parks traced; street names added |
 Bandung, Indonesia | | | [31] | Streets, Forests, parks traced
