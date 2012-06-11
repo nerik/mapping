@@ -1,4 +1,7 @@
-Join us for the Almaty OpenStreetMap mapping party on **17 June 2012 at 1:00pm**. If you are an experience contributor or have never heard about the OpenStreetMap project, come join and learn how to map and use OpenStreetMap. 
+
+Join us for the Almaty OpenStreetMap mapping party on **17 June 2012 at 1:00pm**. 
+
+If you are an experience contributor or have never heard about the OpenStreetMap project, come join and learn how to map and use OpenStreetMap. 
 
 ******
 
