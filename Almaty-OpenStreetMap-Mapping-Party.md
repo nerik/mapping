@@ -1,4 +1,4 @@
-Join us for the Almaty OpenStreetMap mapping party on 17 June 2012 at 1:00pm. If you are an experience contributor or have never heard about the OpenStreetMap project, come join and learn how to map and use OpenStreetMap. 
+Join us for the Almaty OpenStreetMap mapping party on **17 June 2012 at 1:00pm**. If you are an experience contributor or have never heard about the OpenStreetMap project, come join and learn how to map and use OpenStreetMap. 
 
 ******
 
@@ -8,11 +8,11 @@ A mapping party is an event where people come together to work on the OpenStreet
 
 ## Details:  
 
-- Date: Sunday, 17 June 2012  
-- Time: 1:00pm
-- Where: Meet in the lobby of Hotel Kazakhstan, on the side of Dostyk Avenue 
-- What to bring?: If you have a GPS, bring it! If not, just come and join us. We'll have pencils and paper. 
-- Schedule: 
+- **Date:** Sunday, 17 June 2012  
+- **Time:** 1:00pm
+- **Where:** Meet in the lobby of Hotel Kazakhstan, on the side of Dostyk Avenue 
+- **What to bring?:** If you have a GPS, bring it! If not, just come and join us. We'll have pencils and paper. 
+- **Schedule:** 
   - 1:00pm - Introductions and greetings
   - 1:30pm - Discuss OpenStreetMap in Almaty and Kazakhstan, hear from OSM contributors  
   - 2:00pm - Learn about using a GPS and OSM walking papers
