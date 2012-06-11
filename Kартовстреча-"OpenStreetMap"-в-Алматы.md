@@ -29,9 +29,9 @@
   - 14:30 - Работа над картой! Мы либо будем передвигаться пешком или на общественном транспорте.
   - 16:30 - Подведение и обсуждение итогов нашей работы .
  
- Контакт: Nate Smith
- Электронная почта: nate@developmentseed.org 
- Twitter: @nas_smith
+Контакт: Nate Smith  
+Электронная почта: nate@developmentseed.org  
+Twitter: @nas_smith  
 
 
 ******
@@ -61,9 +61,9 @@ A mapping party is an event where people come together to work on the OpenStreet
   - 2:30pm - Map! We'll Either walk around the city center or take transport to an area of the city that needs to be mapped  
   - 4:30pm - We'll meet back up to share stories and review what we mapped. 
 
-Contact: 
-     Nate Smith, 
-     email: nate@developmentseed.org  
-     twitter: @nas_smith
+Contact:  
+Nate Smith  
+email: nate@developmentseed.org  
+twitter: @nas_smith  
 
 ******
