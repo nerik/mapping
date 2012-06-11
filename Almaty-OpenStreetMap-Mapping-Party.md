@@ -1,4 +1,4 @@
-# Kартовстреча "OpenStreetMap" в Алматы
+## Kартовстреча "OpenStreetMap" в Алматы
 
 *(English below)*
 
