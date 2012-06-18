@@ -26,6 +26,7 @@ Taquara, Brazil | Complete | Don't Create | | Too small for a node visualization
 Sao Paulo - Rua Altinopolis, Brazil | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/sao-paulo-final.png) |
 Surabaya, Indonesia | Complete | [Complete](http://i.imgur.com/dFIs6.png) | [19] | Streets traced
 Ulaanbaatar, Mongolia | Complete | Don't Create |  | Small City, many buildings traced.
+Cordoba, Argentina| Complete |  [Complete](http://dl.dropbox.com/u/43116811/Argentina/Cordoba_9cf5ac.png) |  [54] | Streets traced
 
 [10]:https://github.com/mapbox/mapping/issues/10
 [11]:https://github.com/mapbox/mapping/issues/11
@@ -42,6 +43,7 @@ Ulaanbaatar, Mongolia | Complete | Don't Create |  | Small City, many buildings 
 [35]:https://github.com/mapbox/mapping/issues/35
 [39]:https://github.com/mapbox/mapping/issues/39
 [63]:https://github.com/mapbox/mapping/issues/63
+[54]:https://github.com/mapbox/mapping/issues/54
 
 
 [walking paper data]:https://github.com/mapbox/mapping/issues/38
