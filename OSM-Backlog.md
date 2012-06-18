@@ -27,6 +27,8 @@ Sao Paulo - Rua Altinopolis, Brazil | Complete | [Complete](http://dl.dropbox.co
 Surabaya, Indonesia | Complete | [Complete](http://i.imgur.com/dFIs6.png) | [19] | Streets traced
 Ulaanbaatar, Mongolia | Complete | Don't Create |  | Small City, many buildings traced.
 Cordoba, Argentina| Complete |  [Complete](http://dl.dropbox.com/u/43116811/Argentina/Cordoba_9cf5ac.png) |  [54] | Streets traced
+La Paz, Bolivia| Complete |  [Complete](http://dl.dropbox.com/u/43116811/La%20Paz/LaPazBolivia.png) |  [55] | Streets traced
+Cancún, Mexico| Complete |  [Complete]((http://dl.dropbox.com/u/43116811/Canc%C3%BAn/CancunMexico2.png) |  [56] | Streets traced
 
 [10]:https://github.com/mapbox/mapping/issues/10
 [11]:https://github.com/mapbox/mapping/issues/11
@@ -44,6 +46,7 @@ Cordoba, Argentina| Complete |  [Complete](http://dl.dropbox.com/u/43116811/Arge
 [39]:https://github.com/mapbox/mapping/issues/39
 [63]:https://github.com/mapbox/mapping/issues/63
 [54]:https://github.com/mapbox/mapping/issues/54
-
+[55]:https://github.com/mapbox/mapping/issues/55
+[56]:https://github.com/mapbox/mapping/issues/56
 
 [walking paper data]:https://github.com/mapbox/mapping/issues/38
