@@ -28,7 +28,13 @@ Surabaya, Indonesia | Complete | [Complete](http://i.imgur.com/dFIs6.png) | [19]
 Ulaanbaatar, Mongolia | Complete | Don't Create |  | Small City, many buildings traced.
 Cordoba, Argentina| Complete |  [Complete](http://dl.dropbox.com/u/43116811/Argentina/Cordoba_9cf5ac.png) |  [54] | Streets traced
 La Paz, Bolivia| Complete |  [Complete](http://dl.dropbox.com/u/43116811/La%20Paz/LaPazBolivia.png) |  [55] | Streets traced
-Cancún, Mexico| Complete |  [Complete]((http://dl.dropbox.com/u/43116811/Canc%C3%BAn/CancunMexico2.png) |  [56] | Streets traced
+Cancún, Mexico| Complete |  [Complete](http://dl.dropbox.com/u/43116811/Canc%C3%BAn/CancunMexico2.png) |  [56] | Streets traced
+Ciudad de México, Mexico| Complete |  [Complete](http://dl.dropbox.com/u/43116811/Mexico/ciudaddeMexico.png) |  [57] | Streets traced
+Makassar, Indonesia| Complete |  [Complete](http://dl.dropbox.com/u/43116811/Indonesia/MakassarIndonesia.png) |  [59] | Streets traced
+Malang, Indonesia| Complete |  [Complete](http://dl.dropbox.com/u/43116811/Indonesia/MalangIndonesia.png) |  [58] | Streets traced
+Brasilandia, São Paulo| Complete |  [Complete](http://dl.dropbox.com/u/43116811/Sao%20Paulo/BraslandiaSaoPaulo_final.png) |  [60] | Streets traced
+Shangyu, China| Complete |  [Complete](http://dl.dropbox.com/u/43116811/china/ShangyuChina.png) |  [61] | Streets traced and some rivers
+Araras, Brasil| Complete |  [Complete](http://dl.dropbox.com/u/43116811/Brasil/ArarasBrasil.png) |  [62] | Streets traced
 
 [10]:https://github.com/mapbox/mapping/issues/10
 [11]:https://github.com/mapbox/mapping/issues/11
@@ -48,5 +54,10 @@ Cancún, Mexico| Complete |  [Complete]((http://dl.dropbox.com/u/43116811/Canc%C
 [54]:https://github.com/mapbox/mapping/issues/54
 [55]:https://github.com/mapbox/mapping/issues/55
 [56]:https://github.com/mapbox/mapping/issues/56
-
+[57]:https://github.com/mapbox/mapping/issues/57
+[58]:https://github.com/mapbox/mapping/issues/58
+[59]:https://github.com/mapbox/mapping/issues/59
+[60]:https://github.com/mapbox/mapping/issues/60
+[61]:https://github.com/mapbox/mapping/issues/61
+[62]:https://github.com/mapbox/mapping/issues/62
 [walking paper data]:https://github.com/mapbox/mapping/issues/38
