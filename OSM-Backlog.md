@@ -26,6 +26,7 @@ Taquara, Brazil | Complete | Don't Create | | Too small for a node visualization
 Sao Paulo - Rua Altinopolis, Brazil | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/sao-paulo-final.png) |
 Surabaya, Indonesia | Complete | [Complete](http://i.imgur.com/dFIs6.png) | [19] | Streets traced
 Ulaanbaatar, Mongolia | Complete | Don't Create |  | Small City, many buildings traced.
+Lima, Perú| Complete |  [Complete](http://dl.dropbox.com/u/43116811/Lima/lima-way-user.png) |  [45] | Streets traced,fix streets, and Capitalize properly
 Cordoba, Argentina| Complete |  [Complete](http://dl.dropbox.com/u/43116811/Argentina/Cordoba_9cf5ac.png) |  [54] | Streets traced
 La Paz, Bolivia| Complete |  [Complete](http://dl.dropbox.com/u/43116811/La%20Paz/LaPazBolivia.png) |  [55] | Streets traced
 Cancún, Mexico| Complete |  [Complete](http://dl.dropbox.com/u/43116811/Canc%C3%BAn/CancunMexico_final.png) |  [56] | Streets traced
@@ -53,6 +54,7 @@ Itaúna, MG, Brasil| Complete |  [Complete](http://dl.dropbox.com/u/43116811/Bra
 [35]:https://github.com/mapbox/mapping/issues/35
 [39]:https://github.com/mapbox/mapping/issues/39
 [63]:https://github.com/mapbox/mapping/issues/63
+[45]:https://github.com/mapbox/mapping/issues/45
 [54]:https://github.com/mapbox/mapping/issues/54
 [55]:https://github.com/mapbox/mapping/issues/55
 [56]:https://github.com/mapbox/mapping/issues/56
