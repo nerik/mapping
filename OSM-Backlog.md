@@ -28,7 +28,7 @@ Surabaya, Indonesia | Complete | [Complete](http://i.imgur.com/dFIs6.png) | [19]
 Ulaanbaatar, Mongolia | Complete | Don't Create |  | Small City, many buildings traced.
 Cordoba, Argentina| Complete |  [Complete](http://dl.dropbox.com/u/43116811/Argentina/Cordoba_9cf5ac.png) |  [54] | Streets traced
 La Paz, Bolivia| Complete |  [Complete](http://dl.dropbox.com/u/43116811/La%20Paz/LaPazBolivia.png) |  [55] | Streets traced
-Cancún, Mexico| Complete |  [Complete](http://dl.dropbox.com/u/43116811/Canc%C3%BAn/CancunMexico2.png) |  [56] | Streets traced
+Cancún, Mexico| Complete |  [Complete](http://dl.dropbox.com/u/43116811/Canc%C3%BAn/CancunMexico_final.png) |  [56] | Streets traced
 Ciudad de México, Mexico| Complete |  [Complete](http://dl.dropbox.com/u/43116811/Mexico/ciudaddeMexico.png) |  [57] | Streets traced
 Makassar, Indonesia| Complete |  [Complete](http://dl.dropbox.com/u/43116811/Indonesia/MakassarIndonesia.png) |  [59] | Streets traced
 Malang, Indonesia| Complete |  [Complete](http://dl.dropbox.com/u/43116811/Indonesia/MalangIndonesia.png) |  [58] | Streets traced
