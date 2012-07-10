@@ -36,6 +36,7 @@ Brasilandia, São Paulo| Complete |  [Complete](http://dl.dropbox.com/u/43116811
 Shangyu, China| Complete |  [Complete](http://dl.dropbox.com/u/43116811/china/ShangyuChina.png) |  [61] | Streets traced and some rivers
 Araras, Brasil| Complete |  [Complete](http://dl.dropbox.com/u/43116811/Brasil/ArarasBrasil.png) |  [62] | Streets traced
 Patos de Minas, Brazil| Complete |  [Complete](http://dl.dropbox.com/u/43116811/Brasil/PatosdeMinasBrasil.png) |  [63] | Streets traced,river and green areas
+Itaúna, MG, Brasil| Complete |  [Complete](http://dl.dropbox.com/u/43116811/Brasil/ItaunaBrazil.png) |  [65] | Streets, Forests, parks traced
 
 [10]:https://github.com/mapbox/mapping/issues/10
 [11]:https://github.com/mapbox/mapping/issues/11
@@ -62,5 +63,5 @@ Patos de Minas, Brazil| Complete |  [Complete](http://dl.dropbox.com/u/43116811/
 [61]:https://github.com/mapbox/mapping/issues/61
 [62]:https://github.com/mapbox/mapping/issues/62
 [63]:https://github.com/mapbox/mapping/issues/63
-
+[65]:https://github.com/mapbox/mapping/issues/65
 [walking paper data]:https://github.com/mapbox/mapping/issues/38
