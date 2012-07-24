@@ -39,6 +39,12 @@ Shangyu, China| Complete |  [Complete](http://dl.dropbox.com/u/43116811/china/Sh
 Araras, Brasil| Complete |  [Complete](http://dl.dropbox.com/u/43116811/Brasil/ArarasBrasil.png) |  [62] | Streets traced
 Patos de Minas, Brazil| Complete |  [Complete](http://dl.dropbox.com/u/43116811/Brasil/PatosdeMinasBrasil.png) |  [63] | Streets traced,river and green areas
 Itaúna, MG, Brasil| Complete |  [Complete](http://dl.dropbox.com/u/43116811/Brasil/ItaunaBrazil.png) |  [65] | Streets, Forests, parks traced
+Johor Bahru, Malaysia| Complete |  [Complete](http://dl.dropbox.com/u/43116811/Malaysia/JohorBahruMalaysia.png) |  [67] | Streets, Forests traced
+Ribeirão Preto, Brazil| Complete |  [Complete](http://dl.dropbox.com/u/43116811/Brasil/RibeiraoPretoBrazil.png) |  [69] | Streets, Forests, parks traced
+Rio Claro, Brazil| Complete |  [Complete](http://dl.dropbox.com/u/43116811/Brasil/rioclarobrazil_522a8d.png) |  [70] | Streets, parks traced
+Ayacucho, Perú| Complete |  [Complete](http://dl.dropbox.com/u/43116811/ayacucho/Ayacucho%20final.png) |  [71] |  Streets, Forests, parks traced
+Kuching, Malaysia| Complete |  [Complete](http://dl.dropbox.com/u/43116811/Malaysia/KuchingMalaysia.png) |  [72] |  Streets, Forests, parks traced
+Abuja, Nigeria| Complete |  [Complete](http://dl.dropbox.com/u/43116811/Nigeria/AbujaNigeri.png) |  [73] |  Streets, Forests, parks traced
 
 [10]:https://github.com/mapbox/mapping/issues/10
 [11]:https://github.com/mapbox/mapping/issues/11
@@ -68,4 +74,10 @@ Itaúna, MG, Brasil| Complete |  [Complete](http://dl.dropbox.com/u/43116811/Bra
 [62]:https://github.com/mapbox/mapping/issues/62
 [63]:https://github.com/mapbox/mapping/issues/63
 [65]:https://github.com/mapbox/mapping/issues/65
+[67]:https://github.com/mapbox/mapping/issues/67
+[69]:https://github.com/mapbox/mapping/issues/69
+[70]:https://github.com/mapbox/mapping/issues/70
+[71]:https://github.com/mapbox/mapping/issues/71
+[72]:https://github.com/mapbox/mapping/issues/72
+[73]:https://github.com/mapbox/mapping/issues/73
 [walking paper data]:https://github.com/mapbox/mapping/issues/38
