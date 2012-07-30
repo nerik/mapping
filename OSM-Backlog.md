@@ -45,6 +45,9 @@ Rio Claro, Brazil| Complete |  [Complete](http://dl.dropbox.com/u/43116811/Brasi
 Ayacucho, Perú| Complete |  [Complete](http://dl.dropbox.com/u/43116811/ayacucho/Ayacucho%20final.png) |  [71] |  Streets, Forests, parks traced
 Kuching, Malaysia| Complete |  [Complete](http://dl.dropbox.com/u/43116811/Malaysia/KuchingMalaysia.png) |  [72] |  Streets, Forests, parks traced
 Abuja, Nigeria| Complete |  [Complete](http://dl.dropbox.com/u/43116811/Nigeria/AbujaNigeri.png) |  [73] |  Streets, Forests, parks traced
+Mauá, Brazil| Complete | [Complete](http://dl.dropbox.com/u/43116811/Brasil/mauaBrasil.png) |  [74] |  Streets, Forests
+Carapicuíba, Brazil| Complete |  [Complete](http://dl.dropbox.com/u/43116811/Brasil/CarapicuibaBrazil.png) |  [75] | Streets, Forests and parks traced
+Ferraz de Vasconcelos, Brazil| Complete |  [Complete](http://dl.dropbox.com/u/43116811/Brasil/FerrazdeVasconcelosBrasil.png) |  [76] |  Streets, Forests
 
 [10]:https://github.com/mapbox/mapping/issues/10
 [11]:https://github.com/mapbox/mapping/issues/11
@@ -80,4 +83,7 @@ Abuja, Nigeria| Complete |  [Complete](http://dl.dropbox.com/u/43116811/Nigeria/
 [71]:https://github.com/mapbox/mapping/issues/71
 [72]:https://github.com/mapbox/mapping/issues/72
 [73]:https://github.com/mapbox/mapping/issues/73
+[74]:https://github.com/mapbox/mapping/issues/74
+[75]:https://github.com/mapbox/mapping/issues/75
+[76]:https://github.com/mapbox/mapping/issues/76
 [walking paper data]:https://github.com/mapbox/mapping/issues/38
