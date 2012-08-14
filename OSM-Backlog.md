@@ -19,7 +19,7 @@ Guadlajara, Mexico | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-
 Itaguai, Brazil | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/itaguai-final.png) | | Streets, Forests, parks traced
 Istanbul, Turkey | Needs 1-2 hours more | Don't Create | [39]
 Izmir, Turkey | Complete | [Complete](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/izmir-final.png) | [16]
-Kuwait City, Kuwait | | | [26]
+Kuwait City, Kuwait | Complete | [Complete](http://i.imgur.com/Ng7xb.png) | [26]
 Medan, Indonesia | Complete | [Complete](http://i.imgur.com/mQwEQ.png) | [32] | Streets traced
 Monterrey, Mexico | In Progress | [Needs updating](http://dl.dropbox.com/u/56438767/osm-tracing/visualizations/monterrey.png) | [35]
 Taquara, Brazil | Complete | Don't Create | | Too small for a node visualization 
