@@ -1,14 +1,8 @@
 This is a list of remapping projects we've worked on. All tasks are being tracked at [rebuild.poole.ch](http://rebuild.poole.ch/). If you know of areas that are in need of post-redaction recovery, contact us:
 
-Ian:
+Ian | osm: [ian29](http://www.openstreetmap.org/user/ian29) | twitter: [@ian_villeda](https://twitter.com/ian_villeda)
 
-- osm: [ian29](http://www.openstreetmap.org/user/ian29)
-- twitter: [@ian_villeda](https://twitter.com/ian_villeda)
-
-Alex:
-
-- osm: [lxbarth](http://www.openstreetmap.org/user/lxbarth)
-- twitter: [@lxbarth](https://twitter.com/lxbarth)
+Alex | osm: [lxbarth](http://www.openstreetmap.org/user/lxbarth) | twitter: [@lxbarth](https://twitter.com/lxbarth)
 
 **Area** | **Tracing status** | **OSMI** | **Visualization** | **Rebuild Job** | **what was fixed** | date
 --- | --- | --- | --- | --- | --- | ---
