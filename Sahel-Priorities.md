@@ -33,7 +33,7 @@ List of all Sahel cities, with lat long, and before and after shots. If there is
 --- | --- | --- | --- | ---
 [Mbera area, Mauritania]*|No| |
 [Nema, Mauritania]|No|
-[Kiffa, Mauritania] |No|
+[Kiffa, Mauritania] |No [ 10-2012]|
 [Tidjikdja, Mauritania] |No|
 [Selibaby, Mauritania] |No |
 [Mopti, Mali]  |No|
@@ -44,7 +44,7 @@ List of all Sahel cities, with lat long, and before and after shots. If there is
 [Dori, Burkina Faso] | No |
 [Ouahigouya, Burkina Faso] | No |
 [Zinder, Niger] | No |
-[Diffa, Niger]  |No |
+[Diffa, Niger]  |Yes [10-2012| [before](http://i.imgur.com/iWE7d.png)
 [Maradi, Niger] |No |
 [Tahoua, Niger] |No |
 [Agadez, Niger] |No |
