@@ -52,6 +52,7 @@ Abuja, Nigeria| Complete |  [Complete](http://dl.dropbox.com/u/43116811/Nigeria/
 Mauá, Brazil| Complete | [Complete](http://dl.dropbox.com/u/43116811/Brasil/mauaBrasil.png) |  [74] |  Streets, Forests
 Carapicuíba, Brazil| Complete |  [Complete](http://dl.dropbox.com/u/43116811/Brasil/CarapicuibaBrazil.png) |  [75] | Streets, Forests and parks traced
 Ferraz de Vasconcelos, Brazil| Complete |  [Complete](http://dl.dropbox.com/u/43116811/Brasil/FerrazdeVasconcelosBrasil.png) |  [76] |  Streets, Forests
+Itapevi, Brasil| Complete |  [Complete](http://www.openstreetmap.org/?lat=-23.5447&lon=-46.9254&zoom=14&layers=M) |  [78] |  Streets, Forests
 Sao jose do Rio Preto, Brazil| Complete |  [Complete](http://www.openstreetmap.org/?lat=-20.8096&lon=-49.3783&zoom=14&layers=M) |  [80] |  Streets, Forests
 Ariquemes, Rodonia| Complete |  [Complete](http://www.openstreetmap.org/?lat=-9.9069&lon=-63.0334&zoom=14&layers=M) |  [87] |  Streets, Forests
 Mandalay, Burma| Complete |  [Complete](https://a248.e.akamai.net/camo.github.com/07c358d1a32dbc4da21ff020776ff4148f6bf57d/687474703a2f2f692e696d6775722e636f6d2f6d6d79427a2e706e67) |  [88] |  Streets, Forests
@@ -97,6 +98,7 @@ Mandalay, Burma| Complete |  [Complete](https://a248.e.akamai.net/camo.github.co
 [74]:https://github.com/mapbox/mapping/issues/74
 [75]:https://github.com/mapbox/mapping/issues/75
 [76]:https://github.com/mapbox/mapping/issues/76
+[78]:https://github.com/mapbox/mapping/issues/78
 [80]:https://github.com/mapbox/mapping/issues/80
 [87]:https://github.com/mapbox/mapping/issues/87
 [88]:https://github.com/mapbox/mapping/issues/88
