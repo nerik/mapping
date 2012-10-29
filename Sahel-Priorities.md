@@ -32,25 +32,25 @@ List of all Sahel cities, with lat long, and before and after shots. If there is
 **Name** | **Traceable from Bing?** | **Before** | **After** | **Ticket** 
 --- | --- | --- | --- | ---
 [Mbera area, Mauritania]*|No| |
-[Nema, Mauritania]|No|
-[Kiffa, Mauritania] |No [ 10-2012]|
-[Tidjikdja, Mauritania] |No|
-[Selibaby, Mauritania] |No |
-[Mopti, Mali]  |No|
-[Kidal, Mali] | No |
-[Nara, Mali] |No|
-[Djibo, Burkina Faso] | No |
-[Gorom-Gorom, Burkina Faso] | No |
-[Dori, Burkina Faso] | No |
-[Ouahigouya, Burkina Faso] | No |
-[Zinder, Niger] | No |
-[Diffa, Niger]  |Yes [10-2012| [before](http://i.imgur.com/iWE7d.png)
-[Maradi, Niger] |No |
-[Tahoua, Niger] |No |
-[Agadez, Niger] |No |
-[Abeche, Chad] | No | | 
-[Mongo, Chad] | No | | 
-[Ati, Chad] | No | | | 
+[Nema, Mauritania]|Yes (10-2012)|
+[Kiffa, Mauritania] |No (10-2012)|
+[Tidjikdja, Mauritania] |No (10-2012)|
+[Selibaby, Mauritania] |No (10-2012)|
+[Mopti, Mali]  |No (10-2012)|
+[Kidal, Mali] | No (10-2012)|
+[Nara, Mali] |Yes (10-2012)|
+[Djibo, Burkina Faso] | No (10-2012)|
+[Gorom-Gorom, Burkina Faso] | No (10-2012)|
+[Dori, Burkina Faso] | Yes (10-2012)|
+[Ouahigouya, Burkina Faso] | No (10-2012)|
+[Zinder, Niger] | Partial (10-2012)|
+[Diffa, Niger]  |Yes (10-2012)| [before](http://i.imgur.com/iWE7d.png)
+[Maradi, Niger] |No (10-2012)|
+[Tahoua, Niger] |Yes (10-2012)|
+[Agadez, Niger] |No (10-2012)|
+[Abeche, Chad] | Yes (10-2012)| | 
+[Mongo, Chad] | Yes (10-2012)| | 
+[Ati, Chad] | No (10-2012)| | | 
 
 *Somewhere in SE corner of country. From [this map](http://tiles.mapbox.com/unhcr/map/malibase) 
 
