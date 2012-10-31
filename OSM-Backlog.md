@@ -44,6 +44,7 @@ Araras, Brasil| Complete |  [Complete](http://dl.dropbox.com/u/43116811/Brasil/A
 Patos de Minas, Brazil| Complete |  [Complete](http://dl.dropbox.com/u/43116811/Brasil/PatosdeMinasBrasil.png) |  [63] | Streets traced,river and green areas
 Itaúna, MG, Brasil| Complete |  [Complete](http://dl.dropbox.com/u/43116811/Brasil/ItaunaBrazil.png) |  [65] | Streets, Forests, parks traced
 Johor Bahru, Malaysia| Complete |  [Complete](http://dl.dropbox.com/u/43116811/Malaysia/JohorBahruMalaysia.png) |  [67] | Streets, Forests traced
+Guangzhou | Complete |  [Complete](http://www.openstreetmap.org/?lat=23.1146&lon=113.2916&zoom=14&layers=M) |  [68] | Streets traced
 Ribeirão Preto, Brazil| Complete |  [Complete](http://dl.dropbox.com/u/43116811/Brasil/RibeiraoPretoBrazil.png) |  [69] | Streets, Forests, parks traced
 Rio Claro, Brazil| Complete |  [Complete](http://dl.dropbox.com/u/43116811/Brasil/rioclarobrazil_522a8d.png) |  [70] | Streets, parks traced
 Ayacucho, Perú| Complete |  [Complete](http://dl.dropbox.com/u/43116811/ayacucho/Ayacucho%20final.png) |  [71] |  Streets, Forests, parks traced
@@ -56,7 +57,7 @@ Itapevi, Brasil| Complete |  [Complete](http://www.openstreetmap.org/?lat=-23.54
 Sao jose do Rio Preto, Brazil| Complete |  [Complete](http://www.openstreetmap.org/?lat=-20.8096&lon=-49.3783&zoom=14&layers=M) |  [80] |  Streets, Forests
 Ariquemes, Rodonia| Complete |  [Complete](http://www.openstreetmap.org/?lat=-9.9069&lon=-63.0334&zoom=14&layers=M) |  [87] |  Streets, Forests
 Mandalay, Burma| Complete |  [Complete](https://a248.e.akamai.net/camo.github.com/07c358d1a32dbc4da21ff020776ff4148f6bf57d/687474703a2f2f692e696d6775722e636f6d2f6d6d79427a2e706e67) |  [88] |  Streets, Forests
-
+Salamanca, Guanajuato | Complete |  [Complete](http://www.openstreetmap.org/?lat=20.5669963359833&lon=-101.185820102692&zoom=14) |  [91] |  Streets traced
 [10]:https://github.com/mapbox/mapping/issues/10
 [11]:https://github.com/mapbox/mapping/issues/11
 [12]:https://github.com/mapbox/mapping/issues/12
@@ -90,6 +91,7 @@ Mandalay, Burma| Complete |  [Complete](https://a248.e.akamai.net/camo.github.co
 [63]:https://github.com/mapbox/mapping/issues/63
 [65]:https://github.com/mapbox/mapping/issues/65
 [67]:https://github.com/mapbox/mapping/issues/67
+[68]:https://github.com/mapbox/mapping/issues/68
 [69]:https://github.com/mapbox/mapping/issues/69
 [70]:https://github.com/mapbox/mapping/issues/70
 [71]:https://github.com/mapbox/mapping/issues/71
@@ -102,4 +104,5 @@ Mandalay, Burma| Complete |  [Complete](https://a248.e.akamai.net/camo.github.co
 [80]:https://github.com/mapbox/mapping/issues/80
 [87]:https://github.com/mapbox/mapping/issues/87
 [88]:https://github.com/mapbox/mapping/issues/88
+[91]:https://github.com/mapbox/mapping/issues/91
 [walking paper data]:https://github.com/mapbox/mapping/issues/38
