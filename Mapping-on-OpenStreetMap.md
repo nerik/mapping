@@ -12,7 +12,7 @@ A lot of OpenStreetMap data is original - collected by community members first h
 - [collect data with print maps](http://wiki.openstreetmap.org/wiki/Field_Papers)
 - using geolocated photos for instance through [Mapillary](https://www.mapillary.com/osm.html)
 
-While our focus at Mapbox is on remote mapping, we run on-the-ground surveys for team trainings and in workshops. Collecting your own data is fun and you should try it. Ground surveyed data is highly valuable as it's a first hand account from the mapped place and it takes longest to collect.
+While the easiest way to get started is to trace remotely off satellite imagery, ground surveyed data is highly valuable as it's a first hand account from the mapped place and it takes longest to collect.
 
 ![](https://s3.amazonaws.com/f.cl.ly/items/3A232p2m053W3W0m2O3f/Untitled.png)
 
@@ -20,7 +20,7 @@ While our focus at Mapbox is on remote mapping, we run on-the-ground surveys for
 
 ### Satellite tracing
 
-The availability of high resolution satellite imagery has allowed OpenStreetMap's data volume to explode. It's really easy and fast to go into OpenStreetMap and trace features from imagery. Compared to ground surveys, tracing from satellite imagery is much faster. Obviously, not all information can be traced from imagery - road names, place names, points of interests like schools and cafés aren't visibile from imagery. In fact, a lot of original data creation today in OpenStreetMap is a combination of tracing and surveying - where as much as possible information is traced from imagery before subsequent ground surveys add detail. Satellite tracing make up a big bulk of the work in the Mapbox data team.
+The availability of high resolution satellite imagery has allowed OpenStreetMap's data volume to explode. It's really easy and fast to go into OpenStreetMap and trace features from imagery. Compared to ground surveys, tracing from satellite imagery is much faster. Obviously, not all information can be traced from imagery - road names, place names, points of interests like schools and cafés aren't visibile from imagery. In fact, a lot of original data creation today in OpenStreetMap is a combination of tracing and surveying - where as much as possible information is traced from imagery before subsequent ground surveys add detail. 
 
 ![Gifsicle show me the way](https://s3.amazonaws.com/f.cl.ly/items/2Z081j0E3R452O030o3U/smtw.gif)
 
