@@ -11,6 +11,7 @@ These guides have been designed to get you from a complete beginner to an advanc
 - [Mapping on OpenStreetMap](Mapping on OpenStreetMap)
 - [How to map X?](How to map X)
 - [Mapping with JOSM](Mapping with JOSM)
-- [Advanced JOSM]()
+- [JOSM shortcuts](JOSM shortcuts)
+- [Advanced JOSM](Advanced JOSM)
 - [Working with to-fix]()
 - [Working with tasking manager]()
