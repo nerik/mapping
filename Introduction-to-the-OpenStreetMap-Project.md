@@ -55,3 +55,8 @@ To get a better understanding of the changing digital mapping landscape, take a 
 One of the most valuable applications of open map data has been in disaster relief operations in times of crisis. To address a need to have a coordinating body between the data requirements of ground rescue teams and the OpenStreetMap volunteer community, the [Humanitarian OpenStreetMap team](http://hotosm.org/) formed in 2010 after the utility of open map data was proven during the [2010 Haiti earthquake](http://gadgetwise.blogs.nytimes.com/2010/01/27/digital-help-for-haiti/?_r=0) and more recently during the [2015 Nepal earthquake](https://www.mapbox.com/blog/mapping-nepal/). Since then the HOT has been involved in several [activations](http://wiki.openstreetmap.org/wiki/HOT_activation) bringing the power of the OpenStreetMap community to the hands of those who needs them the most.
 
 ![](http://wiki.openstreetmap.org/w/images/thumb/8/8e/Map_Poster_DSWD_Operations_Center.jpg/350px-Map_Poster_DSWD_Operations_Center.jpg)
+
+## Further reading
+
+- [*OpenStreetMap* on Wikipedia](https://en.wikipedia.org/wiki/OpenStreetMap)
+- [*More about OpenStreetMap* on the OpenStreetMap wiki](http://wiki.openstreetmap.org/wiki/About)
