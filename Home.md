@@ -8,7 +8,8 @@ To learn more, read the [Introduction to the OpenStreetMap Project](http://www.c
 These guides have been designed to get you from a complete beginner to an advanced OpenStreetMapper right away :rocket: 
 - [Getting started](Getting started)
 - [Hello Map]()
-- [How to map X?]()
+- [Mapping on OpenStreetMap](Mapping on OpenStreetMap)
+- [How to map X?](How to map X)
 - [Mapping with JOSM](Mapping with JOSM)
 - [Advanced JOSM]()
 - [Working with to-fix]()
