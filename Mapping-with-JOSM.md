@@ -1,4 +1,4 @@
-Here is a walkthrough of the most important features you'll use in JOSM for editing OpenStreetMap. Note that this section only focuses on the mechanics of editing with JOSM. Check out [Setting up your work environment section](/mapbox/data/wiki/Setting-up-your-work-environment) for installing JOSM and the [Map features guide](/mapbox/data/wiki/Map-Features-Guide) for learning how specific real world features are mapped.
+Here is a walkthrough of the most important features you'll use in JOSM for editing OpenStreetMap. Note that this section only focuses on the mechanics of editing with JOSM.
 
 ## Downloading from OpenStreetMap
 
@@ -187,4 +187,4 @@ You can script JOSM to automate certain workflows. For example:
 
 ## Further reading and questions
 
-For further information, take a look at the [JOSM help](https://josm.openstreetmap.de/wiki/Help). For any questions, post a ticket in our [data repository](https://github.com/mapbox/data/issues).
+For further information, take a look at the [JOSM help](https://josm.openstreetmap.de/wiki/Help).
