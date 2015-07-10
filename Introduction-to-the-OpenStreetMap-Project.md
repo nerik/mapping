@@ -3,23 +3,6 @@
 **[OpenStreetMap](http://www.openstreetmap.org)** is an online [open data platform](https://en.wikipedia.org/wiki/Open_data) to collect the world's geographic data based on the Wikipedia model of [crowdsourcing](https://en.wikipedia.org/wiki/Crowdsourcing).
 The project started in 2004 by [Steve Coast](http://wiki.openstreetmap.org/wiki/User:Steve) and is now governed by the non profit [OpenStreetMap Foundation](https://wiki.osmfoundation.org/wiki/Main_Page) based in the UK. 
 
-The OpenStreetMap Foundation (OSMF) is responsible for ensuring that the project and collected map data is free and openly accessible to anyone in the world by supporting infrastructure costs through annual fundraising drives. The foundation constitutes a [democratic body](https://wiki.osmfoundation.org/wiki/Join) of elected members from the OpenStreetMap community and has the final word in the case of disputes in the project.
-
-### Open Geographic Data
-
-The most important feature of the OpenStreetMap project is that the map data is Open and Free:
-- Anyone can alter the vector map database comprising the raw geometries and properties by creating, updating or removing objects with a free user account
-- Anyone can download the entire raw map database for their own application, commercial use or research
-- Anyone can view the history of changes of any map object or any other user in the system
-
-Usage of the geodata is controlled by a license called the [Open Database License (ODbL)](https://wiki.osmfoundation.org/wiki/License) which broadly states that:
-- you do not have to pay anybody anything or ask permission to use the data
-- you may use the data for personal, community, educational, commercial, government or any other use that you can think of
-- you must attribute `OpenStreetMap` in your resulting project
-- if you make any additions or enhancements to the data, you must release the resulting data under the same terms as above.
-
-The principle behind the last point is called "share-alike" and is causing [issues with data license compatibility](http://www.openstreetmap.org/user/lxbarth/diary/21221).
-
 ### The OpenStreetMap community
 What started as an interesting idea in 2004 with a handful of volunteers has grown to a global movement on the scale and importance of Wikipedia. In 10 years, the project has over [2 million registered users](http://www.openstreetmap.org/stats/data_stats.html) and over 20,000 active contributors every month, mapping out their neighborhoods and countries using GPS devices, field surveys and satellite imagery tracing as a hobby.
 
@@ -38,6 +21,24 @@ Mappers worldwide meet each other and organize social events like [mapping parti
 OpenStreetMap as a community, runs yearly international conferences called State of the Map. 2007 was the first year this conference was conducted in England. Since then the community has run 9 conferences each with registering massive growth from the previous year. One can imagine the growth of this community from around 200 attendees in the year 2014 to around 740 people from 40 different countries attending the 2015 conference held in New York City. 
 
 ![](http://wiki.openstreetmap.org/w/images/thumb/6/68/SOTMUS_2015_audience.jpg/799px-SOTMUS_2015_audience.jpg)
+
+### Open Geographic Data
+
+What allows this community to thrive is that the map data is Open and Free:
+- Anyone can alter the vector map database comprising the raw geometries and properties by creating, updating or removing objects with a free user account
+- Anyone can download the entire raw map database for their own application, commercial use or research
+- Anyone can view the history of changes of any map object or any other user in the system
+
+Usage of the geodata is controlled by a license called the [Open Database License (ODbL)](https://wiki.osmfoundation.org/wiki/License) which broadly states that:
+- you do not have to pay anybody anything or ask permission to use the data
+- you may use the data for personal, community, educational, commercial, government or any other use that you can think of
+- you must attribute `OpenStreetMap` in your resulting project
+- if you make any additions or enhancements to the data, you must release the resulting data under the same terms as above.
+
+The principle behind the last point is called "share-alike" and is causing [issues with data license compatibility](http://www.openstreetmap.org/user/lxbarth/diary/21221).
+
+### The OpenStreetMap Foundation
+The OpenStreetMap Foundation (OSMF) is responsible for ensuring that the project and collected map data is free and openly accessible to anyone in the world by supporting infrastructure costs through annual fundraising drives. The foundation constitutes a [democratic body](https://wiki.osmfoundation.org/wiki/Join) of elected members from the OpenStreetMap community and has the final word in the case of disputes in the project.
 
 ### OpenStreetMap and business
 The rich mapping data collected by volunteers around the world has resulted in an open map database that is vastly more detailed, customizable and maintainable than any proprietary map database on a global scale. This has made it highly attractive for businesses to use OpenStreetMap data to bring down the cost of creating and maintaining map data which is an extremely costly operation. Successful organizations have made use of OpenStreetMap data as the source data on top of which they create mapping services that can be monetized.
