@@ -16,6 +16,10 @@ It is useful to include:
 
 *(format in [Markdown]( http://en.wikipedia.org/wiki/Markdown))*
 
+Here is a good example:
+
+![](https://s3.amazonaws.com/f.cl.ly/items/0h1C3r251C081I0n2t3x/Screen%20Shot%202014-12-12%20at%205.11.43%20PM.png)
+
 ## Install JOSM
 
 We are using the Java OpenStreetMap Editor (JOSM) for most tasks. Here's how to get set up.
