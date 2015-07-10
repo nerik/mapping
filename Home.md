@@ -7,11 +7,10 @@ To learn more, read the [Introduction to the OpenStreetMap Project](http://www.c
 ### Quickstart Mapping Guides
 These guides have been designed to get you from a complete beginner to an advanced OpenStreetMapper right away :rocket: 
 - [Getting started](Getting started)
-- [Hello Map]()
 - [Mapping on OpenStreetMap](Mapping on OpenStreetMap)
 - [How to map X?](How to map X)
 - [Mapping with JOSM](Mapping with JOSM)
 - [JOSM shortcuts](JOSM shortcuts)
 - [Advanced JOSM](Advanced JOSM)
-- [Working with to-fix]()
-- [Working with tasking manager]()
+- [Working with to-fix](Working with to-fix)
+- [Working with tasking manager](Working with tasking manager)
