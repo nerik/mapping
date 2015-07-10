@@ -11,6 +11,5 @@ These guides have been designed to get you from a complete beginner to an advanc
 - [How to map X?](How to map X)
 - [Mapping with JOSM](Mapping with JOSM)
 - [JOSM shortcuts](JOSM shortcuts)
-- [Advanced JOSM](Advanced JOSM)
 - [Working with to-fix](Working with to-fix)
 - [Working with tasking manager](Working with tasking manager)
