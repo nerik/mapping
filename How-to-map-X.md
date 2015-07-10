@@ -1,8 +1,8 @@
-This is a walkthrough of the most important features you will map as part of the Mapbox data team. It's an introduction to get you started mapping but not meant to be comprehensive. We're going to use some OpenStreetMap specific terms here, if you're not familiar with what "nodes", "way" and "relations" are, read the previous guides first.
+This is a walkthrough of the most important features you will want to map on OSM. It's an introduction to get you started mapping but not meant to be comprehensive. We're going to use some OpenStreetMap specific terms here, if you're not familiar with what "nodes", "way" and "relations" are, read the previous guides first.
 
 *How do I map X?*
 
-We're focusing in this section on the features that matter most in the day-to-day work at Mapbox. For a full documentation, refer to the [OpenStreetMap Map Features](http://wiki.openstreetmap.org/wiki/Map_Features) guide. To look up a specific map feature fast, for instance how to map a railway station, google with a query like "tag bus stop site:wiki.openstreetmap.org":
+We're focusing in this section on the most common map features. For a full documentation, refer to the [OpenStreetMap Map Features](http://wiki.openstreetmap.org/wiki/Map_Features) guide. To look up a specific map feature fast, for instance how to map a railway station, google with a query like "tag bus stop site:wiki.openstreetmap.org":
 
 ![](https://s3.amazonaws.com/f.cl.ly/items/3C3A0S3k011k1P3b2J0N/google.gif)
 
