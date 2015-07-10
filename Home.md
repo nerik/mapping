@@ -2,7 +2,7 @@
 
 ![screenshot 2015-07-10 10 28 15](https://cloud.githubusercontent.com/assets/126868/8612454/7b55cf86-26ee-11e5-967a-4eb9a0cb76d9.png)
 
-To learn more, read the [Introduction to the OpenStreetMap Project]()
+To learn more, read the [Introduction to the OpenStreetMap Project](http://www.citylab.com/design/2015/06/who-owns-the-digital-map-of-the-world/396119/)
 
 ### Quickstart Mapping Guides
 These guides have been designed to get you from a complete beginner to an advanced OpenStreetMapper right away :rocket: 
