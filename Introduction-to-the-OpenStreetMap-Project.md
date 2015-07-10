@@ -1,8 +1,22 @@
+![](https://pbs.twimg.com/profile_images/1332105692/OSM_fixed_512.png)
+
 **[OpenStreetMap](http://www.openstreetmap.org)** is an online [open data platform](https://en.wikipedia.org/wiki/Open_data) to collect the world's geographic data based on the Wikipedia model of [crowdsourcing](https://en.wikipedia.org/wiki/Crowdsourcing).
 The project started in 2004 by Steve Coast and is now governed by the non profit [OpenStreetMap Foundation](https://wiki.osmfoundation.org/wiki/Main_Page) based in the UK. 
 
-The mission of the OSMF is:
--
+The OSMF is responsible for ensuring that the project and collected map data is free and openly accessible to anyone in the world by supporting infrastructure costs through annual fundraising drives. The foundation constitutes a [democratic body](https://wiki.osmfoundation.org/wiki/Join) of elected members from the OSM community and has the final word in the case of disputes in the project.
+
+### Open Geographic Data
+
+The most important feature of the OSM project is that the map data is Open and Free:
+- Anyone can alter the vector map database comprising the raw geometries and properties by creating, updating or removing objects with a free user account
+- Anyone can download the entire raw map database for their own application, commercial use or research
+- Anyone can view the history of changes of any map object or any other user in the system
+
+Usage of the geodata is controlled by a license called the [Open Database License (ODbL)](https://wiki.osmfoundation.org/wiki/License) which broadly states that:
+- you do not have to pay anybody anything or ask permission to use the data
+- you may use the data for personal, community, educational, commercial, government or any other use that you can think of
+- you must attribute `OpenStreetMap` in your resulting project
+- if you make any additions or enhancements to the data, you must release the resulting data under the same terms as above.
 
 Since then the community has grown to over 2 million [registered mappers](http://wiki.openstreetmap.org/wiki/Stats#Registered_users_statistics_reports) globally contributing to the map. OSM is a free editable map and can be updated by collecting data manually, field surveys, GPS devises or even use aerial photography. This crowdsourced data is then made available through  [open database licensing](https://en.wikipedia.org/wiki/Open_Database_License). The site is supported by the OSM foundation which is a non profit organisation registered in England. In April 2006, the OpenStreetMap Foundation was established to encourage the growth, development and distribution of free [geospatial data](https://en.wikipedia.org/wiki/Geospatial_analysis) and provide geospatial data for anybody to use and share. Major corporate supporters of OSM from the past include [Yahoo!](http://wiki.openstreetmap.org/wiki/Yahoo!_Aerial_Imagery), [MapQuest](http://wiki.openstreetmap.org/wiki/MapQuest) and [Microsoft Bing](http://wiki.openstreetmap.org/wiki/Bing). The OSM [license terms ](http://www.openstreetmap.org/copyright) helps to keep the data open and available for anybody to use.
 
