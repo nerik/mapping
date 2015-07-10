@@ -6,6 +6,7 @@ To learn more, read the [Introduction to the OpenStreetMap Project](http://www.c
 
 ### Quickstart Mapping Guides
 These guides have been designed to get you from a complete beginner to an advanced OpenStreetMapper right away :rocket: 
+- [Getting started](Getting started)
 - [Hello Map]()
 - [How to map X?]()
 - [Setting up JOSM]()
