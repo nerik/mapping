@@ -18,6 +18,8 @@ Usage of the geodata is controlled by a license called the [Open Database Licens
 - you must attribute `OpenStreetMap` in your resulting project
 - if you make any additions or enhancements to the data, you must release the resulting data under the same terms as above.
 
+The principle behind the last point is called "share-alike" and is causing [issues with data license compatibility](http://www.openstreetmap.org/user/lxbarth/diary/21221).
+
 ### The OpenStreetMap community
 What started as an interesting idea in 2004 with a handful of volunteers has grown to a global movement on the scale and importance of Wikipedia. In 10 years, the project has over [2 million registered users](http://www.openstreetmap.org/stats/data_stats.html) and over 20,000 active contributors every month, mapping out their neighborhoods and countries using GPS devices, field surveys and satellite imagery tracing as a hobby.
 
