@@ -23,7 +23,7 @@ What started as an interesting idea in 2004 with a handful of volunteers has gro
 
 ![](http://wiki.openstreetmap.org/w/images/9/90/Active_contributors_month.png)
 
-The result is a living map of the world made by the citizens of earth on a level of detail that is unparalleled in human history.
+The result is a living map of the world made by the citizens of earth on a level of detail that is unparalleled in human history. For some amazing visuals, see [this video](https://vimeo.com/83164362) or explore the [edits over 10 years](https://www.mapbox.com/ten-years-openstreetmap/#0.000000/8.407168/2)
 
 ![untitled](https://cloud.githubusercontent.com/assets/126868/8614000/fbfac286-2702-11e5-95f0-62ee0b4a3bfd.gif)
 
