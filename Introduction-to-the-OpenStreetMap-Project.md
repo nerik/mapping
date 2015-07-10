@@ -19,9 +19,13 @@ Usage of the geodata is controlled by a license called the [Open Database Licens
 - if you make any additions or enhancements to the data, you must release the resulting data under the same terms as above.
 
 ### The OSM community
-What started as an interesting idea in 2004 with a handful of volunteers has grown to a global movement on the scale and importance of Wikipedia. In 10 years, the project has over [2 million registered users](http://www.openstreetmap.org/stats/data_stats.html) and over 20,000 active volunteer mappers every month, mapping out their neighborhoods and countries using GPS devices, field surveys and satellite imagery tracing.
+What started as an interesting idea in 2004 with a handful of volunteers has grown to a global movement on the scale and importance of Wikipedia. In 10 years, the project has over [2 million registered users](http://www.openstreetmap.org/stats/data_stats.html) and over 20,000 active contributors every month, mapping out their neighborhoods and countries using GPS devices, field surveys and satellite imagery tracing as a hobby.
 
 ![](http://wiki.openstreetmap.org/w/images/9/90/Active_contributors_month.png)
+
+The result is a living map of the world made by the citizens of earth on a level of detail that is unparalleled in human history.
+
+![untitled](https://cloud.githubusercontent.com/assets/126868/8614000/fbfac286-2702-11e5-95f0-62ee0b4a3bfd.gif)
 
  Major corporate supporters of OSM from the past include [Yahoo!](http://wiki.openstreetmap.org/wiki/Yahoo!_Aerial_Imagery), [MapQuest](http://wiki.openstreetmap.org/wiki/MapQuest) and [Microsoft Bing](http://wiki.openstreetmap.org/wiki/Bing). The OSM [license terms ](http://www.openstreetmap.org/copyright) helps to keep the data open and available for anybody to use.
 
