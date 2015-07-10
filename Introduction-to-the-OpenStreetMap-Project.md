@@ -1,0 +1,18 @@
+OpenStreetMap is an [open source platform](https://en.wikipedia.org/wiki/Open_data), which was initiated in 2004 by Steve Coast in UK. Since then the community has grown to over 2 million [registered mappers](http://wiki.openstreetmap.org/wiki/Stats#Registered_users_statistics_reports) globally contributing to the map. OSM is a free editable map and can be updated by collecting data manually, field surveys, GPS devises or even use aerial photography. This crowdsourced data is then made available through  [open database licensing](https://en.wikipedia.org/wiki/Open_Database_License). The site is supported by the OSM foundation which is a non profit organisation registered in England. In April 2006, the OpenStreetMap Foundation was established to encourage the growth, development and distribution of free [geospatial data](https://en.wikipedia.org/wiki/Geospatial_analysis) and provide geospatial data for anybody to use and share. Major corporate supporters of OSM from the past include [Yahoo!](http://wiki.openstreetmap.org/wiki/Yahoo!_Aerial_Imagery), [MapQuest](http://wiki.openstreetmap.org/wiki/MapQuest) and [Microsoft Bing](http://wiki.openstreetmap.org/wiki/Bing). The OSM [license terms ](http://www.openstreetmap.org/copyright) helps to keep the data open and available for anybody to use.
+
+OSM as a community, runs yearly international conferences called State of the Map. 2007 was the first year this conference was conducted in England. Since then the community has run 9 conferences and there has been an immense involvement by the opensource community which has led to a huge crowd gathering. One can imagine the growth of this community from around 200 attendees in the year 2014 to around 740 people from 40 different countries attending the 2015 conference held in New York City. 
+
+##### Some more insight about State of the map -
+
+SOTM conferences is all about the vast community coming together to share and discuss their work, various projects and also to get introduced to the vast mapping community. During the conference, you get involved in a lot of talks and few Hackday workshop's. This is a great opportunity to learn about what improvements can be  done in the future and get involved and interact with this huge community. The fact that we get an opportunity to meet and interact with few of the long time contributors of OSM itself is amazing. We at Mapbox have been helping in running this event from quite some years the main people involved being @bonniebogle  and @lxbarth. @bonniebogle has been associated since 2012 and since then, we at Mapbox are making immense efforts to support OpenStreetMap into making it as friendly and look at ways to grow the [community](https://github.com/mapbox/hey/issues/4356). 
+
+2015 gave a great opportunity for the Bengaluru team as well. @geohacker and @planemad talk was part of the 60 sessions conducted . SOTM also provides the opportunity for scholarship where in you could get a opportunity to travel and attend the summit. [Few takeaways from SOTM NY 2015](https://github.com/mapbox/hey/issues/4317).
+
+##### Commercial interest 
+
+Though Mapbox uses a mix of open-source, public-domain, and proprietary sources to generate maps, it relies heavily on OSM data for many of its products. As of the present day  there are lot of companies who use OpenStreetMap via Mapbox's rendering and tools provided. [Mapbox collaboration with OSM](http://www.citylab.com/design/2015/06/who-owns-the-digital-map-of-the-world/396119/).
+
+
+Refer OSM wiki - https://en.wikipedia.org/wiki/OpenStreetMap 
+
+http://www.citylab.com/design/2015/06/who-owns-the-digital-map-of-the-world/396119/
