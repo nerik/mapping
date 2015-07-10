@@ -1,7 +1,7 @@
 ![](https://pbs.twimg.com/profile_images/1332105692/OSM_fixed_512.png)
 
 **[OpenStreetMap](http://www.openstreetmap.org)** is an online [open data platform](https://en.wikipedia.org/wiki/Open_data) to collect the world's geographic data based on the Wikipedia model of [crowdsourcing](https://en.wikipedia.org/wiki/Crowdsourcing).
-The project started in 2004 by Steve Coast and is now governed by the non profit [OpenStreetMap Foundation](https://wiki.osmfoundation.org/wiki/Main_Page) based in the UK. 
+The project started in 2004 by [Steve Coast](http://wiki.openstreetmap.org/wiki/User:Steve) and is now governed by the non profit [OpenStreetMap Foundation](https://wiki.osmfoundation.org/wiki/Main_Page) based in the UK. 
 
 The OSMF is responsible for ensuring that the project and collected map data is free and openly accessible to anyone in the world by supporting infrastructure costs through annual fundraising drives. The foundation constitutes a [democratic body](https://wiki.osmfoundation.org/wiki/Join) of elected members from the OSM community and has the final word in the case of disputes in the project.
 
@@ -31,9 +31,12 @@ The primary documentation about the project is available on the [OSM Wiki](http:
 
 Mappers worldwide meet each other and organize social events like [mapping parties](http://wiki.openstreetmap.org/wiki/Mapping_parties) to make it fun to explore neighborhoods and make new friends. You can organize one too, just create a page on the wiki with details and spread the word on your local mailing lists.
 
-![](http://wiki.openstreetmap.org/w/images/thumb/3/38/Osm_bbz_sab.jpg/800px-Osm_bbz_sab.jpg)
+![](http://wiki.openstreetmap.org/w/images/thumb/e/ee/2014_Natori_mapping_event.jpg/800px-2014_Natori_mapping_event.jpg)
 
- Major corporate supporters of OSM from the past include [Yahoo!](http://wiki.openstreetmap.org/wiki/Yahoo!_Aerial_Imagery), [MapQuest](http://wiki.openstreetmap.org/wiki/MapQuest) and [Microsoft Bing](http://wiki.openstreetmap.org/wiki/Bing). The OSM [license terms ](http://www.openstreetmap.org/copyright) helps to keep the data open and available for anybody to use.
+### OSM and business
+The rich mapping data collected by volunteers around the world has resulted in an open map database that is vastly more detailed, customizable and maintainable than any proprietary map database on a global scale. This has made it highly attractive for businesses to use OSM data to bring down the cost of creating and maintaining map data which is an extremely costly operation. Successful organizations have made use of OSM data as the source data on top of which they create mapping services that can be monetized.
+
+Major corporate supporters of OSM from the past include [Yahoo!](http://wiki.openstreetmap.org/wiki/Yahoo!_Aerial_Imagery), [MapQuest](http://wiki.openstreetmap.org/wiki/MapQuest), [Microsoft Bing](http://wiki.openstreetmap.org/wiki/Bing), [Telenav](http://wiki.openstreetmap.org/wiki/Telenav), [Mapzen](http://wiki.openstreetmap.org/wiki/Mapzen) and [Mapbox](http://wiki.openstreetmap.org/wiki/Mapbox)
 
 OSM as a community, runs yearly international conferences called State of the Map. 2007 was the first year this conference was conducted in England. Since then the community has run 9 conferences and there has been an immense involvement by the opensource community which has led to a huge crowd gathering. One can imagine the growth of this community from around 200 attendees in the year 2014 to around 740 people from 40 different countries attending the 2015 conference held in New York City. 
 
