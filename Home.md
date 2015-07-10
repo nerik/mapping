@@ -9,7 +9,7 @@ These guides have been designed to get you from a complete beginner to an advanc
 - [Getting started](Getting started)
 - [Hello Map]()
 - [How to map X?]()
-- [Setting up JOSM]()
+- [Mapping with JOSM](Mapping with JOSM)
 - [Advanced JOSM]()
 - [Working with to-fix]()
 - [Working with tasking manager]()
