@@ -27,6 +27,8 @@ The result is a living map of the world made by the citizens of earth on a level
 
 ![untitled](https://cloud.githubusercontent.com/assets/126868/8614000/fbfac286-2702-11e5-95f0-62ee0b4a3bfd.gif)
 
+The primary documentation about the project is available on the [OSM Wiki]() while discussion takes place over the various [talk mailing lists] and the [oftc #osm IRC channel](http://irc.openstreetmap.org) (try it out!)
+
  Major corporate supporters of OSM from the past include [Yahoo!](http://wiki.openstreetmap.org/wiki/Yahoo!_Aerial_Imagery), [MapQuest](http://wiki.openstreetmap.org/wiki/MapQuest) and [Microsoft Bing](http://wiki.openstreetmap.org/wiki/Bing). The OSM [license terms ](http://www.openstreetmap.org/copyright) helps to keep the data open and available for anybody to use.
 
 OSM as a community, runs yearly international conferences called State of the Map. 2007 was the first year this conference was conducted in England. Since then the community has run 9 conferences and there has been an immense involvement by the opensource community which has led to a huge crowd gathering. One can imagine the growth of this community from around 200 attendees in the year 2014 to around 740 people from 40 different countries attending the 2015 conference held in New York City. 
