@@ -27,7 +27,11 @@ The result is a living map of the world made by the citizens of earth on a level
 
 ![untitled](https://cloud.githubusercontent.com/assets/126868/8614000/fbfac286-2702-11e5-95f0-62ee0b4a3bfd.gif)
 
-The primary documentation about the project is available on the [OSM Wiki]() while discussion takes place over the various [talk mailing lists] and the [oftc #osm IRC channel](http://irc.openstreetmap.org) (try it out!)
+The primary documentation about the project is available on the [OSM Wiki](http://wiki.openstreetmap.org/wiki/Main_Page) while discussion takes place over the various [talk mailing lists](https://lists.openstreetmap.org/listinfo) and the [oftc #osm IRC channel](http://irc.openstreetmap.org) (try it out!).
+
+Mappers worldwide meet each other and organize social events like [mapping parties](http://wiki.openstreetmap.org/wiki/Mapping_parties) to make it fun to explore neighborhoods and make new friends. You can organize one too, just create a page on the wiki with details and spread the word on your local mailing lists.
+
+![](http://wiki.openstreetmap.org/w/images/thumb/3/38/Osm_bbz_sab.jpg/800px-Osm_bbz_sab.jpg)
 
  Major corporate supporters of OSM from the past include [Yahoo!](http://wiki.openstreetmap.org/wiki/Yahoo!_Aerial_Imagery), [MapQuest](http://wiki.openstreetmap.org/wiki/MapQuest) and [Microsoft Bing](http://wiki.openstreetmap.org/wiki/Bing). The OSM [license terms ](http://www.openstreetmap.org/copyright) helps to keep the data open and available for anybody to use.
 
