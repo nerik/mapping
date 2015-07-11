@@ -4,8 +4,9 @@
 
 [OpenStreetMap](http://www.openstreetmap.org) is the free and editable map of the world, created and maintained by a huge international community. Anybody can create an account and start editing on OpenStreetMap.org within minutes. To learn more, read the [Introduction to the OpenStreetMap Project](Introduction to the OpenStreetMap Project)
 
-![screenshot 2015-07-10 10 28 15](https://cloud.githubusercontent.com/assets/126868/8612454/7b55cf86-26ee-11e5-967a-4eb9a0cb76d9.png)
+[![screenshot 2015-07-10 10 28 15](https://camo.githubusercontent.com/f37df4557abce99c195329587f330b1f3d5f2663/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f662e636c2e6c792f6974656d732f325a3038316a304533523435324f3033306f33552f736d74772e676966)](http://osmlab.github.io/show-me-the-way/)
 
+*OpenStreetMap edits on [Show me the Way](http://osmlab.github.io/show-me-the-way/).*
 
 ### Quickstart Mapping Guides
 These guides have been designed to get you from a complete beginner to an advanced OpenStreetMapper right away :rocket: 
