@@ -20,4 +20,4 @@ These guides have been designed to get you from a complete beginner to an advanc
 
 ====
 
-*Terms of Use: The contents of this guide are available under [cc0](https://creativecommons.org/publicdomain/zero/1.0/) except parts of the content where otherwise indicated.*
+*Terms of Use: The contents of this guide are available under [cc0](https://creativecommons.org/publicdomain/zero/1.0/) except parts of the content if otherwise indicated.*
