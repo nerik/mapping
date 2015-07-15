@@ -1,4 +1,4 @@
-Para empezar, configurr su entorno de trabajo con las herramientas que puedas necesitar. Esta guía le guiará a través de la creación de una cuenta en OpenStreetMap.org y configurar el editor para empezar a mapear.
+Para empezar, configurar su entorno de trabajo con las herramientas que puedas necesitar. Esta guía le guiará a través de la creación de una cuenta en OpenStreetMap.org y configurar el editor para empezar a mapear.
 
 ## Crear una cuenta en OpenStreetMap
 
