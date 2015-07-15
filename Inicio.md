@@ -14,7 +14,7 @@ Estas guías han sido diseñados para ir de un principiante a un OpenStreetMappe
 - [Mapeo en OpenStreetMap](https://github.com/mapbox/mapping/wiki/Mapeo-en-OpenStreetMap)
 - [Cómo mapear X](https://github.com/mapbox/mapping/wiki/C%C3%B3mo-mapear-x)
 - [Mapeo con JOSM](https://github.com/mapbox/mapping/wiki/Mapeo-con-JOSM)
-- [Atajos de teclado JOSM](JOSM shortcuts)
+- [Atajos de teclado JOSM](https://github.com/mapbox/mapping/wiki/Atajos-de-teclado-JOSM)
 - [Trabajar con-to fix](Working with to-fix)
 - [Trabajar con gestor de tareas](Working with tasking manager)
 
