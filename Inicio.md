@@ -12,7 +12,7 @@
 Estas guías han sido diseñados para ir de un principiante a un OpenStreetMapper avanzado de inmediato :rocket:
 - [Introducción](https://github.com/mapbox/mapping/wiki/Introducci%C3%B3n)
 - [Mapeo en OpenStreetMap](https://github.com/mapbox/mapping/wiki/Mapeo-en-OpenStreetMap)
-- [Cómo mapear X?](How to map X)
+- [Cómo mapear X](https://github.com/mapbox/mapping/wiki/C%C3%B3mo-mapear-x)
 - [Mapeo con JOSM](Mapping with JOSM)
 - [Atajos JOSM](JOSM shortcuts)
 - [Trabajar con-to fix](Working with to-fix)
