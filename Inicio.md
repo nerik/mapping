@@ -10,7 +10,7 @@
 
 ### Guías de Mapeo Rápido
 Estas guías han sido diseñados para ir de un principiante a un OpenStreetMapper avanzado de inmediato :rocket:
-- [Introducción](Introducción)
+- [Introducción](https://github.com/mapbox/mapping/wiki/Introducci%C3%B3n)
 - [Mapeo en OpenStreetMap](Mapping on OpenStreetMap)
 - [Cómo mapear X?](How to map X)
 - [Mapeo con JOSM](Mapping with JOSM)
