@@ -1,4 +1,4 @@
-*[Versión español](https://github.com/mapbox/mapping/wiki/Inicio)*
+*[-> versión español](https://github.com/mapbox/mapping/wiki/Inicio)*
 
 ## Mapping with OpenStreetMap
 
