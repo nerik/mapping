@@ -1,3 +1,5 @@
+*[-> English version](https://github.com/mapbox/mapping/wiki)*
+
 ## Mapeo con OpenStreetMap
 
 * Esta es la guía del equipo Mapbox para OpenStreetMap. El [equipo de datos Mapbox](http://wiki.openstreetmap.org/wiki/Mapbox#Mapbox_Data_Team) está utilizando este documento como  introducción a la cartografía con OpenStreetMap. Te invitamos a usarlo también. Y si usted tiene una sugerencia para  mejorar [por favor háganoslo saber](https://github.com/mapbox/mapping/issues). feliz mapeo! *
