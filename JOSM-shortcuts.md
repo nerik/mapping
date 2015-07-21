@@ -35,7 +35,7 @@ Update multi polygon | Ctrl + Shift B
 
 #### Customizing Shortcuts
 
-Although the default shortcuts offered in JOSM is a great way to get started, like others on the data team, you'll probably want customized shortcuts based on your preferences. For example, both Arun and Shravan have customized the following shortcuts so that they don't have to remove their right hands from their mouse.
+Customize your shortcuts! One of the first things you should do is customize your shortcuts so you don't need to move your hand from the mouse anymore.
 
 Shortcut | Key
 ---- | ----
