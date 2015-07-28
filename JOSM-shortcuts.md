@@ -1,5 +1,9 @@
 While tracing on the JOSM editor, or fixing errors from to-fix, keyboard shortcuts can save you an immense amount of time and increase the quality of your traces if utilized correctly. By default the JOSM editor comes preloaded with 100+ shortcuts, but here are some you should use to speed up your editing.
 
+To customize your shortcuts, go to JOSM Preferences, and select Keyboard Shortcuts:
+
+![image](https://cloud.githubusercontent.com/assets/8562256/8920966/fd0d97cc-3484-11e5-8080-11b2cfadfbd7.png)
+
 Key|Shortcut
 ---|---
 P | Split Way
