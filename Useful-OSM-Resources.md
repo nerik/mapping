@@ -21,4 +21,21 @@ This is a listing of useful tools that can visualize and process OSM data
 - [OSM Inspector](http://wiki.openstreetmap.org/wiki/OSM_Inspector) 
 - [WHODIDIT](http://zverik.osm.rambler.ru/whodidit/) OpenStreetMap Changeset Analyzer
 
+### Interact
+- Use the [history tab on the map](http://www.openstreetmap.org/history#map=14/51.5150/-0.0972) to find and message active mappers nearby
+- Write on your [OSM Diaries](http://www.openstreetmap.org/diary) to bring up issues for community discussion
+- Join your local [community mailing list]() for discussions on various topics
+
+### Contribute
+- To the [OSM Homepage](https://github.com/openstreetmap/openstreetmap-website)
+- To the development of the [OSM map style and cartography](https://github.com/gravitystorm/openstreetmap-carto/issues)
+
+### Guides and FAQ
+- [OSM wiki FAQ](http://wiki.openstreetmap.org/wiki/FAQ)
+- [OSM help](https://help.openstreetmap.org)
+- [LearnOSM mapping guides](http://learnosm.org)
+- [HOT OSM tracing guides](http://hotosm.github.io/tracing-guides/)
+- [Mapbox Guides](https://www.mapbox.com/guides/)
+
+
 For full list check the [OSM Wiki](http://wiki.openstreetmap.org/wiki/Quality_assurance)
