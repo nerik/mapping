@@ -1,4 +1,4 @@
-This is a listing of useful tools that can visualize and process OSM data
+This is a listing of useful tools that will give you a peek into the various aspects of the OSM world.
 
 ### Survey tools
 - [Fieldpapers](http://fieldpapers.org) for paper based surveying
