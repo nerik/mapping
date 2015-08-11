@@ -13,6 +13,7 @@ This is a listing of useful tools that will give you a peek into the various asp
 - [Map Roulette](http://maproulette.org/)
 - [Map tasking manager](http://tasks.openstreetmap.us/) for coordinating mapping in a continuos area
 
+-
 ### Data
 - [Overpass Turbo](http://overpass-turbo.eu/) for querying OSM by properties
 - [GeoJSON.io](http://geojson.io/) for creating / editing GeoJSON data
@@ -28,6 +29,7 @@ This is a listing of useful tools that will give you a peek into the various asp
 
 For full list check the [OSM Wiki](http://wiki.openstreetmap.org/wiki/Quality_assurance)
 
+-
 ### Community
 - Use the [history tab on the map](http://www.openstreetmap.org/history#map=14/51.5150/-0.0972) to find and message active mappers nearby
 - Write on your [OSM Diaries](http://www.openstreetmap.org/diary) to bring up issues for community discussion
