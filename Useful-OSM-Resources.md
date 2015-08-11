@@ -4,8 +4,8 @@ This is a listing of useful tools that will give you a peek into the various asp
 - [Fieldpapers](http://fieldpapers.org) for paper based surveying
 - [Mapillary](http://mapillary.com/) for crowdsourcing streetview imagery
 
-### OSM mapping tools
-- [JOSM]()
+### OSM mapping resources
+- [OSM Map features](http://wiki.openstreetmap.org/wiki/Map_Features)
 - [Taginfo - tagging stats](http://taginfo.openstreetmap.org/)
 
 ### Data tools
@@ -29,7 +29,8 @@ This is a listing of useful tools that will give you a peek into the various asp
 ### Contribute
 - To the [OSM Homepage](https://github.com/openstreetmap/openstreetmap-website)
 - To the development of the [OSM map style and cartography](https://github.com/gravitystorm/openstreetmap-carto/issues)
-- [OSM wiki: Develop](http://wiki.openstreetmap.org/wiki/Develop)
+- By publishing your tool on [osmlab](https://github.com/osmlab)
+- [OSM wiki: Contribute](http://wiki.openstreetmap.org/wiki/How_to_contribute)
 
 ### Guides and FAQ
 - [OSM wiki FAQ](http://wiki.openstreetmap.org/wiki/FAQ)
