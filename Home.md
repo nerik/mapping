@@ -20,7 +20,8 @@ These guides have been designed to get you from a complete beginner to an advanc
 - [JOSM shortcuts](JOSM shortcuts)
 - [Working with to-fix](Working with to-fix)
 - [Working with tasking manager](Working with tasking manager)
-- [Useful OSM resource](Useful OSM Resources)
+- [Useful OSM resources](Useful OSM Resources)
+
 ====
 
 *Terms of Use: The contents of this guide are available under [cc0](https://creativecommons.org/publicdomain/zero/1.0/) except parts of the content where otherwise indicated.*
