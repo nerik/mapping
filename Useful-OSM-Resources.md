@@ -29,6 +29,7 @@ This is a listing of useful tools that will give you a peek into the various asp
 ### Contribute
 - To the [OSM Homepage](https://github.com/openstreetmap/openstreetmap-website)
 - To the development of the [OSM map style and cartography](https://github.com/gravitystorm/openstreetmap-carto/issues)
+- [OSM wiki: Develop](http://wiki.openstreetmap.org/wiki/Develop)
 
 ### Guides and FAQ
 - [OSM wiki FAQ](http://wiki.openstreetmap.org/wiki/FAQ)
