@@ -5,4 +5,5 @@
 ![screenshot 2015-08-26 14 52 53](https://cloud.githubusercontent.com/assets/126868/9489946/4282a1fa-4c02-11e5-8b70-d4a089296c0b.png)
 
 *Copyright*
-All imagery is from Mapbox Satellite
+
+All imagery sourced from Mapbox Satellite
