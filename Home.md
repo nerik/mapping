@@ -17,9 +17,7 @@ These guides have been designed to get you from a complete beginner to an advanc
 - [Mapping on OpenStreetMap](Mapping on OpenStreetMap)
 - [How to map X?](How to map X)
 - [Mapping with JOSM](Mapping with JOSM)
-- [JOSM shortcuts](JOSM shortcuts)
-- [Working with to-fix](Working with to-fix)
-- [Useful OSM resources](Useful OSM Resources)
+- [Becoming a power mapper](Becoming a power mapper)
 
 ====
 
