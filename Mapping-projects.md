@@ -1,4 +1,4 @@
-The [data team](http://wiki.openstreetmap.org/wiki/Mapbox#Mapbox_Data_Team) is constantly involved in projects to make significant quality improvements to the OSM data on a regular basis. All ongoing projects are coordinated and documented [here](https://github.com/mapbox/mapping/issues).
+The [data team](http://wiki.openstreetmap.org/wiki/Mapbox#Mapbox_Data_Team) is constantly involved in projects to make significant quality improvements to the OSM database. All ongoing projects are coordinated and documented [here](https://github.com/mapbox/mapping/issues).
 
 ### Map improvement
 **Global**
