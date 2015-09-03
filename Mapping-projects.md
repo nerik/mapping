@@ -1,4 +1,4 @@
-The [data team]() is constantly involved in projects to make significant quality improvements to the OSM data on a regular basis. All ongoing projects are coordinated and documented [here]().
+The [data team](http://wiki.openstreetmap.org/wiki/Mapbox#Mapbox_Data_Team) is constantly involved in projects to make significant quality improvements to the OSM data on a regular basis. All ongoing projects are coordinated and documented [here]().
 
 ### Map improvement
 - Over 1 Million buildings and addresses imported to OpenStreetMap
