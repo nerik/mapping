@@ -19,6 +19,9 @@ These guides have been designed to get you from a complete beginner to an advanc
 - [Mapping with JOSM](Mapping with JOSM)
 - [Becoming a power mapper](Becoming a power mapper)
 
+--
+- [Mapping projects](Mapping projects)
+
 ====
 
 *Terms of Use: The contents of this guide are available under [cc0](https://creativecommons.org/publicdomain/zero/1.0/) except parts of the content where otherwise indicated.*
