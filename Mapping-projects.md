@@ -3,6 +3,7 @@ The [data team](http://wiki.openstreetmap.org/wiki/Mapbox#Mapbox_Data_Team) is c
 ### Ongoing Projects
 - [Apply verified map feedback from Mapbox customers to the map](https://www.mapbox.com/blog/streamlining-map-feedback/)
 - [Fix connectivity issues on major and minor roads with to-fix](http://osmlab.github.io/to-fix/#/task/unconnected_major)
+- [Updating OpenStreetMap with the latest TIGER US road data]()
 
 ### Completed Projects
 **Global**
@@ -14,7 +15,6 @@ The [data team](http://wiki.openstreetmap.org/wiki/Mapbox#Mapbox_Data_Team) is c
 - Map completion and fixing work in [Ahmedabad, India](http://www.openstreetmap.org/#map=12/23.0142/72.6062)
 - Map completion and fixing work around [Mysore, India](http://www.openstreetmap.org/#map=13/12.3096/76.6613)
 - [Add missing trail data detected with RunKeeper traces](https://www.mapbox.com/blog/updating-map-runkeeper/)
-- [Updating OpenStreetMap with the latest TIGER US road data]()
 
 **US**
 - [Adding San Francisco Buildings on OpenStreetMap](https://www.mapbox.com/blog/san-francisco-buildings/)
