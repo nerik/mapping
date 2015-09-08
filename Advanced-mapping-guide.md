@@ -1,12 +1,10 @@
 ### Buildings
-**Parallel buildings**
-Using the [building tools plugin](), selecting a building and using the tool aligns subsequent buildings to the first one.
+**Parallel buildings** can be traced using the [building tools plugin](). Select a building and using the tool align subsequent buildings to the first one in one step.
 ![untitled](https://cloud.githubusercontent.com/assets/126868/9729213/73f5971e-562b-11e5-8c86-a1fa91eb969e.gif)
 You can use the area extrude tool (x), to quickly add details to the outlines by creating new nodes (double click) and then dragging the faces.
 ![untitled](https://cloud.githubusercontent.com/assets/126868/9730603/419f04bc-5635-11e5-8ab8-bda7b1223892.gif)
 
-**Compound buildings**
-Can be constructed using simple primitives and joining the overlapping areas (Shift+J)
+**Compound buildings** can be constructed using simple primitives and joining the overlapping areas (Shift+J)
 ![untitled](https://cloud.githubusercontent.com/assets/126868/9731646/c5816cd8-563b-11e5-84c4-497d9ac7536f.gif)
 
 ### Parking
