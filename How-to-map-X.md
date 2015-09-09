@@ -2,7 +2,7 @@ This is a walkthrough of the most important features you will want to map on OSM
 
 *How do I map X?*
 
-We're focusing in this section on the most common map features. For a full documentation, refer to the [OpenStreetMap Map Features](http://wiki.openstreetmap.org/wiki/Map_Features) guide. To look up a specific map feature fast, for instance how to map a bus stop, google with a query like "tag bus stop site:wiki.openstreetmap.org":
+We're focusing in this section on the most common map features. For a full documentation, refer to the [OpenStreetMap Map Features](http://wiki.openstreetmap.org/wiki/Map_Features) guide or [Feature categories](http://wiki.openstreetmap.org/wiki/Category:Features). To look up a specific map feature fast, for instance how to map a bus stop, google with a query like "tag bus stop site:wiki.openstreetmap.org":
 
 ![](https://s3.amazonaws.com/f.cl.ly/items/3C3A0S3k011k1P3b2J0N/google.gif)
 
