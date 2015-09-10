@@ -251,3 +251,4 @@ OpenStreetMap Wiki: [Tag:waterway=river](http://wiki.openstreetmap.org/wiki/Tag:
 - Walking and cycling paths
 - Places (city versus village versus suburb versus neighborhood)
 - Lakes
+- Tracing highway areas
