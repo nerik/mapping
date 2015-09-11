@@ -1,7 +1,7 @@
 ### Roads
 **Neighborhood grid**
 Residential buildings are usually located on a `residential` or `living_street` and has access to a road only on one side, and optionally on the backside via a `service alleyway`. A building with residential roads on multiple sides is a sign of tracing non existent roads due to building shadows.
-![untitled](https://cloud.githubusercontent.com/assets/126868/9808552/8806b662-587d-11e5-8f1e-e7cdf7f4aa13.gif)
+![untitled](https://cloud.githubusercontent.com/assets/126868/9808676/04b6714c-587f-11e5-8ad6-493b1e710662.gif)
 
 ### Buildings
 **Parallel buildings** can be traced using the [building tools plugin](). Select a building and using the tool align subsequent buildings to the first one in one step.
