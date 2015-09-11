@@ -1,6 +1,6 @@
 ### Roads
 **Neighborhood grid**
-Residential buildings are usually located on a `residential` or `living_street` and would usually have only one side with road access. A building with roads on multiple sides is a sign of tracing non existent roads due to building shadows.
+Residential buildings are usually located on a `residential` or `living_street` and has access to a road only on one side, and optionally on the backside via a `service alleyway`. A building with residential roads on multiple sides is a sign of tracing non existent roads due to building shadows.
 ![untitled](https://cloud.githubusercontent.com/assets/126868/9808552/8806b662-587d-11e5-8f1e-e7cdf7f4aa13.gif)
 
 ### Buildings
