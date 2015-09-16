@@ -26,6 +26,7 @@ This is a listing of useful tools that will give you a peek into the various asp
 #### QA Tools
 - [OSM Inspector](http://wiki.openstreetmap.org/wiki/OSM_Inspector) 
 - [WHODIDIT](http://zverik.osm.rambler.ru/whodidit/) OpenStreetMap Changeset Analyzer
+- [Heatmap](http://yosmhm.neis-one.org/)
 
 For full list check the [OSM Wiki](http://wiki.openstreetmap.org/wiki/Quality_assurance)
 
