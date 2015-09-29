@@ -18,7 +18,7 @@ Tracing a road is simple. Use the Draw (A) tool in JOSM or the Line tool in iD a
 
 Look at the picture below, the first example was traced with too few nodes, it is too jagged, the second example was traced with too many nodes adding redundant information, the last one is traced right:
 
-![Too few / too many / right amount of nodes in a curve](https://s3.amazonaws.com/f.cl.ly/items/2h33142Q181p071C1O14/Screen%20Shot%202015-01-04%20at%208.32.37%20PM.png)
+![mapbox guide big](https://cloud.githubusercontent.com/assets/693781/10158378/f3a4b3fc-6691-11e5-9738-58ad86a5a525.png)
 
 Roads must be connected where they intersect. On the left you can see two roads just crossing each other, on the right note how a node connects the two roads. This is important for navigation, where vehicles must be able to be guided from one road to the other. 
 
