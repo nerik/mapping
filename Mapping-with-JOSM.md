@@ -154,6 +154,12 @@ Or if you'd like to see clearly what you've edited in your session, activate "Mo
 
 Try different drawing styles yourself and figure out which ones help you do your work better.
 
+#### Highlight data freshness
+
+You can use [this style](https://raw.githubusercontent.com/Andygol/josm-styles/master/created_in_2015.mapcss) to highlight features that are created or modified in 2015. To configure this:
+
+![](https://cloud.githubusercontent.com/assets/369696/9634340/e596f890-5199-11e5-8335-55d63a9b11d2.gif)
+
 ### Custom imagery
 
 You can also add custom imagery from Tile Map Service (TMS) or Web Map Service (WMS) endpoints. Here is how:
