@@ -1,3 +1,5 @@
+[« Guía: Mapeo con OpenStreetMap] (https://github.com/mapbox/mapping/wiki/Gu%C3%ADa)
+
 Mientras trazas en el editor JOSM, o corriges errores de to-fix, los atajos de teclado puede ahorrar una enorme cantidad de tiempo y aumentar la calidad de sus trazos si se utilizan correctamente. Aquí vamos a cubrir lo que ofrece el editor JOSM por defecto, cómo se puede personalizar atajos según sus preferencias, y que accesos directos son populares entre los demás miembros del equipo de datos.
 
 #### Accesos directos básicos [Default]
