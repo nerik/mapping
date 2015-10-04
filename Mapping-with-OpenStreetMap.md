@@ -11,7 +11,8 @@
 ### Quickstart Mapping Guides
 These guides have been designed to get you from a complete beginner to an advanced OpenStreetMapper right away :rocket: 
 - [Getting started](Getting started)
-- [The Basics](The Basics)
+- [Sources](Sources)
+- [The OpenStreetMap Data Model](The OpenStreetMap Data Model)
 - [Common Features](Common Features)
 - [Mapping with JOSM](Mapping with JOSM)
 - [Becoming a power mapper](Becoming a power mapper)
