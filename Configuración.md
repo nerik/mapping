@@ -14,7 +14,7 @@ Es útil incluir:
 
 - Las áreas en las que estas interesado en mapear
 - Un mensaje agradable que permite a otros a ponerse en contacto
-- Enlaces a su página de inicio/twitter etc que permite a la gente seguirte
+- Enlaces a su página de inicio/twitter etc que permita a la gente seguirte
 
 *(Formato en [Markdown](http://en.wikipedia.org/wiki/Markdown))*
 
