@@ -1,1 +1,4 @@
-Moved: https://github.com/mapbox/mapping/wiki/The-Basics
+Moved:
+
+- [Sources](Sources)
+- [The OpenStreetMap Data Model](The OpenStreetMap Data Model)
