@@ -1,3 +1,5 @@
+[« Guide: Mapping with OpenStreetMap](https://github.com/mapbox/mapping/wiki/Guide)
+
 These pages will allow you to get the most out of JOSM and become a power mapper on OSM.
 
 - [Feature identification guide](Feature identification guide)
