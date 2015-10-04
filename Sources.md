@@ -1,6 +1,6 @@
 [« Mapping with OpenStreetMap](https://github.com/mapbox/mapping/wiki/Mapping-with-OpenStreetMap)
 
-Think of real world features like a road, a river, a house or a city. Each feature on OpenStreetMap stems from a real world observation. Observations can be made in ground surveys, through sensors like GPS, from satellite imagery, from photos or they can be copied from third party data. Here's an overview of how to select appropriate sources and the types of sources available for mapping.
+Think of real world features like streets, rivers, houses and cities. Each feature on OpenStreetMap stems from a real world observation. Observations can be made in ground surveys, through sensors like GPS, from satellite imagery, from photos or they can be copied from third party data. Selecting the _appropriate_ source and translating it _correctly_ into OpenStreetMap is immensely important - it's the definition of great mapping.
 
 *Appropriate sources*
 
