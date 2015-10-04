@@ -1,0 +1,1 @@
+Moved https://github.com/mapbox/mapping/wiki/Caracter%C3%ADsticas-comunes
