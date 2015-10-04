@@ -1,4 +1,4 @@
-[« Guía: Mapeo con OpenStreetMap] (https://github.com/mapbox/mapping/wiki/Gu%C3%ADa)
+[« Guía: Mapeo con OpenStreetMap](https://github.com/mapbox/mapping/wiki/Mapeo-con-OpenStreetMap)
 
 [To-fix](http://osmlab.github.io/to-fix/) is a QA tool and tasking manager for OpenStreetMap. Systematic issues in the map geometries and inconsistent tags are processed regularly and loaded into to-fix as simple tasks that can be quickly cycled through and corrected by mappers if possible.
 
