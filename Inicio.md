@@ -1,0 +1,1 @@
+Moved: https://github.com/mapbox/mapping/wiki/Gu%C3%ADa
