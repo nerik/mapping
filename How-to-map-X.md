@@ -1,1 +1,1 @@
-Moved: https://github.com/mapbox/mapping/wiki/Common-Features
+Moved: [Mapping Common Features](Mapping Common Features)
