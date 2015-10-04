@@ -1,4 +1,4 @@
-*[-> English version](https://github.com/mapbox/mapping/wiki)*
+*[-> English version](https://github.com/mapbox/mapping/wiki/Guide)*
 
 # Mapeo con OpenStreetMap
 
