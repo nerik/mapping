@@ -13,8 +13,8 @@ These guides have been designed to get you from a complete beginner to an advanc
 - [Getting started](Getting started)
 - [Sources](Sources)
 - [The OpenStreetMap Data Model](The OpenStreetMap Data Model)
-- [Common Features](Common Features)
 - [Mapping with JOSM](Mapping with JOSM)
+- [Mapping Common Features](Mapping Common Features)
 - [Becoming a power mapper](Becoming a power mapper)
 
 
