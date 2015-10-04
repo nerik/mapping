@@ -73,6 +73,6 @@ El control remoto te permite lanzar JOSM directamente desde el mapa en OpenStree
 
 ![Pantalla 05/08/2015 15 37 58](https://cloud.githubusercontent.com/assets/126868/7534456/69ced7c6-f598-11e4-8a57-d0bf2df339d9.png)
 
-También has un check a la  opción 'Descargar objetos a una nueva capa'. Ahora usted debería ser capaz de recuperar los datos directamente iniciando en OpenStreetMap.org así:
+También has un check a la  opción 'Descargar objetos a una nueva capa'. Ahora usted debería ser capaz de obtener los datos directamente iniciando en OpenStreetMap.org así:
 
 ![](https://s3.amazonaws.com/f.cl.ly/items/3R0Q3Y3W1b0h3j0k242e/josm.gif)
