@@ -11,6 +11,8 @@ If you're interested in learning OpenStreetMap, also take a look at [LearnOSM](h
 
 The [Mapbox data team](http://wiki.openstreetmap.org/wiki/Mapbox#Mapbox_Data_Team) leads and participates in initiatives to improve OpenStreetMap data. All ongoing projects are coordinated and documented [on the issue queue of this repository](https://github.com/mapbox/mapping/issues).
 
+We are always interested in how we can make our work better and collaborate with everyone else around this amazing project. If you have suggestions or questions, [open an issue for us](https://github.com/mapbox/mapping/issues) or [send us a message directly](http://wiki.openstreetmap.org/wiki/Mapbox#Mapbox_Data_Team).
+
 #### Completed
 
 Here is an overview of the most important finalized mapping initiatives:
