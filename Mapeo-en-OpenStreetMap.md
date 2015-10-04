@@ -1,4 +1,4 @@
-[«Guía de OpenStreetMap] (https://github.com/mapbox/data/wiki/OpenStreetMap-Guide)
+[«Guía de OpenStreetMap] (https://github.com/mapbox/mapping/wiki/Gu%C3%ADa)
 
 Esta es una introducción a mapear características del mundo real en OpenStreetMap como calles, edificios, parques, ciudades, cafés y escuelas. Habla de donde se toma la información y cómo se modela en OpenStreetMap. Esta sección se ocupa de los fundamentos de la cartografía.
 
