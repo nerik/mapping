@@ -1,1 +1,1 @@
-Moved: https://github.com/mapbox/mapping/wiki/Configuraci%C3%B3n
+Moved: https://github.com/mapbox/mapping/wiki/Configuración
