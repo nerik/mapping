@@ -1,4 +1,4 @@
-[« Guide: Mapping with OpenStreetMap](https://github.com/mapbox/mapping/wiki/Guide)
+[« Mapping with OpenStreetMap](https://github.com/mapbox/mapping/wiki/Mapping-with-OpenStreetMap)
 
 This is a walkthrough of the most important features you will want to map on OSM. It's an introduction to get you started mapping but not meant to be comprehensive. We're going to use some OpenStreetMap specific terms here, if you're not familiar with what "nodes", "way" and "relations" are, read the previous guides first.
 
