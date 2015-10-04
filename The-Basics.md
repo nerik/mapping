@@ -1,6 +1,8 @@
 [« Mapping with OpenStreetMap](https://github.com/mapbox/mapping/wiki/Mapping-with-OpenStreetMap)
 
-This is an introduction to map real world features on OpenStreetMap like streets, buildings, parks, cities, cafés and schools. It talks about where we take information from and how it is modeled in OpenStreetMap. This section deals with the fundamentals of mapping. 
+This section is about where OpenStreetMap data is from (Sources) and how it is modeled in OpenStreetMap (The OpenStreetMap Data Model).
+
+Consider a *feature* a real world entity like a road, a river, a house or a city. Each feature on OpenStreetMap stems from a real world observation. Observations can be made in ground surveys, through sensors like GPS, from satellite imagery, from photos or they can be copied from third party data. Once in OpenStreetMap, each feature is described as one or more geometries (think for instance of a river's shape) with attached attribute data (think of the river's name). Geometries are described as nodes, ways and relations and attributes are described as tags that can be part of a node, a way or a relation.
 
 ## Sources
 
@@ -55,7 +57,7 @@ Here are examples from what sources it is appropriate to add to OpenStreetMap:
 - Any source data without clear permissive terms
 - Whenever you're not sure whether a source is appropriate to use
 
-## The OpenStreetMap data model
+## The OpenStreetMap Data Model
 
 OpenStreetMap is made up of three different *elements*: *nodes*, *ways* and *relations*. Each of them can have one or more *tags* giving them some specific significance. Nodes are the equivalent of a point, ways are like lines that connect points and relations are collections of points or ways that represent a larger whole. This is easiest to understand with a couple of examples.
 
