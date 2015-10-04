@@ -1,6 +1,6 @@
 [« Mapping with OpenStreetMap](https://github.com/mapbox/mapping/wiki/Mapping-with-OpenStreetMap)
 
-Here is a walkthrough of the most important features you'll use in JOSM for editing OpenStreetMap. Note that this section only focuses on the mechanics of editing with JOSM.
+This guide will get you started working with the [Java OpenStreetMap editor (JOSM)](http://josm.openstreetmap.de/) - a powerful and popular desktop editor for OpenStreetMap. Note that this section only focuses on the mechanics of editing with JOSM.
 
 ## Downloading from OpenStreetMap
 
