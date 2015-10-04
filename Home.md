@@ -9,14 +9,12 @@ If you're interested in learning OpenStreetMap, also take a look at [LearnOSM](h
 
 ## Mapping projects
 
-The [data team](http://wiki.openstreetmap.org/wiki/Mapbox#Mapbox_Data_Team) is constantly involved in projects to make significant quality improvements to the OSM database. All ongoing projects are coordinated and documented [here](https://github.com/mapbox/mapping/issues).
-
-#### Ongoing
-- [Apply verified map feedback from Mapbox customers to the map](https://www.mapbox.com/blog/streamlining-map-feedback/)
-- [Fix connectivity issues on major and minor roads with to-fix](http://osmlab.github.io/to-fix/#/task/unconnected_major)
-- [Updating OpenStreetMap with the latest TIGER US road data]()
+The [Mapbox data team](http://wiki.openstreetmap.org/wiki/Mapbox#Mapbox_Data_Team) leads and participates in initiatives to improve OpenStreetMap data. All ongoing projects are coordinated and documented [on the issue queue of this repository](https://github.com/mapbox/mapping/issues).
 
 #### Completed
+
+Here is an overview of the most important finalized mapping initiatives:
+
 **Global**
 - [Over 1 Million buildings and addresses imported to OpenStreetMap](https://www.mapbox.com/blog/nyc-buildings-openstreetmap/)
 - Adding Russian translations to major non-Russian place names - [contact](https://www.openstreetmap.org/user/andygol)
