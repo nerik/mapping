@@ -12,7 +12,7 @@ Una gran cantidad de datos de OpenStreetMap es original - recogidos por miembros
 
 Mientras la forma mas facil de empezar es trazar remotamente  imagenes satelitales, los datos de encuesta de campo son altamente valiosos porque son datos de primera mano de lugares mapeados y toma mayor tiempo de recoleccion.
 
-Si bien nuestro enfoque en Mapbox está en mapeo remoto, corremos encuestas sobre el terreno para los entrenamientos del equipo y en los talleres. Recopilación de sus propios datos es divertido y deberías intentarlo. Los datos encuestados en el terreno son muy valiosa ya que es un relato de primera mano del lugar asignado y que se necesita más tiempo para recoger.
+Si bien nuestro enfoque en Mapbox está en mapeo remoto, corremos encuestas sobre el terreno para los entrenamientos del equipo y en los talleres. Recopilación de sus propios datos es divertido y deberías intentarlo. Los datos encuestados en el terreno son muy valiosos ya que es un relato de primera mano del lugar asignado y que se necesita más tiempo para recoger.
 
 ![](https://s3.amazonaws.com/f.cl.ly/items/3A232p2m053W3W0m2O3f/Untitled.png)
 
