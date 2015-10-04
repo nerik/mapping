@@ -1,3 +1,5 @@
+[« Guide: Mapping with OpenStreetMap](https://github.com/mapbox/mapping/wiki/Guide)
+
 To get started, set up your work environment with the tools you would need. This guide walks you through creating an account on OpenStreetMap.org and setting up your editor to get started mapping.
 
 ## Set up an OpenStreetMap Account
