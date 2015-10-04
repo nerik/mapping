@@ -1,4 +1,4 @@
-[« Guía: Mapeo con OpenStreetMap] (https://github.com/mapbox/mapping/wiki/Gu%C3%ADa)
+[« Guía: Mapeo con OpenStreetMap](https://github.com/mapbox/mapping/wiki/Mapeo-con-OpenStreetMap)
 
 Para empezar, configurar su entorno de trabajo con las herramientas que puedas necesitar. Esta guía le guiará a través de la creación de una cuenta en OpenStreetMap.org y configurar el editor para empezar a mapear.
 
