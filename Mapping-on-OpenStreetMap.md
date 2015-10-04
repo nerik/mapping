@@ -1,3 +1,5 @@
+[« Guide: Mapping with OpenStreetMap](https://github.com/mapbox/mapping/wiki/Guide)
+
 This is an introduction to map real world features on OpenStreetMap like streets, buildings, parks, cities, cafés and schools. It talks about where we take information from and how it is modeled in OpenStreetMap. This section deals with the fundamentals of mapping. 
 
 ## Sources
