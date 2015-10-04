@@ -1,4 +1,6 @@
-  Aquí un tutorial de las características más importantes que utilizará en JOSM para la edición de OpenStreetMap. Tenga en cuenta que esta sección sólo se centra en la mecánica de la edición con JOSM.
+[« Guía: Mapeo con OpenStreetMap] (https://github.com/mapbox/mapping/wiki/Gu%C3%ADa)
+
+Este es un tutorial de las características más importantes que utilizará en JOSM para la edición de OpenStreetMap. Tenga en cuenta que esta sección sólo se centra en la mecánica de la edición con JOSM.
 
 ## Descarga de OpenStreetMap
 
