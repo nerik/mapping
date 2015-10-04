@@ -10,9 +10,10 @@
 
 ### Guías de Mapeo Rápido
 Estas guías han sido diseñados para ir de un principiante a un OpenStreetMapper avanzado de inmediato :rocket:
-- [Introducción](https://github.com/mapbox/mapping/wiki/Introducci%C3%B3n)
-- [Mapeo en OpenStreetMap](https://github.com/mapbox/mapping/wiki/Mapeo-en-OpenStreetMap)
-- [Cómo mapear X](https://github.com/mapbox/mapping/wiki/C%C3%B3mo-mapear-x)
+- [Configuración](https://github.com/mapbox/mapping/wiki/Configuraci%C3%B3n)
+- [Fuentes](Fuentes)
+- [Modelo de datos](Modelo de datos)
+- [Características comunes](https://github.com/mapbox/mapping/wiki/Caracter%C3%ADsticas-comunes)
 - [Mapeo con JOSM](https://github.com/mapbox/mapping/wiki/Mapeo-con-JOSM)
 - [Atajos de teclado JOSM](https://github.com/mapbox/mapping/wiki/Atajos-de-teclado-JOSM)
 
