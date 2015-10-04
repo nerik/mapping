@@ -1,7 +1,11 @@
-## Guide
+## Getting started guides
+
+The Mapbox team's guides to getting started with OpenStreetMap:
 
 - [Mapping with OpenStreetMap](https://github.com/mapbox/mapping/wiki/Guide)
 - [Mapeo con OpenStreetMap](https://github.com/mapbox/mapping/wiki/Gu%C3%ADa)
+
+If you're interested in learning OpenStreetMap, also take a look at [LearnOSM](http://learnosm.org), the OpenStreetMap Wiki's  [Beginner Guide](http://wiki.openstreetmap.org/wiki/Beginners%27_Guide) and [Map Features](http://wiki.openstreetmap.org/wiki/Map_Features) documentation.
 
 ## Mapping projects
 
