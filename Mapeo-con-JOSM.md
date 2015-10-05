@@ -179,7 +179,7 @@ Como último recurso, puede intentar cargar los cambios uno por uno. Aunque esto
 
 ### Scripting JOSM
 
-Puede guión JOSM para automatizar ciertos flujos de trabajo. Por ejemplo:
+Puedes hacer un script a JOSM para automatizar ciertos flujos de trabajo. Por ejemplo:
 
 - Expandir abreviaturas (US): https://gist.github.com/Rub21/feb83f57a727ac0d8a34
 - Poner en mayuscula nombres y eliminar "name = S / N": https://gist.github.com/Rub21/47838797856566a8b6ba
