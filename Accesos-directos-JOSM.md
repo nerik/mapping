@@ -1,4 +1,4 @@
-Mientras trazamos en el editor JOSM, o la arreglamos errores en to-fix, los atajos de teclado puede ahorrar gran cantidad de tiempo y aumentar la calidad de sus trazos si se utilizan correctamente. Por defecto el editor JOSM viene pre-establecidos con más de 100 accesos directos, pero aquí hay algunas que puedes usar para acelerar tu edición.
+Mientras trazamos en el editor JOSM, o  arreglando errores en to-fix, los atajos de teclado puede ahorrar gran cantidad de tiempo y aumentar la calidad de sus trazos si se utilizan correctamente. Por defecto el editor JOSM viene pre-establecidos con más de 100 accesos directos, pero aquí hay algunas que puedes usar para acelerar tu edición.
 
 Para personalizar tus accesos directos, vaya a Preferencias JOSM y seleccione Atajos de teclado:
 
