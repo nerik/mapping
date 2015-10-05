@@ -22,6 +22,7 @@ Mappers worldwide meet each other and organize social events like [mapping parti
 OpenStreetMap as a community, runs yearly international conferences called State of the Map. 2007 was the first year this conference was conducted in England. Since then the community has run 9 conferences each with registering massive growth from the previous year. One can imagine the growth of this community from around 200 attendees in the year 2014 to around 740 people from 40 different countries attending the 2015 conference held in New York City. 
 
 ![](http://wiki.openstreetmap.org/w/images/thumb/6/68/SOTMUS_2015_audience.jpg/799px-SOTMUS_2015_audience.jpg)
+*CC-by-sa Ian Dees: [Audience at State of the Map US 2015 at the United Nations, New York City](http://wiki.openstreetmap.org/wiki/File:SOTMUS_2015_audience.jpg)*
 
 ### Open Geographic Data
 
