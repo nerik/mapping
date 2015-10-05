@@ -11,7 +11,7 @@ Seleccione las capas que desea carga al iniciar una nueva sesión de JOSM.
 
 ![josm_session_save2](https://cloud.githubusercontent.com/assets/353700/10278346/3ba42c22-6b7a-11e5-8769-c7dafb902ca2.gif)
 
-# Cargando una sesión JOSM
+# Cargar una sesión JOSM
 
 Para cargar una sesión JOSM previamente guardada, haga clic en `Archivo > Sesión > session carga sesion` .
 Seleccione el `.jos` que guardó.
