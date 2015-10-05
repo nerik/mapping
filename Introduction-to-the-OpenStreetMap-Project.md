@@ -17,6 +17,7 @@ The primary documentation about the project is available on the [OpenStreetMap W
 Mappers worldwide meet each other and organize social events like [mapping parties](http://wiki.openstreetmap.org/wiki/Mapping_parties) to make it fun to explore neighborhoods and make new friends. You can organize one too, just create a page on the wiki with details and spread the word on your local mailing lists.
 
 ![](http://wiki.openstreetmap.org/w/images/thumb/e/ee/2014_Natori_mapping_event.jpg/800px-2014_Natori_mapping_event.jpg)
+*CC-by-sa [Yuriage district Mapping Party for reseaching 2011 Japan Tsunami Disastered Area](http://wiki.openstreetmap.org/wiki/File:2014_Natori_mapping_event.jpg)*
 
 OpenStreetMap as a community, runs yearly international conferences called State of the Map. 2007 was the first year this conference was conducted in England. Since then the community has run 9 conferences each with registering massive growth from the previous year. One can imagine the growth of this community from around 200 attendees in the year 2014 to around 740 people from 40 different countries attending the 2015 conference held in New York City. 
 
