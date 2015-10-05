@@ -1,4 +1,4 @@
-[« Guía: Mapeo con OpenStreetMap](https://github.com/mapbox/mapping/wiki/Mapeo-con-OpenStreetMap)
+[« Guía: Mapeoando con OpenStreetMap](https://github.com/mapbox/mapping/wiki/Mapeando-con-OpenStreetMap)
 
 OpenStreetMap se compone de tres **elementos** diferentes: *nodos*, *caminos* y *relaciones*. Cada uno de ellos puede tener una o más *etiquetas* dándoles un significado específico. Los nodos son el equivalente a un punto, los caminos son como las líneas que conectan los puntos y las relaciones son colecciones de puntos o caminos que representan un todo más grande. Esto es más fácil de entender con un par de ejemplos.
 
