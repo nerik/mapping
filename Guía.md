@@ -1,1 +1,1 @@
-Moved: [Mapeo con OpenStreetMap](Mapeo con OpenStreetMap)
+Moved: [Mapeando con OpenStreetMap](https://github.com/mapbox/mapping/wiki/Mapeando-con-OpenStreetMap)
