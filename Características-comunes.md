@@ -59,7 +59,7 @@ Las carreteras a menudo vienen con etiquetas secundarias, especificando además 
 
 caminos de una sola via se asignan simplemente añadiendo una etiqueta 'oneway = yes`  para el camino de la carretera. Tenga en cuenta que los caminos tienen una direccionalidad. Así que el camino será de un solo sentido en la dirección del camino. Si necesita cambiar el flujo  de "una sola via", usted tiene dos opciones:
 
-- Cambie la dirección del camino (Tool > Revers ways in JOSM or the `<<` context icon on iD)
+- Cambie la dirección del camino (Tool > Revers ways in JOSM o el `<<` context icon on iD)
 - O etiquete con  `oneway = -1` - utilizar este enfoque donde la direccionalidad de los caminos ya gobiernas otros atributos como rutas de autobús.
 
 ![tagging a oneway](https://s3.amazonaws.com/f.cl.ly/items/1W0M081C2W3K0j0p1I2r/oneway.gif)
