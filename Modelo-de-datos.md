@@ -26,7 +26,7 @@ o este parque:
  
 ![](https://s3.amazonaws.com/f.cl.ly/items/2z0E1H041j0W0E1m0R2u/Screen%20Shot%202014-12-12%20at%207.31.44%20PM.png)
 
-Los nodos son por lo general sólo los elementos que definen un camino. Pero nodos que se sientan en un camino pueden tener su propio significado. En este ejemplo, el nodo es parte de la calle 14 y R  y esto también denota que hay un semáforo.
+Los nodos son por lo general sólo los elementos que definen un camino. Pero los nodos que se sientan en un camino pueden tener su propio significado. En este ejemplo, el nodo es parte de la calle 14  R  y esto también denota que hay un semáforo.
 
 ![](https://s3.amazonaws.com/f.cl.ly/items/3V262D3F0h1L3J0V2m3B/trafficlight.gif)
 
@@ -37,7 +37,7 @@ Antes de que nos saltemos al tercer elemento al lado de los nodos y formas - rel
 ![](https://s3.amazonaws.com/f.cl.ly/items/3h0O2m3Y2c120h1M3p0h/Screen%20Shot%202014-12-16%20at%204.01.44%20PM.png)
 
 
-Cualquier caracteristica de tipo de punto es un nodo. Ya sea que un nodo designe una cafetería, una escuela, una fuente de incendios, un árbol, un parque, un pico de montaña depende enteramente de cómo se etiqueta el nodo. Cualquier caracteristica de tipo de línea es un camino. Ya sea que el camino sea una carretera, un edificio, un lago, un ferrocarril, un ciclovia es de nuevo, definido por la forma en que se etiqueta.
+Cualquier caracteristica de tipo de punto es un nodo. Ya sea que un nodo designe una cafetería, una escuela, una fuente de incendios, un árbol, un parque, un pico de montaña depende enteramente de cómo se etiqueta el nodo. Cualquier caracteristica de tipo de línea es un camino. Ya sea que el camino sea una carretera, un edificio, un lago, un ferrocarril, un ciclovia, es de nuevo definido por la forma en que se etiqueta.
 
 Las etiquetas pueden estar en cualquier elemento: en nodos, caminos y relaciones.
 
