@@ -1,4 +1,4 @@
-[« Guía: Mapeo con OpenStreetMap](https://github.com/mapbox/mapping/wiki/Mapeo-con-OpenStreetMap)
+[« Guía: Mapeando con OpenStreetMap](https://github.com/mapbox/mapping/wiki/Mapeando-con-OpenStreetMap)
 
 Este es un tutorial de las características más importantes que usted querrá mapear en OSM. Esta es una introducción para empezar a mapear pero no quiere decir que sea completo. Vamos a utilizar algunos términos específicos de OpenStreetMap aquí, si usted no está familiarizado con lo que son "nodos", "caminos" y "relaciones" , primero lea las guías anteriores.
 
