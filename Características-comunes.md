@@ -8,7 +8,7 @@ Nos estamos centrando en esta sección sobre las características más comunes d
 
 ![](Https://s3.amazonaws.com/f.cl.ly/items/3C3A0S3k011k1P3b2J0N/google.gif)
 
-Un valioso recurso complementario es[taginfo.openstreetmap.org](http://taginfo.openstreetmap.org/).Tag info muestra el número de veces que una etiqueta específica se ha utilizado que te permite encontrar cuan establecido esta la etiqueta.
+Un valioso recurso complementario es [taginfo.openstreetmap.org](http://taginfo.openstreetmap.org/).Tag info muestra el número de veces que una etiqueta específica se ha utilizado que te permite encontrar cuan establecido esta la etiqueta.
 
 ## Carreteras y caminos
 
