@@ -14,7 +14,7 @@
 
 #### Instrucciones
 * Una vez que un área se ha mejorado en OSM, marque el asunto como arreglado  para eliminarlo de la cola
-* Si usted siente la zona es poco clara y desea un tarea diferente, precione Skip
+* Si usted siente la zona es poco clara y desea una tarea diferente, precione Skip
 * También puedes agregar una nota para conseguir la claridad de los contribuyentes en la zona
 * Si el problema fue marcado incorrectamente como un error, presiona "not an error"  para eliminarlo de la cola
 
