@@ -26,7 +26,7 @@ Los caminos deben estar conectados en el que se cruzan. A la izquierda se puede 
 
 ![](https://s3.amazonaws.com/f.cl.ly/items/180r0E2l0P2H0m0Z3m07/Screen%20Shot%202015-01-04%20at%208.55.14%20PM.png)
 
-Y siga el flujo de las carreteras en lo posible. A la izquierda el camino fue trazado con un "desvío" por ninguna razón apparant. A la derecha se ve cómo el trazado de ruta sigue el flujo lógico de la carretera.
+Y siga el flujo de las carreteras en lo posible. A la izquierda el camino fue trazado con un "desvío" por ninguna razón aparente. A la derecha se ve cómo el trazado de ruta sigue el flujo lógico de la carretera.
 
 ![Equivocada: "mapa alrededor de las esquinas",  derecha: siga el flujo](https://s3.amazonaws.com/f.cl.ly/items/0k1F3Y0m0y081H3v0W07/Screen%20Shot%202015-01-04%20at%208.48.54%20PM.png)
 
