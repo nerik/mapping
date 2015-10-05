@@ -22,7 +22,7 @@ Haga clic en el botón de "nodos dibujados" para ingresar en el nodo de la creac
 
 ## Modificación de datos
 
-Haga clic en el botón "Select" para seleccionar los nodos o caminos existentes. Para mover nodos o caminos haga clic en ellos, mantenga pulsado el botón del ratón pulsado y arrastrarlos. A continuación, suelte el botón del ratón donde desea colocarlos.
+Haga clic en el botón "Select" para seleccionar los nodos o caminos existentes. Para mover nodos o caminos haga clic en ellos, mantenga el botón del ratón pulsado y arrastrarlos. A continuación, suelte el botón del ratón donde desea colocarlos.
 
 ![](Https://s3.amazonaws.com/f.cl.ly/items/2r3h0m1E262s3j3M191q/edit.gif)
 
@@ -88,7 +88,7 @@ Hay muchos plugins JOSM que nos ayudan a hacer nuestro trabajo más rápido. Aqu
 
 **Plugins de edificios**
 
-Para rastrear los edificios, siempre use el plugin de edificios. Se acelera la edición mediante la creación de cajas rectangulares con una etiqueta `building = yes` por defecto. Para dibujar rápidamente edificios que están alineados entre sí, dibujar el primer edificio, seleccionarlo, y dibujar posteriores edificios paralelos.
+Para trazar los edificios, siempre use el plugin de edificios. Se acelera la edición mediante la creación de cajas rectangulares con una etiqueta `building = yes` por defecto. Para dibujar rápidamente edificios que están alineados entre sí, dibujar el primer edificio, seleccionarlo, y dibujar posteriores edificios paralelos.
 
 ![](Https://s3.amazonaws.com/f.cl.ly/items/0Y2T1s0x0M2t3C24363A/buildings.gif)
 
@@ -96,7 +96,7 @@ Para alinear los edificios existentes cuidadosamente, puede seleccionar varios e
 
 ![3zpk8nxbdt](https://cloud.githubusercontent.com/assets/126868/6900081/d65cf23c-d721-11e4-82f9-7084b11bb41f.gif)
 
-*Plugin de Turnrestrictions*
+*Plugin de restricciones de giro*
 
 Este plugin hace que sea muy fácil de agregar restricciones de giro  a las carreteras como "prohibido girar a la izquierda".
 
@@ -126,7 +126,7 @@ Utilsplugin2 viene con una serie de herramientas que todos ustedes pueden encont
 
 **Notas**
 
-Las notas son una gran manera de enviar preguntas para otros en el mapa. Cuando la cartografía, observar las notas que otros dejaron en la zona y si usted tiene una pregunta específica o una sugerencia sobre cómo el mapa se puede mejorar, considere dejar una nota.
+Las notas son una gran manera de enviar preguntas para otros en el mapa. Cuando en la cartografía, observar las notas que otros dejaron en la zona y si usted tiene una pregunta específica o una sugerencia sobre cómo se puede mejorar el mapa, considere dejar una nota.
 
 Activar el plugin de notas:
 
@@ -144,7 +144,7 @@ JOSM valida automáticamente los datos cuando se sube, pero se puede ejecutar la
 
 ### Configuración de estilos de dibujo
 
-A veces es útil para ajustar los estilos de dibujo para ayudar a mejorar la visibilidad de ciertas características.
+A veces es útil para ajustar los estilos de dibujo, ayudar a mejorar la visibilidad de ciertas características.
 
 Por ejemplo, si usted está trabajando con direcciones, active "Address Tags Validator":
 
