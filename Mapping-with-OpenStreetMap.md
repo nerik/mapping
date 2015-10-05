@@ -1,4 +1,4 @@
-*[-> versión español](https://github.com/mapbox/mapping/wiki/Mapeo-con-OpenStreetMap)*
+*[-> versión español](https://github.com/mapbox/mapping/wiki/Mapeando-con-OpenStreetMap)*
 
 >*This is the Mapbox team guide to OpenStreetMap. The [Mapbox data team](http://wiki.openstreetmap.org/wiki/Mapbox#Mapbox_Data_Team) is using this document as an introduction to mapping with OSM. We invite you to use it too. And if you have a suggestion for an improvement [please let us know](https://github.com/mapbox/mapping/issues). Happy Mapping!*
 
