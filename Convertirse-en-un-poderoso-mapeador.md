@@ -6,4 +6,4 @@ Estas páginas le permitirá sacar el máximo partido de JOSM y convertirse en u
 - [Guía de mapeo avanzado](https://github.com/mapbox/mapping/wiki/Guia-de-mapeo-avanzado) para las características detalladas del mapa
 - [Guardando y cargargando una sesión en JOSM](https://github.com/mapbox/mapping/wiki/Guardando-y-cargando-una-sesi%C3%B3n-en-JOSM)
 - [Trabajando con to-fix](https://github.com/mapbox/mapping/wiki/Trabajando-con-To-fix)
-- [Recursos útiles OSM](Recursos útiles OSM)
+- [Recursos útiles OSM](https://github.com/mapbox/mapping/wiki/Recursos-%C3%9Atiles--OSM)
