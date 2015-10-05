@@ -17,6 +17,7 @@ Estas guías han sido diseñados para ir de un principiante a un OpenStreetMappe
 - [Mapeo con JOSM](https://github.com/mapbox/mapping/wiki/Mapeo-con-JOSM)
 - [Atajos de teclado JOSM](https://github.com/mapbox/mapping/wiki/Atajos-de-teclado-JOSM)
 - [Convertirse en un mapeador poderoso](https://github.com/mapbox/mapping/wiki/Convertirse-en-un-poderoso-mapeador)
+
 ====
 
 *Condiciones de uso: El contenido de esta guía están disponibles en [CC0](https://creativecommons.org/publicdomain/zero/1.0/) excepto partes del contenido donde se indique lo contrario*.
