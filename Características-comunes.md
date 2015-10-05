@@ -18,7 +18,7 @@ Las carreteras son algunos de los rasgos más significativos que mapeamos. Si bi
 
 Trazar una carretera es sencillo. Utilice la herramienta de dibujo (A) en JOSM o la herramienta de línea de iD y dibujar el camino siguiendo su curso. El truco es usar la cantidad correcta de nodos para describir un camino. Pocos nodos hacen el camino aparecer muy irregular. Demasiados son datos innecesarios y hacen que el camino sea difícil de editar más adelante.
 
-Mira la foto de abajo, el primer ejemplo fue rastreado con muy pocos nodos, es demasiado irregular, el segundo ejemplo fue rastreado con demasiados nodos añadiendo información redundante, la última es trazada correctamente:
+Mira la foto de abajo, el primer ejemplo fue trazado con muy pocos nodos y es demasiado irregular, el segundo ejemplo fue trazado con demasiados nodos añadiendo información redundante, la última es trazada correctamente:
 
 ![Muy pocos / mucha cantidad / la cantitdad correcta de nodos es una curba](https://s3.amazonaws.com/f.cl.ly/items/2h33142Q181p071C1O14/Screen%20Shot%202015-01-04%20at%208.32.37%20PM.png)
 
