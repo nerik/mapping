@@ -1,4 +1,4 @@
-[« Guía: Mapeo con OpenStreetMap](https://github.com/mapbox/mapping/wiki/Mapeo-con-OpenStreetMap)
+[« Guía: Mapeoando con OpenStreetMap](https://github.com/mapbox/mapping/wiki/Mapeando-con-OpenStreetMap)
 
 La mayoría de los datos de OpenStreetMap o bien es encuestada, trazada a partir de imágenes de satélite o importados de fuentes de terceros.
 
