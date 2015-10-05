@@ -108,7 +108,7 @@ Para crear un simple intersección entre dos caminos, sólo asegúrese de conect
 
 #### Túnel
 
-Un túnel lleva la etiqueta de  'túnnel = yes` y un `layer=` que es uno más bajo que la etiqueta  `layer=`  de las caracteristicas con las que intersectan  (por defecto el valor del `layer` es 0). El camino  *no* esta conectado con la otra caracteristica. Corte los caminos donde empiezan los tuneles.
+Un túnel lleva la etiqueta de  'túnnel = yes` y un `layer=` que es uno más bajo que la etiqueta  `layer=`  de las caracteristicas con las que intersectan  (por defecto el valor del `layer` es 0). El camino  *no* esta conectado con las otras caracteristicas. Corte los caminos donde empiezan los tuneles.
  
 ![Muestra cómo mapear un túnel](https://s3.amazonaws.com/f.cl.ly/items/0e3S3F3j1N000w1R1d2x/tunnel.gif)
 
@@ -168,7 +168,7 @@ Utilize líneas auxiliares para alinear partes salientes de un edificio:
 
 ![](Https://s3.amazonaws.com/f.cl.ly/items/0s3G3T200b1C3d3i0x2Y/buildingalignment.gif)
 
-Para alinear los edificios previamente trazadas cuidadosamente, seleccionalos ,y a continuación, seleccione dos nodos de referencia para crear un eje de alineación y orthoganalize la seleccion con "**Q**".
+Para alinear los edificios previamente trazadas, cuidadosamente seleccionalos y a continuación, seleccione dos nodos de referencia para crear un eje de alineación y orthoganalize la selección con "**Q**".
 
 ![3zpk8nxbdt](https://cloud.githubusercontent.com/assets/126868/6900081/d65cf23c-d721-11e4-82f9-7084b11bb41f.gif)
 
