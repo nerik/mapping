@@ -17,3 +17,13 @@
 * If you feel the area is unclear and would like a different issue, hit Skip
 * You can also add a note to get clarity from contributors on the ground
 * If the issue was incorrectly marked as an error, hit Not an error to remove it from the queue
+
+
+
+## Fixing common issues
+### Impossible oneways
+Incorrectly tagged oneways and direction can break routing if it results in a oneway trap from where it is not possible to exit to the main road network.
+
+**Reverse incorrect oneway**
+Verify the direction from the cars or road marking from the imagery and reverse the one way
+![untitled](https://cloud.githubusercontent.com/assets/126868/8327474/5b4d587c-1a86-11e5-9831-f93172b6d1e9.gif)
