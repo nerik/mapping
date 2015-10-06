@@ -138,7 +138,7 @@ OpenStreetMap Wiki: [Tag:railway=level_crossing](http://wiki.openstreetmap.org/w
 
 Map a roundabout by tracing the circular road and tag it with `junction=roundabout`. For the road classification, use the highest classification of all roads connected to the roundabout. The `junction=roundabout` tag implies a oneway - make sure that the directionality of the way is correct.
 
-![how to map a roundabout](https://s3.amazonaws.com/f.cl.ly/items/1d0z472I3x2i2v2q0G2y/Screen%20Shot%202015-01-04%20at%2010.27.09%20PM.png)
+![ezgif-1791703736](https://cloud.githubusercontent.com/assets/12744420/10310207/745ec272-6c5e-11e5-8d4c-5727e8b5d42e.gif))
 
 #### Complex intersections
 
