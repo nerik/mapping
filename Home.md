@@ -1,4 +1,4 @@
-Welcome to the home of Mapbox' mapping activities on [OpenStreetMap](http://openstreetmap.org/about). [Our data team](http://wiki.openstreetmap.org/wiki/Mapbox) updates OpenStreetMap based on quality analysis and customer feedback. Our principle is *work in the open*. You are welcome to join [one of our open mapping projects over on the issue queue](https://github.com/mapbox/mapping/issues) or just use our documentation in this Wiki.
+Welcome to the home of Mapbox's mapping activities on [OpenStreetMap](http://openstreetmap.org/about). [Our data team](http://wiki.openstreetmap.org/wiki/Mapbox) updates OpenStreetMap based on quality analysis and customer feedback. Our principle is *work in the open*. You are welcome to join [one of our open mapping projects over on the issue queue](https://github.com/mapbox/mapping/issues) or use our documentation of best practices in this Wiki.
 
 ## Getting started guides
 
