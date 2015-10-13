@@ -5,7 +5,7 @@ To get started, set up your work environment with the tools you would need. This
 ## Set up an OpenStreetMap Account
 
 1. Go to OpenStreetMap.org and create an account: [https://www.openstreetmap.org/user/new](https://www.openstreetmap.org/user/new)
-2. **IMPORTANT** add a picture of yourself to your profile if you are a human
+2. **IMPORTANT** add a picture of yourself to your profile
 3. Add a profile description like below
 
 ### Profile description
