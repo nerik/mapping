@@ -1,3 +1,5 @@
 - [Home](https://github.com/mapbox/mapping/wiki)
-- [Mapping Common Features](https://github.com/mapbox/mapping/wiki/Mapping%20Common%20Features)
-- [Características comunes](https://github.com/mapbox/mapping/wiki/Caracter%C3%ADsticas-comunes)
+- [Mapping with OpenStreetMap](https://github.com/mapbox/mapping/wiki/Mapping-with-OpenStreetMap)
+ - [Mapping Common Features](https://github.com/mapbox/mapping/wiki/Mapping%20Common%20Features)
+- [Mapeando con OpenStreetMap](https://github.com/mapbox/mapping/wiki/Mapeando-con-OpenStreetMap)
+ - [Características comunes](https://github.com/mapbox/mapping/wiki/Caracter%C3%ADsticas-comunes)
