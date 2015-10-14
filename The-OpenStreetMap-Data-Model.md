@@ -51,7 +51,7 @@ Relations are used to organize multiple nodes or ways into a larger whole. Take 
 
 The type of relation that you'll probably deal most with describes an area with punched out holes - a so called *multipolygon*.  Here is an example of a multipolygon building with a yard. It consists of 2 ways with each multiple nodes. One way describes the *outer* wall of the building, the other one the *inner* wall. The ways are part of a relation of the type `type=multipolygon`, the outer way has the role `outer` and the and the inner way has the role `inner`. Note: the `building=yes` tag is on the relation (not on the way).
 
-Your OpenStreetMap editor will take care of creating multipolygons for you so don't worry if this seems dense for now. If you need to fix a multipolygon, this is a good section to come back though.
+Your OpenStreetMap editor will take care of creating multipolygons for you so don't worry if this seems dense for now. If you need to fix a multipolygon, this is a good section to come back and review.
 
 ![Multipolygon building, show how there are no tags on the nodes and ways, but on the relation](https://s3.amazonaws.com/f.cl.ly/items/3G292J2S2D310i0t0Q13/multipolygon.gif)
 
