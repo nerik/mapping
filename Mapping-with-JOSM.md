@@ -28,7 +28,9 @@ Click the "Select" button to select existing nodes or ways. To move nodes or way
 
 To delete data, use the `del` key of your keyboard or on a mac, use `fn+delete`.
 
-Ways can be connected to each other. In JOSM speak, you can glue, unglue, split and combine them. This is useful to create logical connections, for instance between roads of different type.
+If you ever make a mistake, `ctrl+Z`, or `command+Z` on mac, will undo the last change.
+
+Ways can be connected to each other. In JOSM speak, you can glue, unglue, split and combine them. This is useful to create logical connections, for instance between roads of different type. To prevent ways from connecting when drawing, say when drawing a road close to buildings, hold the `ctrl` key, while clicking the mouse.
 
 ![](https://s3.amazonaws.com/f.cl.ly/items/2p3Y2x461o390V3q1E22/split.gif)
 
