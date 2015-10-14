@@ -1,6 +1,6 @@
 [« Mapping with OpenStreetMap](https://github.com/mapbox/mapping/wiki/Mapping-with-OpenStreetMap)
 
-This guide will get you started working with the [Java OpenStreetMap editor (JOSM)](http://josm.openstreetmap.de/) - a powerful and popular desktop editor for OpenStreetMap. Note that this section only focuses on the mechanics of editing with JOSM.
+This guide will get you started working with the [Java OpenStreetMap editor (JOSM)](http://josm.openstreetmap.de/) - a powerful and popular desktop editor for OpenStreetMap. Another popular editor is [iD](https://www.mapbox.com/blog/new-map-editor-launches-openstreetmap/), commonly used for short and simple, browser based editing sessions. Note that this section only focuses on the mechanics of editing with JOSM.
 
 ## Downloading from OpenStreetMap
 
@@ -8,11 +8,11 @@ To start editing, download an area from OpenStreetMap by using the green down-ar
 
 ## Using imagery
 
-You will routinely use imagery for mapping. JOSM comes with a variety of preconfigured satellite imagery layers - the Bing and Mapbox layers being the most popular ones. Simply select one of them from the imagery menu and you're ready to go.
+You will routinely use imagery for mapping. JOSM comes with a variety of pre-configured satellite imagery layers - the Bing and Mapbox layers being the most popular ones. Bing and Mapbox may have different levels of detail and clarity in different places, so often worth checking both. Simply select one of them from the imagery menu and you're ready to go.
 
 ![](https://s3.amazonaws.com/f.cl.ly/items/0E463a191T1R182t0o09/imagery.gif)
 
-When using imagery, keep in mind that imagery may be offset. That is, features on imagery may not be at the same location as they are in the real world. For reference, check existing features on the map and compare them with the imagery or download GPS tracks. To download GPS tracks from OpenStreetMap, check the "Raw GPS" box in the download dialog. If you observe an offset in the imagery, you can correct for it by selecting the "New offset" item in the "Imagery" menu.
+When using imagery, keep in mind that imagery may be offset. That is, due to complexities in processing satellite imagery, features on imagery may not be at the same location as they are in the real world. For reference, check existing features on the map and compare them with the imagery or download GPS tracks. To download GPS tracks from OpenStreetMap, check the "Raw GPS" box in the download dialog. If you observe an offset in the imagery, you can correct for it by selecting the "New offset" item in the "Imagery" menu.
 
 ## Creating data
 
