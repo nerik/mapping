@@ -10,7 +10,7 @@ Here are examples from what sources it is appropriate to add to OpenStreetMap:
 
 - Your firsthand **local knowledge** for instance from a ground survey
 - **Satellite imagery** explicitly available to OpenStreetMap for tracing - for example Bing or Mapbox Satellite
-- **GPS tracks** explicitly available for OpenStreetMap - for example GPS tracks you collected yourself or the GPS tracks available from OpenStreetMap.org 
+- **GPS tracks** explicitly available for OpenStreetMap - for example GPS tracks you collected yourself, or GPS tracks uploaded and available from OpenStreetMap.org 
 - **[Mapillary](http://mapillary.com/)** photos 
 - **Original information** on web sites such as a store's address on the store's web site
 - **Permissively licensed datasets** such as [Wikidata](http://www.wikidata.org/wiki/Wikidata:Main_Page) - a permissive license would be [CC0](https://creativecommons.org/publicdomain/zero/1.0/) or any terms of use that would pass the [open definition](http://opendefinition.org/) _and_ do not require share-alike.
