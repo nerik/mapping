@@ -4,7 +4,7 @@ This guide will get you started working with the [Java OpenStreetMap editor (JOS
 
 ## Downloading from OpenStreetMap
 
-To start editing, download an area from OpenStreetMap by using the green button on the top right.
+To start editing, download an area from OpenStreetMap by using the green down-arrow button on the left in the menu bar.
 
 ## Using imagery
 
@@ -16,7 +16,7 @@ When using imagery, keep in mind that imagery may be offset. That is, features o
 
 ## Creating data
 
-Click the "Draw nodes" button to enter the data creation node. Subsequent clicks on the map will set nodes connected by a way. Double click to finish drawing the way. For drawing single nodes, simply double click on the map. To draw a closed way, finish a way with a click on the first node you drew.
+Click the "Draw nodes" button to enter the data creation mode. Subsequent clicks on the map will set nodes connected by a way. Double click to finish drawing the way. For drawing single nodes, simply double click on the map. To draw a closed way, finish a way with a click on the first node you drew.
 
 ![](https://s3.amazonaws.com/f.cl.ly/items/1w3i0p411R2b0s0y1r2R/trace.gif)
 
@@ -28,13 +28,13 @@ Click the "Select" button to select existing nodes or ways. To move nodes or way
 
 To delete data, use the `del` key of your keyboard or on a mac, use `fn+delete`.
 
-Ways can be connected to each other. In JOSM speak, you can glue, unglue, split and combine them. This is useful to create logical connections between for instance roads of a different type.
+Ways can be connected to each other. In JOSM speak, you can glue, unglue, split and combine them. This is useful to create logical connections, for instance between roads of different type.
 
 ![](https://s3.amazonaws.com/f.cl.ly/items/2p3Y2x461o390V3q1E22/split.gif)
 
 ## Tagging
 
-You can add, modify or delete tags directly in the tagging panel in JOSM's side bar. If for some reason this panel is not visible, you can enabled it under the "Window" menu. The example below tags two ways at the same time. Simply hold shift when to select multiple objects.
+You can add, modify or delete tags directly in the tagging panel in JOSM's side bar. If for some reason this panel is not visible, you can enabled it under the "Windows" menu. The example below tags two ways at the same time. Simply hold shift to select multiple objects.
 
 ![screenshot from 2014-11-24 16 15 10](https://s3.amazonaws.com/f.cl.ly/items/0C2X2O3I0l2K0X3G2P00/tagging.gif)
 
@@ -42,13 +42,13 @@ You can add, modify or delete tags directly in the tagging panel in JOSM's side 
 
 ![ssasa](https://cloud.githubusercontent.com/assets/1152236/5173525/5bf9022a-73f7-11e4-97b8-89203488adca.png)
 
-*Copy & pasting tags*
+** Copy & pasting tags **
 
 You can copy and paste tags from one object to another. Just select one object, copying with `ctr + c`. Then select the other object and paste with `ctrl + shift + v`. This will copy _only tags_ - not the geometry.
 
 ## Uploading to OpenStreetMap
 
-To upload the data, click on the button with the up-arrow on the left in the menu bar. This will automatically trigger *validation*. Review all validation warnings and resolve all errors before you upload. If there are any errors or warnings, do your best to fix them. Before you upload, **add a proper changeset comment and specify what source you used**. This is important as it will show other users who see your changesets what this changeset was intended to modify and where you took the information from.
+To upload the data, click on the green up-arrow button on the left in the menu bar. This will automatically trigger *validation*. Review all validation warnings and resolve all errors before you upload. If there are any errors or warnings, do your best to fix them. Before you upload, **add a proper changeset comment and specify what source you used**. This is important as it will show other users who see your changesets what this changeset was intended to modify and from where you took the information.
 
 The upload will take a few seconds. The data is live on OpenStreetMap immediately. The map usually takes a couple of minutes to clear through all caches.
 
@@ -64,7 +64,7 @@ Once you uploaded the data, you and everyone else can see a corresponding entry 
 
 Filters are very powerful and can speed up your work tremendously. Take a look at the [JOSM filter documentation](https://josm.openstreetmap.de/wiki/Help/Dialog/Filter) and at [AJ's blog post about filters](https://www.mapbox.com/blog/2012-08-15-using-filters-josm/) to learn how they work.
 
-Here are some of the most common filter selectors we use for editing:
+Here are some of the most common filter selectors in use for editing:
 
 `boundary: | leisure: |  landuse:  | waterway: | amenity: | natural: | building:`
 
@@ -76,13 +76,13 @@ When you work on OpenStreetMap, you will use highway classifications a lot, brin
 
 ### Use keyboard shortcuts
 
-When you're editing, you will be a lot faster using key board short cuts. Take a moment to familiarize yourself with them and start using them! You can find keyboard shortcuts in the menus like in the screenshot below, but there's also [a full reference of keyboard shortcuts on the JOSM web site](https://josm.openstreetmap.de/wiki/Shortcuts) ([en español](https://josm.openstreetmap.de/wiki/Es%3AShortcuts)).
+When you're editing, you will be a lot faster using keyboard short cuts. Take a moment to familiarize yourself with them and start using them! You can find keyboard shortcuts in the menus like in the screenshot below, but there's also [a full reference of keyboard shortcuts on the JOSM web site](https://josm.openstreetmap.de/wiki/Shortcuts) ([en español](https://josm.openstreetmap.de/wiki/Es%3AShortcuts)).
 
 ![screenshot from 2014-11-25 22 25 06](https://cloud.githubusercontent.com/assets/1152236/5195894/23afd078-74f2-11e4-9735-640cefcbfe0c.png)
 
 ### Plugins
 
-There are many JOSM plugins that help us do our work faster. Here are a couple that we use most commonly. You find all plugins in the settings panel like here:
+There are many JOSM plugins that will help you to map faster. Here are a couple that used most commonly. You find all plugins in the settings panel:
 
 ![](https://s3.amazonaws.com/f.cl.ly/items/3Q2T452P2j0H3t2F1h1b/plugins.gif)
 
@@ -92,11 +92,11 @@ For tracing buildings, always use the buildings plugin. It speeds up editing by 
 
 ![](https://s3.amazonaws.com/f.cl.ly/items/0Y2T1s0x0M2t3C24363A/buildings.gif)
 
-To align existing buildings neatly, you can select multiple buildings, then two extra nodes to set the alignment axis and [orthoganalize shape(q)](http://josm.openstreetmap.de/wiki/Help/Action/OrthogonalizeShape)
+To align existing buildings neatly, you can select multiple buildings, then two extra nodes to set the alignment axis and [orthoganalize shape (keyboard shortcut `q`)](http://josm.openstreetmap.de/wiki/Help/Action/OrthogonalizeShape)
 
 ![3zpk8nxbdt](https://cloud.githubusercontent.com/assets/126868/6900081/d65cf23c-d721-11e4-82f9-7084b11bb41f.gif)
 
-*turnrestrictions plugin*
+** turnrestrictions plugin **
 
 This plugin makes it really easy to add turn restrictions such as "no left turn" to roads.
 
@@ -112,17 +112,17 @@ To delete the latest created nodes, just hit `backspace`.
 
 To determine how many nodes are set automatically in freehand mode, use the up and down arrow keys. 
 
-To finish drawing, press enter to go into the simplification mode (yellow), press the up or down arrow for the desired level of simplification and press enter again to crete the way.
+To finish drawing, press enter to go into the simplification mode (feature will turn yellow), press the up or down arrow for the desired level of simplification and press enter again to create the way.
 
 *[Video Tutorial](https://www.youtube.com/watch?v=xqDd-Crk3o4)*
 
 **Utilsplugin2**
 
-Utilsplugin2 comes with a series of tools that you can all find in the new menu "More tools" after the plugin is installed. The one we use most is "Add nodes at Intersections" which gives you a fast way to add nodes at places where ways intersect in the current selection.
+Utilsplugin2 comes with a series of tools that you can all find in the new menu "More tools", after the plugin is installed. The most used one is "Add nodes at Intersections" which gives you a fast way to add nodes at places where ways intersect in the current selection.
 
 ![screenshot from 2014-11-25 17 03 51](https://cloud.githubusercontent.com/assets/1152236/5193091/698be05e-74cb-11e4-8dcb-1a1a228daa07.png)
 
-*[Video](https://www.youtube.com/watch?v=F5NsYpKC6G4)*
+*[Video Tutorial](https://www.youtube.com/watch?v=F5NsYpKC6G4)*
 
 **Notes**
 
@@ -138,7 +138,7 @@ Now you should see a list of notes in the side bar for the area you're mapping i
 
 ### Validation
 
-JOSM automatically validates your data when uploading, but you can run validation at any point by clicking 'validate' in the validation panel.
+JOSM automatically validates your data when uploading, but you can run validation at any point by clicking 'Validation' in the Validation panel.
 
 ![](https://s3.amazonaws.com/f.cl.ly/items/2i0I3E3I3m0r3u2F1f2x/validate.gif)
 
@@ -172,14 +172,14 @@ You can also add custom imagery from Tile Map Service (TMS) or Web Map Service (
  
 ### Resolving conflicts
 
-If you upload a change to OpenStreetMap and someone has changed the same area in the meantime, a conflict will occur. In this case OpenStreetMap will refuse your changes. Follow these steps to resolve the conflicts:
+If you upload a change to OpenStreetMap and someone has changed one of the same features in the meantime, a conflict will occur. In this case OpenStreetMap will refuse your changes. Follow these steps to resolve the conflicts:
 
 1. Download new data from OpenStreetMap for the area in which the conflict occured.
 2. Run validation and review the conflicts.
 3. Fix them.
 4. Attempt upload again.
 
-As a last resort, you can attempt to upload changes one by one. This is not recommendable though.
+As a last resort, you can attempt to upload changes one by one. This is not recommended though.
 
 ![screenshot from 2014-11-25 16 43 40](https://cloud.githubusercontent.com/assets/1152236/5192070/3e43555c-74c2-11e4-9c7a-87bb52120ddc.png)
 
