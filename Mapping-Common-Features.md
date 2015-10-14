@@ -4,11 +4,11 @@ This is a walkthrough of how to create and edit the most common features on Open
 
 *How do I map X?*
 
-We're focusing in this section on the most common map features. For a full documentation, refer to the [OpenStreetMap Map Features](http://wiki.openstreetmap.org/wiki/Map_Features) guide or [Feature categories](http://wiki.openstreetmap.org/wiki/Category:Features). To look up a specific map feature fast, for instance how to map a bus stop, google with a query like "tag bus stop site:wiki.openstreetmap.org":
+We're focusing in this section on the most common map features. For full documentation, refer to the [OpenStreetMap Map Features](http://wiki.openstreetmap.org/wiki/Map_Features) guide or [Feature categories](http://wiki.openstreetmap.org/wiki/Category:Features). To look up a specific map feature fast, for instance how to map a bus stop, google with a query like "tag bus stop site:wiki.openstreetmap.org":
 
 ![](https://s3.amazonaws.com/f.cl.ly/items/3C3A0S3k011k1P3b2J0N/google.gif)
 
-A valuable complimentary resource is [taginfo.openstreetmap.org](http://taginfo.openstreetmap.org/). Tag info shows you the number of times a specific tag has been used which lets you find out how established a tag is.
+A valuable complimentary resource is [taginfo.openstreetmap.org](http://taginfo.openstreetmap.org/). Tag info shows you the number of times a specific tag has been used, which lets you find out how established a tag is.
 
 ## Roads and paths
 
@@ -16,17 +16,17 @@ Roads are some of the most significant features we map. While roads are easy to 
 
 ### Tracing roads
 
-Tracing a road is simple. Use the Draw (A) tool in JOSM or the Line tool in iD and draw the road following its course. The trick is to use the right amount of nodes to describe a way. Too few make the road appear very jagged. Too many are unnecessary data and make the road hard to edit later.
+Tracing a road is simple. Use the Draw (`a`) tool in JOSM or the Line tool in iD and draw the road following its course. The trick is to use the right amount of nodes to describe a way. Too few make the road appear very jagged. Too many are unnecessary data and make the road hard to edit later.
 
-Look at the picture below, the first example was traced with too few nodes, it is too jagged, the second example was traced with too many nodes adding redundant information, the last one is traced right:
+Look at the picture below, the first example was traced with too few nodes, it is too jagged; the second example was traced with too many nodes adding redundant information; the last one is traced right:
 
 ![mapbox guide big](https://cloud.githubusercontent.com/assets/693781/10158378/f3a4b3fc-6691-11e5-9738-58ad86a5a525.png)
 
-Roads must be connected where they intersect. On the left you can see two roads just crossing each other, on the right note how a node connects the two roads. This is important for navigation, where vehicles must be able to be guided from one road to the other. 
+Roads must be connected where they intersect. On the left you can see two roads just crossing each other, on the right note how a node connects the two roads. This is important for navigation, where vehicles must be guided from one road to the other. 
 
 ![](https://s3.amazonaws.com/f.cl.ly/items/180r0E2l0P2H0m0Z3m07/Screen%20Shot%202015-01-04%20at%208.55.14%20PM.png)
 
-And follow the flow of roads where possible. On the left the road was traced with a "detour" for no apparant reason. On the right you see how the road tracing follows the logical flow of the road.
+And follow the flow of roads where possible. On the left, the road was traced with a "detour" for no apparant reason. On the right you see how the road tracing follows the logical flow of the road.
 
 ![wrong: "map around corners", right: follow flow](https://s3.amazonaws.com/f.cl.ly/items/0k1F3Y0m0y081H3v0W07/Screen%20Shot%202015-01-04%20at%208.48.54%20PM.png)
 
@@ -59,7 +59,7 @@ Roads often come with secondary tags, further specifying type or attribute of a 
 
 Oneways are mapped by simply adding a `oneway=yes` tag to the road's way. Keep in mind that ways have a directionality. So the road will be a oneway in the direction of the way. If you need to change the flow of the one way, you have two options:
 
-- Change the direction of the way (Tool > Revers ways in JOSM or the `<<` context icon on iD)
+- Change the direction of the way (`Tool > Reverse Ways` in JOSM or the `<<` context icon on iD)
 - Or tag with `oneway=-1` - use this approach where the way's directionality already governs another attribute such as bus route.
 
 ![tagging a oneway](https://s3.amazonaws.com/f.cl.ly/items/1W0M081C2W3K0j0p1I2r/oneway.gif)
@@ -74,33 +74,33 @@ Turn restrictions are rules that disallow certain turn maneuvers. Here's for ins
 
 To map turn restrictions in JOSM, use the **turnrestrictions** plugin. Once enabled, you can activate a new turn restriction panel from the `Windows > Turn Restriction` menu item.
 
-Once enabled, create new turn restrictions or edit exiting ones from the panel. Here is an example of how to create a simple "no right turn" restriction. We're selecting the way we can't take the right turn from as "from" object, the way we can't take the right turn to as "to" object and then we specify that the restriction is a "no right turn" restriction. As we save the turnrestrictions dialog warns us that there is no "via" object defined. It is not strictly required to have one, but is good practice, so we define one.
+Once enabled, create new turn restrictions or edit existing ones from the panel. Here is an example of how to create a simple "no right turn" restriction. We're selecting the way we can't take the right turn from as "from" object, the way we can't take the right turn to as "to" object and then we specify that the restriction is a "no right turn" restriction. As we save the turnrestrictions dialog warns us that there is no "via" object defined. It is not strictly required to have one, but is good practice, so we define one.
 
 ![](https://s3.amazonaws.com/f.cl.ly/items/24173W1U033a193q2l1F/turn.gif)
 
 Turn restrictions can get more complex quickly, so before you create or edit turn restrictions, make sure you read through and understand all available documentation on the OpenStreetMap wiki.
 
-Video: [How to edit turn restrictions in JOSM](https://www.youtube.com/watch?v=0SdixDJAED0)
+*Video: [How to edit turn restrictions in JOSM](https://www.youtube.com/watch?v=0SdixDJAED0)*
 
-OpenStreetMap Wiki: [Relation:restriction](http://wiki.openstreetmap.org/wiki/Relation:restriction)
+*OpenStreetMap Wiki: [Relation:restriction](http://wiki.openstreetmap.org/wiki/Relation:restriction)*
 
 ### Simple classification guide
 
-One of the more subtle skills to learn in OpenStreetMap is how to properly classify roads. The `highway` tag has more than eight values for roads, another five-plus for non-vehicular traffic, and a series of secondary tags. What's more highway classifications are highly country specific and follow different conventions on a country by country basis.
+One of the more subtle skills to learn in OpenStreetMap is how to properly classify roads. The `highway` tag has more than eight values for roads, another five-plus for non-vehicular traffic, and a series of secondary tags. What's more, highway classifications are highly country specific and follow different conventions on a country by country basis.
 
-Here's a quick guide on how to go about working with road classifications on OpenStreetMap.
+Here's a quick guide on how to go about working with road classifications in OpenStreetMap.
 
 1. Follow existing classifications. Don't change classifications and follow the conventions you see on the local map for new data.
 2. The smallest roads in a network are the easiest ones to identify and also the ones you'll wind up adding most. For minor roads, prefer `highway=residential` in built up residential areas, `highway=unclassified` for everything else.
 3. For all other cases, use `highway=road`
 
-For a full reference on highway mapping, look at the [wiki entry for the highway tag](http://wiki.openstreetmap.org/wiki/Key:highway).
+For a full reference on highway mapping, look at the *[wiki entry for the highway tag](http://wiki.openstreetmap.org/wiki/Key:highway)*.
 
 ### Intersections
 
-The intersection between a roads and another feature always must be defined. Where they meet, there is either an intersection, a tunnel or a bridge.
+The intersection between a road and another feature must always be defined. Where they meet, there is either an intersection, a tunnel or a bridge.
 
-#### Simple intersections beween two roads
+#### Simple intersections between two roads
 
 To create a simple intersection between two roads, just make sure to connect the two roads with a node.
 
@@ -116,7 +116,7 @@ A building passage is a special type of tunnel that passes through a building. T
 
 ![map a building passage](https://s3.amazonaws.com/f.cl.ly/items/1v1E0Z2P0C3X1K1h0Q1M/building-passage.gif)
 
-OpenStreetMap Wiki: [Key:tunnel](http://wiki.openstreetmap.org/wiki/Key:tunnel)
+*OpenStreetMap Wiki: [Key:tunnel](http://wiki.openstreetmap.org/wiki/Key:tunnel)*
 
 #### Bridge
 
@@ -124,7 +124,7 @@ In addition to the road's `highway=*` tag, a bridge carries the `bridge=yes` and
 
 ![show how to map a bridge](https://s3.amazonaws.com/f.cl.ly/items/1v1P2S3P35292a1m2a0m/bridge.gif)
 
-OpenStreetMap Wiki: [Key:bridge](http://wiki.openstreetmap.org/wiki/Key:bridge)
+*OpenStreetMap Wiki: [Key:bridge](http://wiki.openstreetmap.org/wiki/Key:bridge)*
 
 #### Railroad crossing
 
@@ -132,7 +132,7 @@ Map a railroad crossing similar to an intersection between two roads by connecti
 
 ![map a level crossing](https://s3.amazonaws.com/f.cl.ly/items/1q3o381b0K3r3x291J0E/level_crossing.gif)
 
-OpenStreetMap Wiki: [Tag:railway=level_crossing](http://wiki.openstreetmap.org/wiki/Tag:railway%3Dlevel_crossing)
+*OpenStreetMap Wiki: [Tag:railway=level_crossing](http://wiki.openstreetmap.org/wiki/Tag:railway%3Dlevel_crossing)*
 
 #### Roundabouts
 
@@ -156,11 +156,11 @@ The main challenge with tracing buildings is lack of detail in imagery. Where yo
 
 Here are a couple of JOSM specific tips to trace buildings effectively.
 
-For tracing buildings, use the **buildings plugin**. Once enabled, a new building tool will be available in the edit toolbar on the left. The building tool "**B**" will draw rectangular shapes tagged `building=yes` for you. To draw buildings parallel to each other, draw the first building, select it, then draw subsequent buildings.
+For tracing buildings, use the **buildings plugin**. Once enabled, a new building tool will be available in the edit toolbar on the left. The building tool `B` will draw rectangular shapes tagged `building=yes` for you. To draw buildings parallel to each other, draw the first building, select it, then draw subsequent buildings.
 
 ![](https://s3.amazonaws.com/f.cl.ly/items/3A2T0l0Y3x0N030w090F/building.gif)
 
-If you draw closed ways free hand, use `Tools > Orthogonalize Shape` or press "**Q**" to square out buildings like so:
+If you draw closed ways free hand, use `Tools > Orthogonalize Shape` or press `Q` to square out buildings like so:
 
 ![](https://s3.amazonaws.com/f.cl.ly/items/3U3c1S1V2X1Q1h3s0845/Screen%20Shot%202014-12-15%20at%206.35.04%20PM.png)
 
@@ -168,11 +168,11 @@ Use auxiliary lines to align protruding portions of a building:
 
 ![](https://s3.amazonaws.com/f.cl.ly/items/0s3G3T200b1C3d3i0x2Y/buildingalignment.gif)
 
-To align previously traced buildings neatly, select them, and then select two reference nodes to create an alignment axis and orthoganalize "**Q**" the selection.
+To align previously traced buildings neatly, select them, and then select two reference nodes to create an alignment axis and orthoganalize `Q` the selection.
 
 ![3zpk8nxbdt](https://cloud.githubusercontent.com/assets/126868/6900081/d65cf23c-d721-11e4-82f9-7084b11bb41f.gif)
 
-You can use split buildings temporarily with `Tools > Split Way` or pressing "**P**" to orthogonalize portions of a building before reconnecting the with `Tools > Connect Way` or pressing "**C**":
+You can use split buildings temporarily with `Tools > Split Way` or pressing `P` to orthogonalize portions of a building before reconnecting the with `Tools > Connect Way` or pressing `C`:
 
 ![](https://s3.amazonaws.com/f.cl.ly/items/151R161W3i2c043q1z0B/straightenc.gif)
 
@@ -180,15 +180,15 @@ Here is a quick end to end walkthrough of how to trace a building:
 
 ![](https://s3.amazonaws.com/f.cl.ly/items/3T0Y0h390L3l19000s2h/buildings.gif)
 
-OpenStreetMap Wiki: [Key:building](http://wiki.openstreetmap.org/wiki/Key:building)
+*OpenStreetMap Wiki: [Key:building](http://wiki.openstreetmap.org/wiki/Key:building)*
 
-Video: [Tracing buildings with JOSM](https://www.youtube.com/watch?v=9GRIHSAAkSs)
+*Video: [Tracing buildings with JOSM](https://www.youtube.com/watch?v=9GRIHSAAkSs)*
 
 ## Points of interest
 
 "Point of interest" is a general term for a real world point-like feature noteworthy enough to include it on a map. Some examples are restaurants, cafés, shops, banks, churches, public toilets and water fountains. There's not a single point of interest tag key in OpenStreetMap but a variety that can be used for mapping a point of interest: `amenity=`, `shop=`, `tourism=` are some examples.
 
-OpenStreetMap Wiki: [Key:amenity](http://wiki.openstreetmap.org/wiki/Key:amenity), [Key:tourism](http://wiki.openstreetmap.org/wiki/Key:tourism), [Key:shop](http://wiki.openstreetmap.org/wiki/Key:shop), [Key:leisure](http://wiki.openstreetmap.org/wiki/Key:leisure)
+*OpenStreetMap Wiki: [Key:amenity](http://wiki.openstreetmap.org/wiki/Key:amenity), [Key:tourism](http://wiki.openstreetmap.org/wiki/Key:tourism), [Key:shop](http://wiki.openstreetmap.org/wiki/Key:shop), [Key:leisure](http://wiki.openstreetmap.org/wiki/Key:leisure)*
 
 ### Simple point of interest
 
@@ -232,7 +232,7 @@ Universities are similar:
 
 ![](https://s3.amazonaws.com/f.cl.ly/items/102S1D1Z472x213M2b0Y/university.gif)
 
-OpenStreetMap Wiki: [Tag:amenity=school](http://wiki.openstreetmap.org/wiki/Tag:amenity%3Dschool), [Tag:building=school](http://wiki.openstreetmap.org/wiki/Tag:building%3Dschool), [Tag:amenity=university](http://wiki.openstreetmap.org/wiki/Tag:amenity%3Duniversity), [Tag:building=university](http://wiki.openstreetmap.org/wiki/Tag:building%3Duniversity), [Tag:amenity=college](http://wiki.openstreetmap.org/wiki/Tag:amenity%3Dcollege)
+*OpenStreetMap Wiki: [Tag:amenity=school](http://wiki.openstreetmap.org/wiki/Tag:amenity%3Dschool), [Tag:building=school](http://wiki.openstreetmap.org/wiki/Tag:building%3Dschool), [Tag:amenity=university](http://wiki.openstreetmap.org/wiki/Tag:amenity%3Duniversity), [Tag:building=university](http://wiki.openstreetmap.org/wiki/Tag:building%3Duniversity), [Tag:amenity=college](http://wiki.openstreetmap.org/wiki/Tag:amenity%3Dcollege)*
 
 ## Streams and Rivers
 
@@ -244,9 +244,9 @@ Islands in rivers are mapped as relations of `type=multipolygon`. Observe how on
 
 ![](https://s3.amazonaws.com/f.cl.ly/items/0t0A0q06130m0O1c3I19/multiriver.gif)
 
-Video: [Map a river island](http://cl.ly/0M0m2C2t2T3g)
+*Video: [Map a river island](http://cl.ly/0M0m2C2t2T3g)*
 
-OpenStreetMap Wiki: [Tag:waterway=river](http://wiki.openstreetmap.org/wiki/Tag:waterway%3Driver)
+*OpenStreetMap Wiki: [Tag:waterway=river](http://wiki.openstreetmap.org/wiki/Tag:waterway%3Driver)*
 
 ## Coming soon
 
