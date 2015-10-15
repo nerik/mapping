@@ -2,6 +2,8 @@ Welcome to the home of Mapbox's mapping activities on [OpenStreetMap](http://ope
 
 ## Getting started guides
 
+![screenshot 2015-10-15 14 31 12](https://cloud.githubusercontent.com/assets/126868/10509259/69cc3960-7349-11e5-8444-93ff4b74398f.png)
+
 The Mapbox team's guides to getting started with OpenStreetMap:
 
 - [Mapping with OpenStreetMap](https://github.com/mapbox/mapping/wiki/Mapping-with-OpenStreetMap)
