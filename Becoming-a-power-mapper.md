@@ -2,8 +2,7 @@
 
 ![screenshot 2015-10-15 14 33 59](https://cloud.githubusercontent.com/assets/126868/10509319/cb751e02-7349-11e5-87c4-7c97146974df.png)
 
-Breezed through the other guides? Lets go to the next level!
-
+These advanced topics will allow you to take your mapping skills to the next level.
 **JOSM**
 - [JOSM shortcuts](JOSM shortcuts) for faster access to tools
 - [Saving and loading a JOSM session](https://github.com/mapbox/mapping/wiki/Saving-and-loading-a-JOSM-session)
