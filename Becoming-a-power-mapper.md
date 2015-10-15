@@ -7,7 +7,7 @@ Breezed through the other guides? Lets go to the next level!
 **JOSM**
 - [JOSM shortcuts](JOSM shortcuts) for faster access to tools
 - [Saving and loading a JOSM session](https://github.com/mapbox/mapping/wiki/Saving-and-loading-a-JOSM-session)
-- [Customizing advances JOSM settings]()
+- [Advanced JOSM customization](https://gist.github.com/planemad/517401649204c474c906)
 
 **Reference**
 - [Advanced mapping guide WIP](Advanced mapping guide) for detailed map features
