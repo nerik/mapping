@@ -4,8 +4,11 @@
 
 Breezed through the other guides? Lets go to the next level!
 
+**JOSM**
 - [JOSM shortcuts](JOSM shortcuts) for faster access to tools
-- [Advanced mapping guide WIP](Advanced mapping guide) for detailed map features
 - [Saving and loading a JOSM session](https://github.com/mapbox/mapping/wiki/Saving-and-loading-a-JOSM-session)
-- [Working with to-fix](Working with to-fix)
+- [Customizing advances JOSM settings]()
+
+**Reference**
+- [Advanced mapping guide WIP](Advanced mapping guide) for detailed map features
 - [Useful OSM resources](Useful OSM Resources)
