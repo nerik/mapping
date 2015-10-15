@@ -1,6 +1,8 @@
 [« Mapping with OpenStreetMap](https://github.com/mapbox/mapping/wiki/Mapping-with-OpenStreetMap)
 
-These pages will allow you to get the most out of JOSM and become a power mapper on OSM.
+![screenshot 2015-10-15 14 33 59](https://cloud.githubusercontent.com/assets/126868/10509319/cb751e02-7349-11e5-87c4-7c97146974df.png)
+
+Breezed through the other guides? Lets go to the next level!
 
 - [JOSM shortcuts](JOSM shortcuts) for faster access to tools
 - [Advanced mapping guide WIP](Advanced mapping guide) for detailed map features
