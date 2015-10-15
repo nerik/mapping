@@ -51,15 +51,15 @@ Once JOSM is up and running it looks like this. Go find the preferences dialog, 
 
 ### 4. Enable expert mode
 
-Open the preferences dialog and enable "expert mode".
+Open the preferences dialog and enable "Expert mode".
 
-![screenshot from 2014-10-22 16 55 02](https://cloud.githubusercontent.com/assets/1152236/4744166/b9266700-5a2d-11e4-9f96-ecd7ec8b4faa.png)
+![screen shot 2015-10-15 at 2 19 34 pm](https://cloud.githubusercontent.com/assets/353700/10509019/201ba324-7348-11e5-953f-c179e6e07ad8.png)
 
 ### 5. Add user and password
 
 Now it's time to connect to OpenStreetMap. Add the user name and password of the account you just created on OpenStreetMap to JOSM.
 
-![screenshot from 2014-10-22 16 52 05](https://cloud.githubusercontent.com/assets/1152236/4744256/bd2ced6e-5a2e-11e4-9db2-bcd198c082a6.png)
+![screen shot 2015-10-15 at 2 18 50 pm](https://cloud.githubusercontent.com/assets/353700/10509020/201cab02-7348-11e5-97c5-69fb726d11a9.png)
 
 Now you should be able to retrieve data from OpenStreetMap by clicking on the button with the green down error in the top left:
 
@@ -69,7 +69,7 @@ Now you should be able to retrieve data from OpenStreetMap by clicking on the bu
 
 Remote control allows you to launch JOSM directly from the map on OpenStreetMap.org. To enable Remote Control, check this box in the settings:
 
-![screenshot 2015-05-08 15 37 58](https://cloud.githubusercontent.com/assets/126868/7534456/69ced7c6-f598-11e4-8a57-d0bf2df339d9.png)
+![screen shot 2015-10-15 at 2 14 07 pm](https://cloud.githubusercontent.com/assets/353700/10508886/5ff266a0-7347-11e5-9b9a-0cda2bbcf05c.png)
 
 Also check the 'Download objects to a new layer' option. Now you should be able to retrieve data directly starting on OpenStreetMap.org like this:
 
